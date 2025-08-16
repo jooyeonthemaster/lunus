@@ -1,0 +1,8 @@
+# 카카오 지도 API 키
+NEXT_PUBLIC_KAKAO_MAP_API_KEY=6236b8be693b7c8292581a18b5d6f782
+
+# 사용법:
+# 1. 카카오 개발자 콘솔(https://developers.kakao.com/)에서 앱 생성
+# 2. 웹 플랫폼 추가 및 도메인 등록 (localhost:3000 포함)
+# 3. JavaScript 키를 복사해서 위의 your_kakao_map_api_key_here 부분에 붙여넣기
+# 4. 이 파일의 내용을 .env.local 파일에 복사
