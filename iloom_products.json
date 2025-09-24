@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "name": "일룸 소프토 패브릭 침대 (Q/K)",
+    "imageUrl": "https://www.iloom.com/upload/product/20240710/_d4857ee3-6bf2-4a93-bcfa-6ab4e023193f.jpg",
+    "price": 1090000,
+    "priceText": "1,090,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 2,
+    "name": "일룸 토스티  호텔 침대 (Q/K)",
+    "imageUrl": "https://www.iloom.com/upload/product/20250519/_4e0bc7f6-cdda-4432-b5c7-4d4a776ce2f5.jpg",
+    "price": 1090000,
+    "priceText": "1,090,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 3,
+    "name": "일룸 모니스W 3단 수납장 800폭 (도어 미포함)",
+    "imageUrl": "https://www.iloom.com/upload/product/20241024/_d5ee07de-6fe5-40bf-b899-07b4a2601ce5.jpg",
+    "price": 1090000,
+    "priceText": "1,090,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 4,
+    "name": "일룸 쿠시노 저상형침대(SS,인조가죽)-데이베드형",
+    "imageUrl": "https://www.iloom.com/upload/product/20221229/_8ba63cc7-95d1-47ef-ba7d-536981169c9f.jpg",
+    "price": 1090000,
+    "priceText": "1,090,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 5,
+    "name": "일룸 쿠시노 저상형 패밀리침대(Q+S)",
+    "imageUrl": "https://www.iloom.com/upload/product/20220413/_1c0e758f-d51b-4ded-a1a7-2b94a7c04c71.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 6,
+    "name": "일룸 쿠시노 저상형침대(SS,인조가죽)-데이베드형",
+    "imageUrl": "https://www.iloom.com/upload/product/20221229/_8ba63cc7-95d1-47ef-ba7d-536981169c9f.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 7,
+    "name": "일룸 쿠시노 저상형침대(SS,인조가죽)-범퍼형",
+    "imageUrl": "https://www.iloom.com/upload/product/20250519/_dbc47ac2-cfc5-460d-81bd-11b66c190569.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 8,
+    "name": "일룸 다나 모션베드 캐주얼(라텍스,책상형)",
+    "imageUrl": "https://www.iloom.com/upload/product/20191210/_788baef8-ff5d-4c24-a503-1e687e75489e.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 9,
+    "name": "일룸 쿠시노 저상형침대(S,인조가죽)-데이베드형",
+    "imageUrl": "https://www.iloom.com/upload/product/20220718/_c6ae3782-c8da-4f69-8c7f-8ae439949a32.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 10,
+    "name": "일룸 쿠시노 저상형침대(Q)",
+    "imageUrl": "https://www.iloom.com/upload/product/20230531/_6603cff6-a48a-4b9e-818d-35ab1b346a9b.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 11,
+    "name": "일룸 쿠시노 저상형침대(SS)",
+    "imageUrl": "https://www.iloom.com/upload/product/20220413/_b27ab175-cdd3-4baa-8c33-7a4d16351381.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 12,
+    "name": "일룸 쿠시노 패밀리침대(Q+S)",
+    "imageUrl": "https://www.iloom.com/upload/product/20240716/_13d30bf9-83b9-4337-a5a3-4aee7db9e6e2.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 13,
+    "name": "일룸 쿠시노 침대(SS)",
+    "imageUrl": "https://www.iloom.com/upload/product/20230526/_f12bf070-22e5-4793-adab-745caa31af7e.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 14,
+    "name": "일룸 쿠시노 침대가드/풋보드 1500폭",
+    "imageUrl": "https://www.iloom.com/upload/product/20221212/_17bad765-0c6b-41d1-ab53-6d2d07d4d3d2.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 15,
+    "name": "일룸 바젤 심플리화이트 침대(Q)",
+    "imageUrl": "https://www.iloom.com/upload/product/20250519/_bf2d8c5e-c32b-409b-9bef-e7a7032887cb.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 16,
+    "name": "일룸 미엘 미니옷장 800폭",
+    "imageUrl": "https://www.iloom.com/upload/product/20200713/_b1239b10-f386-466e-862b-caa513a1c28a.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 17,
+    "name": "일룸 쿠시노 침대(S)",
+    "imageUrl": "https://www.iloom.com/upload/product/20220413/_2ef1d544-72b9-4611-9d20-eafb440f8203.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 18,
+    "name": "일룸 다나 모션베드 캐주얼(폼,책상형)",
+    "imageUrl": "https://www.iloom.com/upload/product/20191125/_fb98ce7a-abc8-44f5-9b42-ef948e585c41.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 19,
+    "name": "일룸 모니스W 3단 수납장 800폭 (도어 미포함)",
+    "imageUrl": "https://www.iloom.com/upload/product/20241024/_d5ee07de-6fe5-40bf-b899-07b4a2601ce5.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 20,
+    "name": "일룸 미엘 수납 화장대 800폭",
+    "imageUrl": "https://www.iloom.com/upload/product/20241128/_ef439760-abd5-4849-bd1b-8177645e2dc2.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 21,
+    "name": "일룸 쿠시노 저상형침대(S)",
+    "imageUrl": "https://www.iloom.com/upload/product/20240716/_d9c79bd4-b394-48b5-82f5-4e85311a911f.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 22,
+    "name": "일룸 쿠시노 저상형침대(S,인조가죽)-범퍼형",
+    "imageUrl": "https://www.iloom.com/upload/product/20221212/_3b9b2eec-8030-40a5-b323-78d218eb2081.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  },
+  {
+    "id": 23,
+    "name": "일룸 쿠시노 패밀리침대(Q+SS)",
+    "imageUrl": "https://www.iloom.com/upload/product/20250519/_c0d4e329-b103-43dc-8997-45f0039db258.jpg",
+    "price": 1270000,
+    "priceText": "1,270,000 원",
+    "category": "침실",
+    "brand": "일룸"
+  }
+]

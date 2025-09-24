@@ -6,12 +6,20 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "scrape:images": "node scripts/scrape-images.cjs",
+    "scrape:iloom": "node scripts/scrape-iloom.js"
   },
   "dependencies": {
     "next": "15.4.6",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "cheerio": "^1.0.0",
+    "sanitize-filename": "^1.6.3",
+    "playwright": "^1.40.0",
+    "@supabase/supabase-js": "^2.39.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1"
   },
   "devDependencies": {
     "@types/node": "^20",

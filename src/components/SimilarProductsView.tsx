@@ -1,6 +1,7 @@
 "use client";
 
 import Image from "next/image";
+import { useMemo, useState } from "react";
 import type { Product } from "@/data/products";
 import BottomNavigation from "@/components/BottomNavigation";
 
@@ -23,6 +24,17 @@ export default function SimilarProductsView({
   onProductClick,
   onCartClick
 }: SimilarProductsViewProps) {
+  const categoryOptions = useMemo(() => {
+    const set = new Set<string>([likedProduct.category, ...similarProducts.map(p => p.category)]);
+    return ["전체", ...Array.from(set)];
+  }, [likedProduct.category, similarProducts]);
+
+  const [selectedCategory, setSelectedCategory] = useState<string>("전체");
+
+  const filteredProducts = useMemo(() => {
+    if (selectedCategory === "전체") return similarProducts;
+    return similarProducts.filter(p => p.category === selectedCategory);
+  }, [similarProducts, selectedCategory]);
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
@@ -74,27 +86,25 @@ export default function SimilarProductsView({
               <div className="mb-6 lg:mb-8">
                 <h3 className="text-lg lg:text-xl font-semibold mb-4 lg:mb-6">비슷한 제품들</h3>
                 <div className="flex gap-2 lg:gap-3 overflow-x-auto scrollbar-hide pb-2">
-                  <button className="flex-shrink-0 px-4 lg:px-6 py-2 lg:py-3 rounded-full text-sm lg:text-base font-medium bg-gray-800 text-white shadow-md whitespace-nowrap">
-                    {likedProduct.category}
-                  </button>
-                  <button className="flex-shrink-0 px-4 lg:px-6 py-2 lg:py-3 rounded-full text-sm lg:text-base font-medium bg-gray-100 text-gray-600 hover:bg-gray-200 whitespace-nowrap">
-                    침대
-                  </button>
-                  <button className="flex-shrink-0 px-4 lg:px-6 py-2 lg:py-3 rounded-full text-sm lg:text-base font-medium bg-gray-100 text-gray-600 hover:bg-gray-200 whitespace-nowrap">
-                    매트리스
-                  </button>
-                  <button className="flex-shrink-0 px-4 lg:px-6 py-2 lg:py-3 rounded-full text-sm lg:text-base font-medium bg-gray-100 text-gray-600 hover:bg-gray-200 whitespace-nowrap">
-                    식탁
-                  </button>
-                  <button className="flex-shrink-0 px-4 lg:px-6 py-2 lg:py-3 rounded-full text-sm lg:text-base font-medium bg-gray-100 text-gray-600 hover:bg-gray-200 whitespace-nowrap">
-                    거실장
-                  </button>
+                  {categoryOptions.map((cat) => (
+                    <button
+                      key={cat}
+                      onClick={() => setSelectedCategory(cat)}
+                      className={`flex-shrink-0 px-4 lg:px-6 py-2 lg:py-3 rounded-full text-sm lg:text-base font-medium whitespace-nowrap ${
+                        selectedCategory === cat
+                          ? "bg-gray-800 text-white shadow-md"
+                          : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                      }`}
+                    >
+                      {cat}
+                    </button>
+                  ))}
                 </div>
               </div>
 
               {/* Similar Products Grid - 반응형: 모바일 2열, 태블릿 3열, PC 3-4열 */}
               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-4 lg:gap-6 mb-8">
-                {similarProducts.map((product) => (
+                {filteredProducts.map((product) => (
                   <div 
                     key={product.id} 
                     className="bg-white hover:shadow-lg transition-shadow rounded-lg overflow-hidden cursor-pointer"

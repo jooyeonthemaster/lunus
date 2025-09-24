@@ -6,3 +6,21 @@ NEXT_PUBLIC_KAKAO_MAP_API_KEY=6236b8be693b7c8292581a18b5d6f782
 # 2. 웹 플랫폼 추가 및 도메인 등록 (localhost:3000 포함)
 # 3. JavaScript 키를 복사해서 위의 your_kakao_map_api_key_here 부분에 붙여넣기
 # 4. 이 파일의 내용을 .env.local 파일에 복사
+
+
+# Supabase (브라우저 공개 가능 값)
+NEXT_PUBLIC_SUPABASE_URL=https://ihpzkseqxtmnmbdsvdvo.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlocHprc2VxeHRtbm1iZHN2ZHZvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg3MDM5NTcsImV4cCI6MjA3NDI3OTk1N30.iEapYQjgrf6uzuTLSkanpK1ERooqEy1XqFnerdoEqIo
+
+# Supabase (서버 전용, 절대 공개 금지 – 실제 값은 콘솔에서 복사해 교체)
+SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlocHprc2VxeHRtbm1iZHN2ZHZvIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1ODcwMzk1NywiZXhwIjoyMDc0Mjc5OTU3fQ.508XBD7gyuRP64mb0y5QXVGcV6pQI6TlMm4rCFBPmg4
+# (선택) 직접 DB 연결이 필요할 때만 사용
+# DATABASE_URL=postgres://postgres:YOUR_DB_PASSWORD@db.xxxxx.supabase.co:5432/postgres
+
+# Gemini API 키 (임베딩/분석용) – 콘솔에서 발급 후 교체
+GEMINI_API_KEY=AIzaSyCln3-C_bbPWQZq3UE_yY8PSQmyPuywAgo
+
+
+
+
+
