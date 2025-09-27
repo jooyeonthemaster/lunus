@@ -3,6 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "scrape:enex": "node scripts/enex-paginated.cjs",
+    "organize:enex": "node scripts/organize-enex.cjs",
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
@@ -31,7 +33,9 @@
     "scrape:dongsuh": "node scripts/dongsuh-paginated.cjs",
     "organize:dongsuh": "node scripts/organize-dongsuh.cjs",
     "scrape:wooami": "node scripts/wooami-paginated.cjs",
-    "organize:wooami": "node scripts/organize-wooami.cjs"
+    "organize:wooami": "node scripts/organize-wooami.cjs",
+    "scrape:flatpoint": "node scripts/flatpoint-paginated.cjs",
+    "organize:flatpoint": "node scripts/organize-flatpoint.cjs"
   },
   "dependencies": {
     "next": "15.4.6",
