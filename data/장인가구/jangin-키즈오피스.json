@@ -1,0 +1,44 @@
+[
+  {
+    "title": "알렉스 시리즈",
+    "price": 1043000,
+    "productUrl": "https://www.jangin.com/view.php?cate=4&idx=590",
+    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+  },
+  {
+    "title": "코멜리 시리즈",
+    "price": 887000,
+    "productUrl": "https://www.jangin.com/view.php?cate=4&idx=332",
+    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+  },
+  {
+    "title": "하비 시리즈",
+    "price": 1083000,
+    "productUrl": "https://www.jangin.com/view.php?cate=4&idx=273",
+    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+  },
+  {
+    "title": "아몬드 각도조절책상",
+    "price": 612000,
+    "productUrl": "https://www.jangin.com/view.php?cate=4&idx=270",
+    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+  },
+  {
+    "title": "아몬드 시리즈",
+    "price": 774000,
+    "productUrl": "https://www.jangin.com/view.php?cate=4&idx=269",
+    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+  },
+  {
+    "title": "율 시리즈",
+    "price": 1217000,
+    "productUrl": "https://www.jangin.com/view.php?cate=4&idx=267",
+    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+  },
+  {
+    "title": "코코모 시리즈",
+    "price": 693000,
+    "productUrl": "https://www.jangin.com/view.php?cate=4&idx=264",
+    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+  }
+]

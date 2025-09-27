@@ -12,6 +12,8 @@ interface ScrapeResult {
 export default function ScrapePage() {
   const [loading, setLoading] = useState(false);
   const [results, setResults] = useState<ScrapeResult | null>(null);
+  const [allProducts, setAllProducts] = useState<any[] | null>(null);
+  const [productFilter, setProductFilter] = useState<'전체' | '소파' | '옷장' | '의자' | '침대'>('전체');
   const [selectedCategory, setSelectedCategory] = useState('침실');
 
   const categories = ['침실', '거실', '주방', '서재', '아이방'];
@@ -124,6 +126,24 @@ export default function ScrapePage() {
             >
               🔧 수정된 크롤러 실행
             </button>
+            <button
+              onClick={async () => {
+                setLoading(true);
+                try {
+                  const res = await fetch('/api/products/all');
+                  const data = await res.json();
+                  setAllProducts(data.products || []);
+                } catch (e) {
+                  console.error(e);
+                  setAllProducts([]);
+                }
+                setLoading(false);
+              }}
+              disabled={loading}
+              className="px-6 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 disabled:bg-gray-300"
+            >
+              📦 로컬 data 전체 상품 보기
+            </button>
           </div>
         </div>
         
@@ -221,6 +241,51 @@ export default function ScrapePage() {
                 </div>
               </div>
             )}
+          </div>
+        )}
+
+        {allProducts && (
+          <div className="bg-white rounded-lg shadow-md p-6 mt-6 border-l-4 border-blue-500">
+            <h2 className="text-xl font-semibold mb-4">로컬 data 전체 상품</h2>
+            {/* 카테고리 필터 버튼 그룹 */}
+            <div className="flex gap-2 lg:gap-3 overflow-x-auto scrollbar-hide pb-2 mb-4">
+              {(['전체','소파','옷장','의자','침대'] as const).map((label) => (
+                <button
+                  key={label}
+                  onClick={() => setProductFilter(label)}
+                  className={`flex-shrink-0 px-4 lg:px-6 py-2 lg:py-3 rounded-full text-sm lg:text-base font-medium whitespace-nowrap transition-colors ${productFilter === label ? 'bg-gray-800 text-white shadow-md' : 'bg-gray-100 text-gray-600 hover:bg-gray-200'}`}
+                >
+                  {label}
+                </button>
+              ))}
+            </div>
+            {(() => {
+              const filtered = (allProducts || []).filter((p) => {
+                if (productFilter === '전체') return true;
+                const t = (p.title || '') as string;
+                return t.includes(productFilter);
+              });
+              return (
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 max-h-[36rem] overflow-y-auto">
+                  {filtered.map((p, idx) => (
+                <div key={idx} className="border rounded-lg p-3 bg-white">
+                  {p.imageUrl ? (
+                    <img src={p.imageUrl} alt={p.title || ''} className="w-full h-32 object-cover rounded mb-2" />
+                  ) : (
+                    <div className="w-full h-32 bg-gray-200 rounded mb-2" />
+                  )}
+                  <p className="text-sm font-medium line-clamp-2" title={p.title || ''}>{p.title || '제목 없음'}</p>
+                  <p className="text-sm text-gray-600">{p.price != null ? `${p.price.toLocaleString()}원` : '-'}</p>
+                  {p.productUrl && (
+                    <a href={p.productUrl} target="_blank" rel="noopener noreferrer" className="text-xs text-blue-500 hover:underline">
+                      제품 보기 →
+                    </a>
+                  )}
+                </div>
+                  ))}
+                </div>
+              );
+            })()}
           </div>
         )}
       </div>

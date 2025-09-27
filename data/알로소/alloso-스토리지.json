@@ -1,0 +1,26 @@
+[
+  {
+    "title": "리가 책장",
+    "price": 6490000,
+    "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ001C",
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_8f8b8db4-736a-4ffe-8951-484166330648_S500.png"
+  },
+  {
+    "title": "리가 AV장",
+    "price": 4990000,
+    "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ001B",
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_b4e535e7-fbe8-4b11-89e1-4d43dd15ec69_S500.png"
+  },
+  {
+    "title": "리가 캐비닛",
+    "price": 4290000,
+    "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ001A",
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_48de8c8d-0a23-42a1-abd4-af82ead655cb_S500.png"
+  },
+  {
+    "title": "티암 사이드보드",
+    "price": 930000,
+    "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ003A",
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20200317/_38e5daf6-ea2c-4021-b468-b6e93e5c408a_S500.png"
+  }
+]

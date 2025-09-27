@@ -8,13 +8,14 @@ import SimilarProductsView from "@/components/SimilarProductsView";
 import PhotoSearchView from "@/components/PhotoSearchView";
 import MapView from "@/components/MapView";
 import AllProductsView from "@/components/AllProductsView";
+import AllCrawledProductsView from "@/components/AllCrawledProductsView";
 import ProductDetailView from "@/components/ProductDetailView";
 import BottomNavigation from "@/components/BottomNavigation";
 
 export default function Home() {
   const [currentProduct, setCurrentProduct] = useState<Product | null>(null);
   const [selectedCategory, setSelectedCategory] = useState("전체");
-  const [currentView, setCurrentView] = useState<"main" | "similar" | "photo-search" | "map" | "all-products" | "product-detail">("main");
+  const [currentView, setCurrentView] = useState<"main" | "similar" | "photo-search" | "map" | "all-products" | "crawled" | "product-detail">("main");
   const [likedProduct, setLikedProduct] = useState<Product | null>(null);
   const [similarProducts, setSimilarProducts] = useState<Product[]>([]);
   const [uploadedPhoto, setUploadedPhoto] = useState<File | null>(null);
@@ -64,6 +65,10 @@ export default function Home() {
 
   const handleAllProducts = () => {
     setCurrentView("all-products");
+  };
+
+  const handleCrawledProducts = () => {
+    setCurrentView("crawled");
   };
 
   const handlePhotoSelected = (file: File) => {
@@ -123,6 +128,17 @@ export default function Home() {
         onSearchClick={handlePhotoSearch}
         onMapClick={handleMapView}
         onProductClick={handleProductClick}
+        onCartClick={handleAllProducts}
+      />
+    );
+  }
+
+  if (currentView === "crawled") {
+    return (
+      <AllCrawledProductsView
+        onBackToMain={handleBackToMain}
+        onSearchClick={handlePhotoSearch}
+        onMapClick={handleMapView}
         onCartClick={handleAllProducts}
       />
     );
@@ -265,7 +281,7 @@ export default function Home() {
         currentView={currentView === "product-detail" ? "main" : currentView}
         onSearchClick={handlePhotoSearch}
         onMapClick={handleMapView}
-        onCartClick={handleAllProducts}
+        onCartClick={handleCrawledProducts}
       />
     </div>
   );

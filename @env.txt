@@ -24,3 +24,11 @@ GEMINI_API_KEY=AIzaSyCln3-C_bbPWQZq3UE_yY8PSQmyPuywAgo
 
 
 
+
+
+# Hanssem crawling configuration
+# Provide categories as JSON array, e.g.
+# HANSSEM_CATEGORIES=[{"key":"침대","url":"https://mall.hanssem.com/store/category?c=bed"},{"key":"매트리스","url":"https://mall.hanssem.com/store/category?c=mattress"}]
+HANSSEM_CATEGORIES=[{"key":"침실","url":"https://store.hanssem.com/category/20070"},{"key":"거실","url":"https://store.hanssem.com/category/20071"},{"key":"다이닝","url":"https://store.hanssem.com/category/20072"},{"key":"옷장, 드레스룸","url":"https://store.hanssem.com/category/20073"},{"key":"키즈룸","url":"https://store.hanssem.com/category/20074"},{"key":"홈오피스","url":"https://store.hanssem.com/category/20076"}]
+HANSSEM_MAX_PAGES=3
+HANSSEM_PER_CATEGORY_LIMIT=120
