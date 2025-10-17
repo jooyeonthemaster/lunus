@@ -1,0 +1,100 @@
+{
+  "source": "flatpoint",
+  "brand": "플랫포인트",
+  "category": "테이블",
+  "productUrl": "https://flatpoint.co.kr/product/salito-table/7060/category/49/display/1/",
+  "productCode": "SALITO TABLE",
+  "productName": "SALITO TABLE",
+  "price": "240,000원",
+  "mainImage": "",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n            <div class=\"pdp-detail\">\n<!-- 2025/08/08 10:20 리뷰추가 -->\n<!-- 디자인 -->\n<div class=\"pdp-section container\" id=\"pdp-tab-01\">\n<!--b2b 안내\n\t\t<div class=\"row pa-50\">\n\t\t\t<div class=\"col-12 m-col-12 pt-10\">\n\t\t\t\t<div class=\"font-1414 pb-20\">\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t\t\t<div class=\"font-1818 kr pb-40\"> 살리토 시리즈는 B2B 구매시 20% 할인이 적용 됩니다.\n\t\t\t\t\tB2B 관련 문의는 <a style=\"font-weight:bold;\">채널톡</a>, <a href=\"mailto:b2b@flatpoint.co.kr\" style=\"font-weight:bold;\" target=\"_black\">✉️b2b@flatpoint.co.kr</a> 혹은 <a style=\"font-weight:bold;\">고객센터</a>로 연락주시면 상세히 안내 받으실 수 있습니다.\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div>-->\n        ",
+  "detailCSS": "\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n\n.crema-hide.crema-applied { display : none !important; }\n\n\n        .flatpoint #wrap{\n            max-width: 100%;\n            width: 100%;\n        } \n        .flatpoint #footer .footer-info,\n        .flatpoint #footer .footer-bottom{\n            display: none;\n        }\n    \n\n  [pandassi-banner-group]:not([pandassi-banner-group=\"ready\"]) {\n    display: none !important;\n  }\n\n",
+  "cssLinks": [
+    "https://assets5.cre.ma/widgets/assets/pc-c9334d1331a67b88a5bbb28c4c16b01ef5184ab1c165983eb0e8207debdf3b2d.css",
+    "https://use.typekit.net/bqg5yxi.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/neo/css/SpoqaHanSans-kr.min.css",
+    "https://flatpoint.co.kr/drmvsn/css/style.css",
+    "https://flatpoint.co.kr/drmvsn/css/swiper-bundle.min.css",
+    "https://img.echosting.cafe24.com/editors/froala/css/froala_style_ec.min.css?vs=2510131432",
+    "https://flatpoint.co.kr/ind-script/optimizer.php?filename=ndIxDsIwDAXQvcrKOQwILgASBwBxACd1adQkjpxEgttTYIAORZDV9vv2YOjZE6zWAlH4IuhBKHERQ2BSgk44ZDDsPQc1FhbwyzyZJrEr2XJoNF8rYcm5dqnDG0kdzagdVVKOjbOBGo0hzO53VsPZRjQDHD_z9ugotCiwUVu1hM5hjtYMczEYI5x6jtOQw_OocaYtJldIzSjtF7d79KdwLKsXE4osuVZrx2b4D7__8g4&type=css&k=322d0c2a6c2ac935cdb667883a70361b51e0668d&t=1726130154",
+    "https://flatpoint.co.kr/ind-script/optimizer_user.php?filename=ncwxEkIhDATQXmw9x7ZeB0n8MCaQIcHzC1ew2NliZx_qUAaXtJyn4y05bLQesPWSVlINFThxIvZ2dfin9Sdo6tc7ijuC1faJYWQnN-LITe57e-Av_Kg6aMk25-4SqNlr5OugPw&type=css&k=f87b08facdc39347dd6f666055b5ac1ad03bd7a0&t=1754531472&user=T",
+    "https://app4you.cafe24.com/SmartPopup/assets/css/front.css?vs=202505201010",
+    "https://app4you.cafe24.com/SmartPopup/assets/uipack/slick/1.8.1/css/smart-popup.slick.css?vs=202505201010"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms; transform: translate3d(-1457.5px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transform: translate3d(0px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms;"
+    }
+  ],
+  "scrapedAt": "2025-10-16T17:56:50.468Z"
+}

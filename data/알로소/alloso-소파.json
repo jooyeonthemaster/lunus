@@ -3,270 +3,495 @@
     "title": "보눔 오픈베이스 1인",
     "price": 1450000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB0201K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_0b94bb3b-347b-45be-8324-44b7e874e1e1_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_0b94bb3b-347b-45be-8324-44b7e874e1e1_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_c8ace0a5-f734-4894-bb49-eae0ce0283f3.jpg",
+    "detailText1": "보눔 1인 오픈베이스는 소파 하부가 오픈되어있는 높은 다리형 구성입니다. 철제 프레임 다리는 미니멀한 보눔 디자인에 존재감을 더하고 공간을 넓어보이게 합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200316/_96f442e8-3e95-4cfb-bb21-5fa8a55aefbe.jpg",
+    "detailText2": "시간이 흘러도 변치 않는 가치를 담은 아늑한 공간, 보눔",
+    "scrapedAt": "2025-10-13T16:38:05.076Z"
   },
   {
     "title": "보눔 오픈베이스 3인",
     "price": 3450000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB101K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_031e4cfc-dce2-4c2a-b146-d22aad53b435_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_031e4cfc-dce2-4c2a-b146-d22aad53b435_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_7c736496-050a-45eb-8fd2-bb73286453e8.jpg",
+    "detailText1": "보눔 3인 오픈베이스는 효율적인 공간 활용을 위해 흔히 볼 수 없던 사이즈의 옵션을 제공합니다. 정면을 바라보고 앉을 때, 다리를 펴고 편안하게 기대어 안락한 휴식을 즐길 수 있으며 일반형 소파보다 무게감이 느껴지며 거실을 넓어보이게 합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200316/_96f442e8-3e95-4cfb-bb21-5fa8a55aefbe.jpg",
+    "detailText2": "시간이 흘러도 변치 않는 가치를 담은 아늑한 공간, 보눔",
+    "scrapedAt": "2025-10-13T16:38:09.749Z"
   },
   {
     "title": "사티 모션 1인",
     "price": 3090000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF3201K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_89a59173-cc22-4c86-bcb0-84114a8f1c69_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_89a59173-cc22-4c86-bcb0-84114a8f1c69_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_8f123cd1-be0b-415f-9ecd-7cc3d5ec4481.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20240227/_dcf59f86-55f5-492b-98d8-5ea545d2abac.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:38:13.731Z"
   },
   {
     "title": "사티 큐브 1인",
     "price": 1990000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSP3201K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_05642ace-e05b-4338-971b-3181215518a1_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_05642ace-e05b-4338-971b-3181215518a1_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_20515df8-b925-43ab-8288-116d448baefb.jpg",
+    "detailText1": "사티 큐브 1인은 사용자를 감싸 안아주는 듯한 형상을 따라 어깨 라인을 안정적으로 지지하여 편안한 착좌감을 선사합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_c1c607ed-7f07-42a5-93cd-22fe233c7258.jpg",
+    "detailText2": "나에게 꼭 맞는 거실 속 작은 방, 사티 큐브",
+    "scrapedAt": "2025-10-13T16:38:17.336Z"
   },
   {
     "title": "보눔 3인",
     "price": 3280000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB021K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_6592db4c-cf87-425d-a038-50d2c535596f_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_6592db4c-cf87-425d-a038-50d2c535596f_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_ba1463af-534d-46ab-95e5-56ccb7169b1d.jpg",
+    "detailText1": "보눔 3인은 군더더기 없이 심플하면서도 무게감이 느껴지는 고급스러운 공간을 연출합니다. 소파의 전체적인 비례감과 내추럴한 모서리 마감이 인테리어의 완성도를 높여줍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200316/_96f442e8-3e95-4cfb-bb21-5fa8a55aefbe.jpg",
+    "detailText2": "시간이 흘러도 변치 않는 가치를 담은 아늑한 공간, 보눔",
+    "scrapedAt": "2025-10-13T16:38:21.635Z"
   },
   {
     "title": "보눔 3인 터미널",
     "price": 3490000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB103K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_0e093f23-c740-46bb-8e9c-bb70327a52ba_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_0e093f23-c740-46bb-8e9c-bb70327a52ba_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_0666f37b-b688-4567-861e-3d56b67bdc5f.jpg",
+    "detailText1": "보눔 3인 터미널은 효율적인 공간 활용을 위해 흔히 볼 수 없던 사이즈의 옵션을 제공합니다. 정면을 바라보고 앉을 때, 다리를 펴고 편안하게 기대어 안락한 휴식을 즐길 수 있으며 일반형 소파보다 무게감이 느껴지며 거실을 넓어보이게 합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200316/_96f442e8-3e95-4cfb-bb21-5fa8a55aefbe.jpg",
+    "detailText2": "시간이 흘러도 변치 않는 가치를 담은 아늑한 공간, 보눔",
+    "scrapedAt": "2025-10-13T16:38:25.902Z"
   },
   {
     "title": "보눔 3인 라운지",
     "price": 3830000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB024K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_79ad0efa-81a1-4258-b9c8-ad9970b79e12_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_79ad0efa-81a1-4258-b9c8-ad9970b79e12_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_b05f9c46-2463-46c0-a03d-7d068c6bbb3b.jpg",
+    "detailText1": "보눔 3인 라운지는 흔히 볼 수 없던 사이즈의 카우치형 소파입니다. 정면을 바라보며 다리를 펴고 앉거나, 옆으로 누워도 안정적으로 몸을 받쳐주어 여유로운 휴식을 지원합니다. 사이즈 대비 충분한 착석 공간 덕분에 좁은 공간도 효율적으로 활용 가능합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200316/_96f442e8-3e95-4cfb-bb21-5fa8a55aefbe.jpg",
+    "detailText2": "시간이 흘러도 변치 않는 가치를 담은 아늑한 공간, 보눔",
+    "scrapedAt": "2025-10-13T16:38:30.134Z"
   },
   {
     "title": "보눔 4인 라운지",
     "price": 5190000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB026K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_ca57c995-3705-47e4-a9c3-b56413098726_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_ca57c995-3705-47e4-a9c3-b56413098726_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_e81a418e-4f8d-43d9-b608-6a1d4c45fe8c.jpg",
+    "detailText1": "보눔 4인 라운지는 효율적인 공간 활용을 위해 흔히 볼 수 없던 사이즈의 옵션을 제공합니다. 정면을 바라보고 앉을 때, 다리를 펴고 편안하게 기대어 안락한 휴식을 즐길 수 있으며 일반형 소파보다 무게감이 느껴지며 거실을 넓어보이게 합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200316/_96f442e8-3e95-4cfb-bb21-5fa8a55aefbe.jpg",
+    "detailText2": "시간이 흘러도 변치 않는 가치를 담은 아늑한 공간, 보눔",
+    "scrapedAt": "2025-10-13T16:38:33.985Z"
   },
   {
     "title": "사티 오토만",
     "price": 660000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB3204K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250904/_3fee4bac-8997-4949-8e19-5a865a053709_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250904/_3fee4bac-8997-4949-8e19-5a865a053709_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_5e2dba20-bd0f-4e8a-9afc-1e75c76a8e86.jpg",
+    "detailText1": "사티 오토만은 자연스럽게 앞으로 기울어져 있습니다. 소파에 기대어 다리를 쭉 펴고 오랜 시간 앉아도 무리가 가지 않는 기울기 각도까지 생각한 섬세한 디자인으로 더 깊이있는 휴식을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200310/_bd5bc7be-eeb3-415c-8003-ac2963c8bb9d.jpg",
+    "detailText2": "포근하게 나를 감싸 안아주는 거실 속 또 하나의 작은방, 사티",
+    "scrapedAt": "2025-10-13T16:38:38.671Z"
   },
   {
     "title": "사티 1인",
     "price": 2290000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB3201K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_fc0290a8-3c1c-4dac-b1a7-be3f6cccb79f_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_fc0290a8-3c1c-4dac-b1a7-be3f6cccb79f_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_f1fb4068-3323-41a3-a895-83ee71b05c3a.jpg",
+    "detailText1": "사티 1인은 사용자를 감싸 안아주는 듯한 형상을 따라",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200310/_bd5bc7be-eeb3-415c-8003-ac2963c8bb9d.jpg",
+    "detailText2": "높은 팔걸이가 시선을 감싸주어 온전한 집중의 시간을 가질 수 있습니다.",
+    "scrapedAt": "2025-10-13T16:38:43.386Z"
   },
   {
     "title": "사티 3인",
     "price": 3790000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB321K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_ded8bda1-b88e-4afa-b0a3-7215a6c5bc03_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_ded8bda1-b88e-4afa-b0a3-7215a6c5bc03_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_50b29403-903f-433b-afa6-987e64edf57e.jpg",
+    "detailText1": "사티 3인은 사용자를 감싸 안아주는 듯한 형상을 따라 높은 팔걸이가 시선을 감싸주어 아늑하고 포근한 감성을 느낄 수 있습니다. 2인 가족이 앉기에 넉넉한 너비와 착석 공간으로 거실 속 또 하나의 작은 공간을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200310/_bd5bc7be-eeb3-415c-8003-ac2963c8bb9d.jpg",
+    "detailText2": "포근하게 나를 감싸 안아주는 거실 속 또 하나의 작은방, 사티",
+    "scrapedAt": "2025-10-13T16:38:47.458Z"
   },
   {
     "title": "사티 3.5인",
     "price": 4690000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB323K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_3e106582-866e-48d0-ab42-a5a7445390d2_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_3e106582-866e-48d0-ab42-a5a7445390d2_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_60bb05c8-df6b-48bd-b65a-8a61e334ac02.jpg",
+    "detailText1": "사티 3.5인은 안정적인 외형과 쿠션의 볼륨감이 완벽한 조화를 이루어 보편적인 거실 공간에도 여유롭게 배치할 수 있어 절제된 감성이 강조된 휴식 공간을 연출합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200310/_bd5bc7be-eeb3-415c-8003-ac2963c8bb9d.jpg",
+    "detailText2": "포근하게 나를 감싸 안아주는 거실 속 또 하나의 작은방, 사티",
+    "scrapedAt": "2025-10-13T16:38:52.301Z"
   },
   {
     "title": "사티 4인",
     "price": 5090000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB322K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_adecb1f9-7534-4835-be08-ea1d8fd09040_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_adecb1f9-7534-4835-be08-ea1d8fd09040_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_66c6a1a9-9612-44fe-9cf4-4621738e59a2.jpg",
+    "detailText1": "사티 4인은 집의 무게중심이 될만큼 부피감이 느껴지는 사이즈입니다.높은 팔걸이에 비해 널찍한 착석 공간을 가져 여러 사람이 여유롭게 앉기에도 전혀 무리가 없습니다. 기다란 직사각형 실루엣이 안정적이면서도 새로운 분위기를 연출합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200310/_bd5bc7be-eeb3-415c-8003-ac2963c8bb9d.jpg",
+    "detailText2": "포근하게 나를 감싸 안아주는 거실 속 또 하나의 작은방, 사티",
+    "scrapedAt": "2025-10-13T16:38:57.027Z"
   },
   {
     "title": "바드 싱글 베드",
     "price": 2680000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB372X2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_1d1d4735-ee89-4e21-b36d-507cc9eb6c72_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_1d1d4735-ee89-4e21-b36d-507cc9eb6c72_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250806/_99644918-4e11-48ee-acb3-659e754a1917.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:39:01.364Z"
   },
   {
     "title": "바드 싱글 베드",
     "price": 3180000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB372V2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_5e1a4300-53dd-45c2-bf9e-b0cb753e8303_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_5e1a4300-53dd-45c2-bf9e-b0cb753e8303_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250806/_9aeda871-ed17-4d98-8427-18c4f5f1446e.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:39:05.526Z"
   },
   {
     "title": "바드 싱글 베드",
     "price": 2890000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB372S1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_f92e505c-5a3c-4b34-9025-a22f697adcf3_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_f92e505c-5a3c-4b34-9025-a22f697adcf3_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250806/_57dd6b0a-263b-4e09-9d23-1f2c244ae71c.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:39:10.096Z"
   },
   {
     "title": "바드 3인",
     "price": 4180000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB371X2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_e45fabd8-a71e-4baa-8b3e-dd4866f4efce_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_e45fabd8-a71e-4baa-8b3e-dd4866f4efce_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_6680dcaa-fb75-4f46-bbb2-c52bfeeacd85.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:39:14.080Z"
   },
   {
     "title": "바드 3인",
     "price": 4980000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB371V2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_017f5a90-c81c-42cf-a84b-dca71cd660ee_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_017f5a90-c81c-42cf-a84b-dca71cd660ee_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250806/_1701fe89-9567-4d9b-ae7b-5876b19bd4ad.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:39:18.076Z"
   },
   {
     "title": "바드 3인",
     "price": 4480000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB371S1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_10082054-9d50-495e-8a15-f325bf2a0211_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250806/_10082054-9d50-495e-8a15-f325bf2a0211_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250806/_cae4dd9a-f116-4bb5-8621-bd0be308d892.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:39:22.181Z"
   },
   {
     "title": "케렌시아 1인 5cm",
     "price": 1940000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSP232AK1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250813/_f4007270-fe6e-409b-bf65-13e28263e7ba_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250813/_f4007270-fe6e-409b-bf65-13e28263e7ba_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250813/_c9b22dfc-6eea-43ea-91ba-bb34dc4c17c5.png",
+    "detailText1": "낮고 포근한 매력의 알로소 시그니처, 케렌시아 특유의 라운드 실루엣을 고스란히 담아낸 1인 소파입니다.소파 옆, 창가, 비어 있는 벽면 등 원하는 공간에 배치하면,인테리어에 포인트가 되는 아트 오브제이자 혼자만의 시간에 집중할 수 있는 안락한 쉼터가 되어줍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250827/_04d94fd4-f56b-4eec-9992-1dfea5e529fc.jpg",
+    "detailText2": "낮고 포근한, 나를 위한 플레이 그라운드, 케렌시아 1인 소파",
+    "scrapedAt": "2025-10-13T16:39:26.794Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 4980000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321X1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_98af5d24-ce33-4ddf-b74f-3674a81c658d_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_98af5d24-ce33-4ddf-b74f-3674a81c658d_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_409ae70c-d55a-4b9f-bdb1-02b1cb47f3b8.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:39:31.107Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 5080000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321T",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_6be41de3-22db-430a-8d90-ff8751fa6ec0_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_6be41de3-22db-430a-8d90-ff8751fa6ec0_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_fc9350e4-b743-414e-9dcd-09b0f46809d0.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:39:34.966Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 5380000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321R",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_b5c5b91d-146d-42ed-a011-63e6cbba7d52_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_b5c5b91d-146d-42ed-a011-63e6cbba7d52_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_dcbfab11-c27b-460c-8fb2-a55c5aa7773b.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:39:39.799Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 5380000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321K1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_79d41683-c6e9-4d5d-8a8d-0c93b3fa5e20_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250902/_79d41683-c6e9-4d5d-8a8d-0c93b3fa5e20_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250902/_a74d4321-a48d-4aeb-b4d5-92fbc69e2af3.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:39:44.296Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 5580000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321JN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_1446ca35-5ab7-4b09-b021-f5acc4a69826_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_1446ca35-5ab7-4b09-b021-f5acc4a69826_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_be5687f2-d934-4c3b-ac23-e05c9ed7c1d4.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:39:48.449Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 6580000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321GN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_8a2533ac-d256-4e92-8984-f18a1b1f09b6_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_8a2533ac-d256-4e92-8984-f18a1b1f09b6_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_8a724e9b-8642-4543-aff9-a23ce6d1a36e.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:39:52.849Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 8380000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321CN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_3f297f6b-b3dc-44a3-b582-1941d4b04699_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_3f297f6b-b3dc-44a3-b582-1941d4b04699_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_dc4f2802-1ab2-4cbf-ba5e-38420918471e.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:39:56.987Z"
   },
   {
     "title": "사티 모션 3인",
     "price": 6180000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF321BN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_106b0b3c-bc2e-48a7-bdd0-2fb8622ba480_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_106b0b3c-bc2e-48a7-bdd0-2fb8622ba480_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_1f5082ee-0059-4524-b2e6-1b89f7b899f6.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_510a4e09-7b81-4d40-863c-01648e11af63.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:40:01.313Z"
   },
   {
     "title": "사티 모션 유닛",
     "price": 2540000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF3211T",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_f79fdc21-f54b-4e86-8b3b-5a26a6b39f62_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_f79fdc21-f54b-4e86-8b3b-5a26a6b39f62_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_1e20bf78-febd-4dcf-a68c-7dbba47bfac6.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_f7e289d1-db23-4884-bf1e-64296fdc5bdb.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:40:05.413Z"
   },
   {
     "title": "사티 모션 유닛",
     "price": 2790000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF3211JN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_41dc71a6-07bd-4d65-88b6-c2219de3bce2_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_41dc71a6-07bd-4d65-88b6-c2219de3bce2_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_e5c4f75b-4d03-4f5a-81df-3da7d823fa0a.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_a4864ec0-5ec6-4e60-94e6-9bd7193ce306.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:40:09.915Z"
   },
   {
     "title": "사티 모션 유닛",
     "price": 4190000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF3211HN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_e0ca9188-fe19-4202-8ab8-6c5a82dac044_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_e0ca9188-fe19-4202-8ab8-6c5a82dac044_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_bfb0ecf2-998f-427d-9c53-b50cbf7d57cd.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_ffe07e26-5619-4982-9d2e-be0c4370948a.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:40:14.293Z"
   },
   {
     "title": "사티 모션 유닛",
     "price": 3290000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF3211GN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_5d54f125-c85c-4f9b-b76f-24efe11dc76a_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_5d54f125-c85c-4f9b-b76f-24efe11dc76a_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_1f2aaf77-6bcb-457a-9a1e-4e0fc485ca92.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의  편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_7b7cf75b-7042-45b3-921f-076c1a769476.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:40:18.770Z"
   },
   {
     "title": "사티 모션 유닛",
     "price": 4190000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF3211CN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250813/_b8977ca5-1208-4a61-9355-62b15b5c4c15_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250813/_b8977ca5-1208-4a61-9355-62b15b5c4c15_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250813/_906fa55b-8e1e-49be-bde9-ae81997a1099.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_6e881a2a-5031-4ffb-b36d-2f19c31dc869.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:40:23.704Z"
   },
   {
     "title": "사티 모션 유닛",
     "price": 3090000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSF3211BN",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_f136476f-c259-4526-b026-fc24a282f7e9_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_f136476f-c259-4526-b026-fc24a282f7e9_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_bce397ac-d850-4982-b87d-388e5942d82a.jpg",
+    "detailText1": "사티의 아늑한 3면형 디자인에 리클라이너의 편안함을 더한 사티 모션은",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_c361eead-1cc5-4e29-ace7-c8dafd71df90.jpg",
+    "detailText2": "리클라이너의 새 지평을 여는 세상의 첫 “디자인 리클라이너\" 입니다.",
+    "scrapedAt": "2025-10-13T16:40:27.873Z"
   },
   {
     "title": "케렌시아 1인 5cm",
     "price": 1810000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSP232AS1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_9677cae7-0e0c-407f-8f4e-60aa21e0cdad_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_9677cae7-0e0c-407f-8f4e-60aa21e0cdad_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_0759b7a0-2272-4b61-9a4b-7aa2662adfc7.jpg",
+    "detailText1": "낮고 포근한 매력의 알로소 시그니처, 케렌시아 특유의 라운드 실루엣을 고스란히 담아낸 1인 소파입니다.소파 옆, 창가, 비어 있는 벽면 등 원하는 공간에 배치하면,인테리어에 포인트가 되는 아트 오브제이자 혼자만의 시간에 집중할 수 있는 안락한 쉼터가 되어줍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250827/_da9cd5a4-ddde-47b9-8a96-25f7f47ed5a0.jpg",
+    "detailText2": "낮고 포근한, 나를 위한 플레이 그라운드, 케렌시아 1인 소파",
+    "scrapedAt": "2025-10-13T16:40:32.400Z"
   },
   {
     "title": "케렌시아 1인 5cm",
     "price": 1810000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSP232AT",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_ef662b28-1160-4cc9-af18-779329c5f1e5_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_ef662b28-1160-4cc9-af18-779329c5f1e5_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_6d479e49-f156-4b14-a670-95a6251ee2ad.jpg",
+    "detailText1": "낮고 포근한 매력의 알로소 시그니처, 케렌시아 특유의 라운드 실루엣을 고스란히 담아낸 1인 소파입니다.소파 옆, 창가, 비어 있는 벽면 등 원하는 공간에 배치하면,인테리어에 포인트가 되는 아트 오브제이자 혼자만의 시간에 집중할 수 있는 안락한 쉼터가 되어줍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250827/_9155d65d-91d3-4143-90b3-3400bed22c34.jpg",
+    "detailText2": "낮고 포근한, 나를 위한 플레이 그라운드, 케렌시아 1인 소파",
+    "scrapedAt": "2025-10-13T16:40:36.029Z"
   },
   {
     "title": "케렌시아 1인 5cm",
     "price": 1680000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSP232AX1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_64d4e487-fad4-4e61-8032-8d579f3b695c_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_64d4e487-fad4-4e61-8032-8d579f3b695c_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_63555577-b07c-4506-9fdb-e1668b618912.jpg",
+    "detailText1": "낮고 포근한 매력의 알로소 시그니처, 케렌시아 특유의 라운드 실루엣을 고스란히 담아낸 1인 소파입니다.소파 옆, 창가, 비어 있는 벽면 등 원하는 공간에 배치하면,인테리어에 포인트가 되는 아트 오브제이자 혼자만의 시간에 집중할 수 있는 안락한 쉼터가 되어줍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250827/_f09922d4-8764-47b1-b248-d09d5b030882.jpg",
+    "detailText2": "낮고 포근한, 나를 위한 플레이 그라운드, 케렌시아 1인 소파",
+    "scrapedAt": "2025-10-13T16:40:40.766Z"
   },
   {
     "title": "케렌시아 1인 5cm",
     "price": 1940000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSP232AV2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_d8a96dcf-de06-4200-937d-c5b99f628dda_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250808/_d8a96dcf-de06-4200-937d-c5b99f628dda_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250808/_d2376fe8-d873-49bf-ae74-54b0452f9a2c.jpg",
+    "detailText1": "낮고 포근한 매력의 알로소 시그니처, 케렌시아 특유의 라운드 실루엣을 고스란히 담아낸 1인 소파입니다.소파 옆, 창가, 비어 있는 벽면 등 원하는 공간에 배치하면,인테리어에 포인트가 되는 아트 오브제이자 혼자만의 시간에 집중할 수 있는 안락한 쉼터가 되어줍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250827/_331784e2-27e7-40a1-8172-be9a4957ae85.jpg",
+    "detailText2": "낮고 포근한, 나를 위한 플레이 그라운드, 케렌시아 1인 소파",
+    "scrapedAt": "2025-10-13T16:40:44.647Z"
   },
   {
     "title": "바드 오토만",
     "price": 590000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB376X2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_e7baf5d5-633a-43fd-878d-19bad57a51ae_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_e7baf5d5-633a-43fd-878d-19bad57a51ae_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_482e6887-4ba3-42f5-adf3-9ced49eef1b0.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:40:49.457Z"
   },
   {
     "title": "바드 오토만",
     "price": 690000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB376V2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250730/_df4d4dd0-77c7-4bbc-8f8f-15c18ea9a814_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250730/_df4d4dd0-77c7-4bbc-8f8f-15c18ea9a814_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_d4425539-638b-4146-82a2-5040f2f107d6.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:40:53.837Z"
   },
   {
     "title": "바드 오토만",
     "price": 650000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB376S1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_6202c6b4-52aa-4889-b693-16388fd257f4_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_6202c6b4-52aa-4889-b693-16388fd257f4_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_8f3d603f-4c7d-461a-a327-3b9bbfb61e39.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:40:58.096Z"
   },
   {
     "title": "바드 데이베드",
     "price": 2180000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB374X2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_ca8ee377-8289-4e58-9523-d0f3b34b8c33_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_ca8ee377-8289-4e58-9523-d0f3b34b8c33_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_a32602ee-8d68-40f4-87f8-bb281b0f2a04.png",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:41:02.161Z"
   },
   {
     "title": "바드 데이베드",
     "price": 2590000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB374V2",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250730/_2386bde4-9d20-42e9-92bf-ea67a312adb6_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250730/_2386bde4-9d20-42e9-92bf-ea67a312adb6_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_0a0b08bf-de7c-4a4a-b9c3-68e3da9e35c4.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:41:07.309Z"
   },
   {
     "title": "바드 데이베드",
     "price": 2460000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSB374S1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_f7c9520c-3bce-4816-80fd-4999c28abf1a_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250807/_f7c9520c-3bce-4816-80fd-4999c28abf1a_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250807/_0c64fa53-09a9-4170-91dc-8c65bbc99f72.jpg",
+    "detailText1": "덴마크어로 '가치'를 뜻하는 바드는 기본에 집중했을 때 발견할 수 있는 새로운 가치를 전하는 소파입니다.간결하게 정리된 실루엣과 균형 잡힌 조화를 이루는 미니멀 스케일, 딱 알맞는 편안함까지때로는 단순함이 필요한 우리의 리빙을 위한 소파, 덜어냄으로 그려내는 아름다움을 만나보세요.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250212/_462abdad-1c0f-4014-bc71-4a7fe512196e.jpg",
+    "detailText2": "간결함이 만드는 미감",
+    "scrapedAt": "2025-10-13T16:41:11.136Z"
   },
   {
     "title": "사티 큐브 1인",
     "price": 1730000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ACSP3201X1",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_0943be92-7131-4fee-b1aa-e234752fc5fb_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250801/_0943be92-7131-4fee-b1aa-e234752fc5fb_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_25cf6544-1d69-4432-af64-2ae20684c010.jpg",
+    "detailText1": "사티 큐브 1인은 사용자를 감싸 안아주는 듯한 형상을 따라 어깨 라인을 안정적으로 지지하여 편안한 착좌감을 선사합니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250801/_c1c607ed-7f07-42a5-93cd-22fe233c7258.jpg",
+    "detailText2": "나에게 꼭 맞는 거실 속 작은 방, 사티 큐브",
+    "scrapedAt": "2025-10-13T16:41:15.261Z"
   }
 ]

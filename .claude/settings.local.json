@@ -1,0 +1,23 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for brand in */)",
+      "Bash(do echo \"=== $brand ===\")",
+      "Bash(find:*)",
+      "Bash(while read f)",
+      "Bash(vm_stat)",
+      "Bash(pkill:*)",
+      "Bash(npm run vectorize:*)",
+      "Bash(node:*)",
+      "Bash(dir data)",
+      "Bash(jq:*)",
+      "Bash(cat:*)",
+      "Bash(npm run dev)",
+      "Bash(dir:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

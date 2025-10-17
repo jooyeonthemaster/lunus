@@ -4,12 +4,14 @@ import { useState, useEffect } from "react";
 import Image from "next/image";
 import { products, getRandomProduct, findSimilarProducts, categories } from "@/data/products";
 import type { Product } from "@/data/products";
+import { PREMIUM_BRANDS } from "@/types/unified-product";
 import SimilarProductsView from "@/components/SimilarProductsView";
 import PhotoSearchView from "@/components/PhotoSearchView";
 import MapView from "@/components/MapView";
 import AllProductsView from "@/components/AllProductsView";
 import AllCrawledProductsView from "@/components/AllCrawledProductsView";
 import ProductDetailView from "@/components/ProductDetailView";
+import UnifiedProductDetail from "@/components/UnifiedProductDetail";
 import BottomNavigation from "@/components/BottomNavigation";
 
 export default function Home() {
@@ -20,6 +22,7 @@ export default function Home() {
   const [similarProducts, setSimilarProducts] = useState<Product[]>([]);
   const [uploadedPhoto, setUploadedPhoto] = useState<File | null>(null);
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
+  const [selectedTestBrand, setSelectedTestBrand] = useState(PREMIUM_BRANDS[0].source);
 
   useEffect(() => {
     setCurrentProduct(getRandomProduct());
@@ -71,13 +74,62 @@ export default function Home() {
     setCurrentView("crawled");
   };
 
-  const handlePhotoSelected = (file: File) => {
+  const handlePhotoSelected = async (file: File) => {
     setUploadedPhoto(file);
-    // TODO: AI 분석 로직 구현
-    // 임시로 랜덤 유사 제품들을 보여줌
-    const randomProducts = products.sort(() => 0.5 - Math.random()).slice(0, 8);
-    setSimilarProducts(randomProducts);
-    setCurrentView("similar");
+    
+    try {
+      // FormData 생성
+      const formData = new FormData();
+      formData.append('image', file);
+      
+      // API 호출
+      const response = await fetch('/api/search/similar', {
+        method: 'POST',
+        body: formData
+      });
+      
+      const data = await response.json();
+      
+      console.log('🔍 API Response:', data);
+      console.log('📊 Products count:', data.products?.length);
+      console.log('📦 First product:', data.products?.[0]);
+      
+      if (data.success && data.products && data.products.length > 0) {
+        // Supabase 제품을 external.ts Product 형식으로 변환
+        console.log('✅ Converting', data.products.length, 'products');
+        const convertedProducts = data.products.map((p: any) => ({
+          id: p.id || 'unknown',
+          name: p.title || '제품명 없음',
+          brand: p.brand || '브랜드 없음',
+          image: p.image_url || '',
+          category: p.category || '기타',
+          price: p.price || 0,
+          description: p.title || '',
+          tags: [],
+          externalUrl: p.url || undefined,
+          similarity: p.similarity  // 유사도 추가!
+        })).slice(0, 20);  // 8개 → 20개로 증가
+        
+        console.log('🎯 Converted products:', convertedProducts.map((p: Product) => 
+          `${p.name} (${p.category}) - ${p.similarity ? (p.similarity * 100).toFixed(1) : 'N/A'}%`
+        ));
+        
+        setSimilarProducts(convertedProducts);
+        setCurrentView("similar");
+      } else {
+        // API 실패 시 임시로 랜덤 제품 표시
+        console.warn('API returned no products, using fallback');
+        const randomProducts = products.sort(() => 0.5 - Math.random()).slice(0, 8);
+        setSimilarProducts(randomProducts);
+        setCurrentView("similar");
+      }
+    } catch (error) {
+      console.error('Photo search error:', error);
+      // 에러 시 임시로 랜덤 제품 표시
+      const randomProducts = products.sort(() => 0.5 - Math.random()).slice(0, 8);
+      setSimilarProducts(randomProducts);
+      setCurrentView("similar");
+    }
   };
 
   const handleProductClick = (product: Product) => {
@@ -85,8 +137,22 @@ export default function Home() {
     setCurrentView("product-detail");
   };
 
-  // 상품 상세 뷰 렌더링
+  // 상품 상세 뷰 렌더링 (프리미엄 브랜드는 UnifiedProductDetail 사용)
   if (currentView === "product-detail" && selectedProduct) {
+    // 프리미엄 브랜드 제품이면 통일된 상세페이지 사용
+    if (selectedProduct._unified) {
+      return (
+        <UnifiedProductDetail
+          product={selectedProduct._unified}
+          onBackToMain={handleBackToMain}
+          onSearchClick={handlePhotoSearch}
+          onMapClick={handleMapView}
+          onCartClick={handleAllProducts}
+        />
+      );
+    }
+    
+    // 기존 제품은 기존 상세페이지 사용
     return (
       <ProductDetailView
         product={selectedProduct}
@@ -175,6 +241,68 @@ export default function Home() {
         <div className="text-center mb-6 lg:mb-8">
           <h1 className="text-3xl lg:text-5xl font-normal tracking-[0.15em] mb-2 lg:mb-4">LUNUS</h1>
           <p className="text-gray-600 text-sm lg:text-lg">취향에 딱 맞는 제품을 찾아드려요</p>
+          
+          {/* 브랜드별 상세페이지 테스트 */}
+          <div className="mt-6 bg-gray-50 rounded-2xl p-6 max-w-2xl mx-auto border-2 border-gray-200">
+            <h3 className="text-lg font-bold mb-4 text-gray-800">🔍 상세페이지 테스트</h3>
+            
+            {/* 브랜드 선택 */}
+            <div className="mb-4">
+              <label className="block text-sm font-medium text-gray-700 mb-2">브랜드 선택</label>
+              <select
+                value={selectedTestBrand}
+                onChange={(e) => setSelectedTestBrand(e.target.value)}
+                className="w-full px-4 py-3 bg-white border-2 border-gray-300 rounded-lg text-base font-medium text-gray-800 focus:outline-none focus:ring-2 focus:ring-gray-800 focus:border-transparent cursor-pointer"
+              >
+                {PREMIUM_BRANDS.map((brand) => (
+                  <option key={brand.source} value={brand.source}>
+                    {brand.brand} ({products.filter(p => p.brand === brand.brand).length}개 제품)
+                  </option>
+                ))}
+              </select>
+            </div>
+            
+            {/* 1안, 2안, 3안, 4안 버튼 */}
+            <div className="flex gap-2">
+              {[0, 1, 2, 3].map((index) => {
+                const brandProducts = products.filter(p => 
+                  p.brand === PREMIUM_BRANDS.find(b => b.source === selectedTestBrand)?.brand
+                );
+                const product = brandProducts[index];
+                
+                // 4안은 특별 처리 (HTML 원본 렌더링)
+                if (index === 3) {
+                  return (
+                    <button
+                      key={index}
+                      onClick={() => window.location.href = `/product-v4/${selectedTestBrand}`}
+                      className="flex-1 px-4 py-4 bg-gradient-to-r from-purple-600 to-purple-800 hover:from-purple-700 hover:to-purple-900 text-white rounded-xl font-bold shadow-md hover:shadow-xl transition-all transform hover:scale-105"
+                    >
+                      <div className="text-sm opacity-80 mb-1">4안</div>
+                      <div className="text-xs">원본 HTML</div>
+                      <div className="text-xs mt-1 opacity-70">🎨 실제 사이트</div>
+                    </button>
+                  );
+                }
+                
+                return product ? (
+                  <button
+                    key={index}
+                    onClick={() => handleProductClick(product)}
+                    className="flex-1 px-4 py-4 bg-gradient-to-r from-gray-800 to-gray-900 hover:from-gray-900 hover:to-black text-white rounded-xl font-bold shadow-md hover:shadow-xl transition-all transform hover:scale-105"
+                  >
+                    <div className="text-sm opacity-80 mb-1">{index + 1}안</div>
+                    <div className="text-xs truncate">{product.name}</div>
+                    <div className="text-xs mt-1 opacity-70">{product.price.toLocaleString()}원</div>
+                  </button>
+                ) : (
+                  <div key={index} className="flex-1 px-4 py-4 bg-gray-200 rounded-xl text-gray-400 text-center">
+                    <div className="text-sm">제품 없음</div>
+                  </div>
+                );
+              })}
+            </div>
+          </div>
         </div>
 
         {/* Category Tabs */}

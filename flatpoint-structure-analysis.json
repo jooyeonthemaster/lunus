@@ -1,0 +1,341 @@
+{
+  "possibleContainers": [
+    {
+      "selector": "#prdDetail",
+      "exists": true,
+      "innerHTML_length": 44013,
+      "tagName": "DIV",
+      "id": "prdDetail",
+      "className": "",
+      "childrenCount": 2
+    },
+    {
+      "selector": "#prdDetailContentLazy",
+      "exists": true,
+      "innerHTML_length": 43906,
+      "tagName": "DIV",
+      "id": "prdDetailContentLazy",
+      "className": "",
+      "childrenCount": 1
+    },
+    {
+      "selector": ".pdp-detail",
+      "exists": true,
+      "innerHTML_length": 43855,
+      "tagName": "DIV",
+      "id": "",
+      "className": "pdp-detail",
+      "childrenCount": 5
+    },
+    {
+      "selector": "[id*=\"detail\"]",
+      "exists": true,
+      "innerHTML_length": 376,
+      "tagName": "DIV",
+      "id": "crt_product_detail_script",
+      "className": "",
+      "childrenCount": 1
+    },
+    {
+      "selector": "[class*=\"detail\"]",
+      "exists": true,
+      "innerHTML_length": 136520,
+      "tagName": "DIV",
+      "id": "",
+      "className": "drmvsn-prd-detail shop-only",
+      "childrenCount": 2
+    }
+  ],
+  "allIds": [
+    {
+      "id": "prdDetail",
+      "tagName": "DIV",
+      "innerHTML_length": 44013
+    },
+    {
+      "id": "prdDetailContent",
+      "tagName": "DIV",
+      "innerHTML_length": 0
+    },
+    {
+      "id": "prdDetailContentLazy",
+      "tagName": "DIV",
+      "innerHTML_length": 43906
+    },
+    {
+      "id": "pdp-tab-01",
+      "tagName": "DIV",
+      "innerHTML_length": 15690
+    },
+    {
+      "id": "pdp-tab-01-design",
+      "tagName": "DIV",
+      "innerHTML_length": 138
+    },
+    {
+      "id": "pdp-tab-02",
+      "tagName": "DIV",
+      "innerHTML_length": 6230
+    },
+    {
+      "id": "pdp-tab-03",
+      "tagName": "DIV",
+      "innerHTML_length": 15865
+    },
+    {
+      "id": "pdp-tab-04",
+      "tagName": "DIV",
+      "innerHTML_length": 3428
+    },
+    {
+      "id": "pdp-tab-05",
+      "tagName": "DIV",
+      "innerHTML_length": 2278
+    },
+    {
+      "id": "crema-product-reviews-1",
+      "tagName": "IFRAME",
+      "innerHTML_length": 0
+    },
+    {
+      "id": "prdInfo",
+      "tagName": "DIV",
+      "innerHTML_length": 13347
+    },
+    {
+      "id": "prdReview",
+      "tagName": "DIV",
+      "innerHTML_length": 3259
+    },
+    {
+      "id": "prdQnA",
+      "tagName": "DIV",
+      "innerHTML_length": 8104
+    },
+    {
+      "id": "span_product_price_text",
+      "tagName": "STRONG",
+      "innerHTML_length": 8
+    },
+    {
+      "id": "product_price",
+      "tagName": "INPUT",
+      "innerHTML_length": 0
+    },
+    {
+      "id": "span_product_price_sale",
+      "tagName": "SPAN",
+      "innerHTML_length": 64
+    },
+    {
+      "id": "product_option_id1",
+      "tagName": "SELECT",
+      "innerHTML_length": 598
+    },
+    {
+      "id": "ec-add-product-composed-product-5866",
+      "tagName": "IMG",
+      "innerHTML_length": 0
+    },
+    {
+      "id": "ec-add-product-composed-product-5866",
+      "tagName": "IMG",
+      "innerHTML_length": 0
+    },
+    {
+      "id": "addproduct_option_id_5866_1",
+      "tagName": "SELECT",
+      "innerHTML_length": 258
+    },
+    {
+      "id": "totalProducts",
+      "tagName": "DIV",
+      "innerHTML_length": 3526
+    },
+    {
+      "id": "totalProductsOption",
+      "tagName": "TR",
+      "innerHTML_length": 589
+    },
+    {
+      "id": "prd-action",
+      "tagName": "DIV",
+      "innerHTML_length": 1361
+    },
+    {
+      "id": "crt_product_detail_script",
+      "tagName": "DIV",
+      "innerHTML_length": 376
+    },
+    {
+      "id": "fbe_product_detail_script",
+      "tagName": "DIV",
+      "innerHTML_length": 596
+    },
+    {
+      "id": "kmp_product_detail_script",
+      "tagName": "DIV",
+      "innerHTML_length": 114
+    }
+  ],
+  "allClasses": [
+    "drmvsn-prd-detail shop-only",
+    "xans-element- xans-product xans-product-headcategory path ",
+    "xans-element- xans-product xans-product-detail",
+    "xans-element- xans-product xans-product-customsns ",
+    "detailArea wrapper pdp-wrap ",
+    "xans-element- xans-product xans-product-image imgArea detail-common ",
+    "xans-element- xans-product xans-product-addimage keyImg first-img-hide prd-swiper swiper-initialized swiper-horizontal swiper-pointer-events",
+    "xans-element- xans-product xans-product-addimage listImg first-img-hide prd-swiper-thumb swiper-initialized swiper-horizontal swiper-pointer-events swiper-free-mode swiper-thumbs arrow-on",
+    "xans-element- xans-product xans-product-action ec-base-button gColumn displaynone ",
+    "xans-element- xans-product xans-product-image imgArea ",
+    "xans-element- xans-product xans-product-addimage modal-img first-img-hide",
+    "detail-tab-list",
+    "count crema-product-reviews-count crema-applied",
+    "xans-element- xans-product xans-product-additional ",
+    "pdp-detail",
+    "flex-ml-auto detail-option-simul",
+    "crema-product-reviews crema-applied",
+    "xans-element- xans-product xans-product-review",
+    "xans-element- xans-product xans-product-qna",
+    "xans-element- xans-product xans-product-qnapaging ec-base-paginate typeSub"
+  ],
+  "detailSections": [
+    {
+      "id": "wrap",
+      "className": "loaded",
+      "imageCount": 162,
+      "innerHTML_length": 184166,
+      "firstImageSrc": "https://flatpoint.co.kr/web/upload/custom_2317592809909856.gif",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "container",
+      "className": "",
+      "imageCount": 157,
+      "innerHTML_length": 137030,
+      "firstImageSrc": "https://flatpoint.co.kr/web/upload/custom_2317592809909856.gif",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "contents",
+      "className": "",
+      "imageCount": 157,
+      "innerHTML_length": 136995,
+      "firstImageSrc": "https://flatpoint.co.kr/web/upload/custom_2317592809909856.gif",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "content",
+      "className": "content",
+      "imageCount": 146,
+      "innerHTML_length": 86871,
+      "firstImageSrc": "https://flatpoint.co.kr/web/product/extra/big/202212/3a60a043b2855336067ae5f260b7beee.png",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "modal-full-img",
+      "className": "",
+      "imageCount": 10,
+      "innerHTML_length": 1961,
+      "firstImageSrc": "https://flatpoint.co.kr/web/product/big/202212/4f949375d2e8b86e8ec8f489e3f7dd8a.png",
+      "hasLazyLoading": false
+    },
+    {
+      "id": "prdDetail",
+      "className": "",
+      "imageCount": 98,
+      "innerHTML_length": 44013,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "prdDetailContentLazy",
+      "className": "",
+      "imageCount": 98,
+      "innerHTML_length": 43906,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "pdp-tab-01",
+      "className": "pdp-section container",
+      "imageCount": 40,
+      "innerHTML_length": 15690,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "swiper-wrapper-8ee46677d92c910ca",
+      "className": "custom-review-wrapper swiper-wrapper",
+      "imageCount": 15,
+      "innerHTML_length": 5084,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "pdp-tab-02",
+      "className": "pdp-section container",
+      "imageCount": 9,
+      "innerHTML_length": 6230,
+      "firstImageSrc": "https://flatpoint.co.kr/shop/material/pictogram/aluminum_01.png",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "pdp-tab-03",
+      "className": "pdp-section container",
+      "imageCount": 41,
+      "innerHTML_length": 15865,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "swiper-wrapper-f7a430a43d36d3f8",
+      "className": "swiper-wrapper",
+      "imageCount": 14,
+      "innerHTML_length": 3976,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "swiper-wrapper-1e35e6512c79acb3",
+      "className": "swiper-wrapper",
+      "imageCount": 14,
+      "innerHTML_length": 3177,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "pdp-tab-05",
+      "className": "pdp-section container",
+      "imageCount": 5,
+      "innerHTML_length": 2278,
+      "firstImageSrc": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=",
+      "hasLazyLoading": true
+    },
+    {
+      "id": "prdReview",
+      "className": "ec-base-tab gFlex ",
+      "imageCount": 4,
+      "innerHTML_length": 3259,
+      "firstImageSrc": "https://img.echosting.cafe24.com/skin/base_ko_KR/product/ico_under19.gif",
+      "hasLazyLoading": false
+    },
+    {
+      "id": "prdQnA",
+      "className": "ec-base-tab gFlex ",
+      "imageCount": 11,
+      "innerHTML_length": 8104,
+      "firstImageSrc": "https://img.echosting.cafe24.com/skin/base_ko_KR/product/ico_under19.gif",
+      "hasLazyLoading": false
+    },
+    {
+      "id": "sidebar",
+      "className": "sidebar",
+      "imageCount": 10,
+      "innerHTML_length": 47391,
+      "firstImageSrc": "https://img.echosting.cafe24.com/design/skin/default/product/btn_sms.gif",
+      "hasLazyLoading": false
+    }
+  ]
+}

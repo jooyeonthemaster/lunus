@@ -15,6 +15,8 @@ export default function PhotoSearchView({ onBackToMain, onPhotoSelected, onMapCl
   const cameraInputRef = useRef<HTMLInputElement>(null);
   const [previewImage, setPreviewImage] = useState<string | null>(null);
   const [selectedFile, setSelectedFile] = useState<File | null>(null);
+  const [uploading, setUploading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   const handleFileUpload = () => {
     fileInputRef.current?.click();
@@ -37,14 +39,15 @@ export default function PhotoSearchView({ onBackToMain, onPhotoSelected, onMapCl
   };
 
   const handleConfirmPhoto = () => {
-    if (selectedFile) {
-      onPhotoSelected(selectedFile);
-    }
+    if (!selectedFile) return;
+    // 부모 컴포넌트로 파일 전달 (page.tsx에서 API 호출)
+    onPhotoSelected(selectedFile);
   };
 
   const handleRetakePhoto = () => {
     setPreviewImage(null);
     setSelectedFile(null);
+    setError(null);
   };
 
   return (
@@ -122,20 +125,39 @@ export default function PhotoSearchView({ onBackToMain, onPhotoSelected, onMapCl
                 </div>
               </div>
 
+              {/* 로딩 상태 표시 */}
+              {uploading && (
+                <div className="mb-8 text-center">
+                  <div className="inline-block animate-spin rounded-full h-12 w-12 border-4 border-gray-200 border-t-gray-800 mb-4"></div>
+                  <p className="text-lg text-gray-600">AI가 이미지를 분석하고 있어요...</p>
+                  <p className="text-sm text-gray-500 mt-2">약 3~5초 정도 소요됩니다</p>
+                </div>
+              )}
+
+              {/* 에러 메시지 */}
+              {error && !uploading && (
+                <div className="mb-8 bg-red-50 border-2 border-red-200 rounded-2xl p-6">
+                  <p className="text-red-600 font-medium text-lg mb-2">검색 실패</p>
+                  <p className="text-red-500 text-sm">{error}</p>
+                </div>
+              )}
+
               {/* 확인/재촬영 버튼들 */}
               <div className="space-y-4 lg:space-y-6 max-w-sm mx-auto">
                 {/* 이 사진으로 검색하기 버튼 */}
                 <button
                   onClick={handleConfirmPhoto}
-                  className="w-full py-4 lg:py-5 px-6 bg-gray-800 rounded-full text-lg lg:text-xl font-medium text-white hover:bg-gray-900 transition-all duration-200 shadow-lg"
+                  disabled={uploading}
+                  className="w-full py-4 lg:py-5 px-6 bg-gray-800 rounded-full text-lg lg:text-xl font-medium text-white hover:bg-gray-900 transition-all duration-200 shadow-lg disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                  이 사진으로 검색하기
+                  {uploading ? '검색 중...' : '이 사진으로 검색하기'}
                 </button>
 
                 {/* 다시 선택하기 버튼 */}
                 <button
                   onClick={handleRetakePhoto}
-                  className="w-full py-4 lg:py-5 px-6 bg-white border-2 border-gray-300 rounded-full text-lg lg:text-xl font-medium text-gray-700 hover:border-gray-400 hover:bg-gray-50 transition-all duration-200 shadow-sm"
+                  disabled={uploading}
+                  className="w-full py-4 lg:py-5 px-6 bg-white border-2 border-gray-300 rounded-full text-lg lg:text-xl font-medium text-gray-700 hover:border-gray-400 hover:bg-gray-50 transition-all duration-200 shadow-sm disabled:opacity-50 disabled:cursor-not-allowed"
                 >
                   다시 선택하기
                 </button>

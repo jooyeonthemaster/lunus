@@ -1,0 +1,19 @@
+{
+  "source": "iloom",
+  "brand": "일룸",
+  "productUrl": "https://www.iloom.com/product/detail.do?productCd=HCS888",
+  "productCode": "HCS888",
+  "productName": "밴쿠버 3.5인 천연가죽 컴팩트 소파",
+  "galleryImages": [
+    "https://www.iloom.com/upload/product/20240304/S200_60d9b828-c139-4134-b95f-7acb96d989a3.jpg",
+    "https://www.iloom.com/upload/productColor/20240104/S200_556abdc0-ad72-419e-b681-ca4dc8a71523.jpg",
+    "https://www.iloom.com/upload/productColor/20240104/S200_0b8cfa81-3c9e-4676-91ff-da8000d47887.jpg",
+    "https://www.iloom.com/upload/productColor/20240104/S200_ad7421f9-5233-48d6-a519-5970a5b09b1d.jpg",
+    "https://www.iloom.com/upload/productColor/20240104/S200_017c1316-b516-4e46-872a-9f28ce19f4d7.jpg",
+    "https://www.iloom.com/upload/productColor/20240104/S200_900895e1-97dd-4874-ac73-e882b9e03a45.jpg"
+  ],
+  "detailSections": [],
+  "detailHTML": "<div class=\"box\">\n\t\t\t<div class=\"contents_title\" style=\"display:none;\">\n\t\t\t\t</div>\n\t\t\t<div class=\"contents_100contents\" style=\"display:none;\"> </div>\n\n\t\t</div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20240819/_1af6ba18-6ea1-49f7-96e9-ebccd0687d5c.jpg\" style=\"display: block;\"></div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20250804/_da11891a-87cf-4291-94e1-9e6bc63efe1a.jpg\" style=\"display: block;\"></div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20240819/_48109234-c772-4495-816b-76eda5078e0a.jpg\" style=\"display: block;\"></div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20250804/_6bfb9a9e-1c6f-4bb4-b038-0188afef0905.jpg\" style=\"display: block;\"></div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20241029/_e53b946f-743f-42d9-8281-febec20cd9bf.jpg\" style=\"display: block;\"></div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20240905/_847f748a-7eea-4190-9314-d9e2a003e0c1.jpg\" style=\"display: block;\"></div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20250721/_0a2f4d37-f9fc-4e69-9434-31585980d17a.jpg\" style=\"display: block;\"></div>\n\n<div class=\"box\">\n\t\t\t\t<img class=\"contents_100img\" onload=\"$(this).css('display', 'block');\" src=\"/upload/contents/20240104/_d1cd7fcb-9637-4230-97c5-06633b5c50ce.jpg\" style=\"display: block;\"></div>\n\n",
+  "detailHTMLCount": 9,
+  "scrapedAt": "2025-10-15T09:58:54.675Z"
+}

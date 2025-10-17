@@ -1,3 +1,5 @@
+import type { UnifiedProduct } from "@/types/unified-product";
+
 // 제품 타입 정의
 export interface Product {
   id: string;
@@ -16,35 +18,31 @@ export interface Product {
     color?: string;
     weight?: string;
   };
+  _unified?: UnifiedProduct; // 프리미엄 브랜드 전체 데이터 (상세페이지용)
+  similarity?: number; // AI 검색 유사도 점수
 }
 
-// 카테고리 배열
+// 카테고리 배열 (프리미엄 브랜드 통합 카테고리)
 export const categories = [
   "전체",
   "소파",
-  "옷장",
-  "의자",
   "침대",
+  "의자",
+  "테이블",
+  "책상",
+  "옷장",
+  "수납",
+  "주방",
+  "조명",
+  "키즈",
+  "화장대",
+  "중문",
 ];
 
-// 외부 스크레이핑 결과를 사용해 제품 목록 구성
-import { externalProducts } from "./external";
+// 프리미엄 브랜드 제품 사용 (상세페이지 크롤링 완료된 8개 브랜드)
+import { premiumProductsCompat } from "./premium-products";
 
-// Try to load JSON overrides from public/external/products.json at build/runtime.
-// Next.js can import JSON from public via fetch in runtime; for build-time, keep TS fallback.
-let overrides: Product[] | null = null;
-if (typeof window === 'undefined') {
-  // Node (build) - no direct file system reads here to keep portability
-  overrides = null;
-} else {
-  // Browser runtime - fetch the JSON once (will be used by pages importing this module)
-  try {
-    // Note: this fetch is async; keep synchronous export using fallback and allow pages to refetch as needed.
-    // For now, prefer build-time externalProducts. If you want strict runtime overrides, wire fetch in page and merge.
-  } catch {}
-}
-
-export const products: Product[] = externalProducts;
+export const products: Product[] = premiumProductsCompat;
 
 // 랜덤 제품 가져오기 함수
 export function getRandomProduct(category?: string): Product {

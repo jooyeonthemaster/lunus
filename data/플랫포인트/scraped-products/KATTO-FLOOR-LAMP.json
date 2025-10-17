@@ -1,0 +1,88 @@
+{
+  "source": "flatpoint",
+  "brand": "플랫포인트",
+  "category": "조명&홈데코",
+  "productUrl": "https://flatpoint.co.kr/product/katto-floor-lamp/7162/category/284/display/1/",
+  "productCode": "KATTO FLOOR LAMP",
+  "productName": "KATTO FLOOR LAMP",
+  "price": "",
+  "mainImage": "",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n            <div class=\"pdp-detail\">\n<!-- 25/09/12 am 10:30 리뷰 이미지 추가 -->\n<!-- 디자인 -->\n<div class=\"pdp-section container\" id=\"pdp-tab-01\">\n<div class=\"row pa-50\">\n<div class=\"col-12 m-col-12 pt-10\">\n<div class=\"font-1414 pb-20\">\n</div>\n</div>\n<div class=\"col-6 m-col-12 m-pb-40\">\n<div class=\"font-4242 pb-40\">KATTO FLOOR LAMP\n</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-1818 kr pb-40\"> 간결한 선과 곡선이 만들어내는 감각적인 실루엣, 서로 다른 소재가 겹쳐 빛과 조화를 이루는 카토 램프.\n<br>\n<br> 섬세하게 제작된 유리 갓과 금속 갓 사이로 스며드는 은은한 빛이 공간에 깊이를 더하며, 어느 각도에서도 심플한 아름다움을 느낄 수 있습니다. 편안한 조도와 차분한 색감으로 어디에 두어도 자연스럽게 어우러지며, 빛이 켜지는 순간 공간의 무드가 한층 높아집니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\">\n<img alt=\"\" ec-data-src=\"/shop/lighting/kattolamp/main_floor.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 시리즈 -->\n<div class=\"title-sm pa-50\">SERIES</div>\n<div class=\"row plr-50 mb-200\">\n<div class=\"col-3 m-col-4\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/lighting/kattolamp/series_table.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">TABLE LAMP</div>\n</a>\n</div>\n<div class=\"col-3 m-col-4\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/lighting/kattolamp/series_pendant.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">PENDANT LAMP</div>\n</a>\n</div>\n<div class=\"col-3 m-col-4\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/lighting/kattolamp/series_floor.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">FLOOR LAMP</div>\n</a>\n</div>\n</div>\n<!-- 룩북 비디오\n\t\t\t<div class=\"row pb-20\">\n\t\t\t\t<div class=\"col-12 m-col-12\">\n\t\t\t\t\t<div class=\"vimeo-wrapper\">\n\t\t\t\t\t\t<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/719993669?h=3f6365cbda&badge=0&autopause=0&autoplay=0&background=1&muted=1&loop=1&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"\" data-ready=\"true\"></iframe>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t</div> -->\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_07.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_08.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_09.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_04.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_05.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/lighting/kattolamp/photo_06.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n\n<!-- 디자인 포인트 -->\n<div id=\"pdp-tab-01-design\">\n<div class=\"row title-md design-point\">\n<div class=\"col-4 m-col-12\">\n<div class=\"ptb-20 bo-r m-bo-none\">DESIGN POINT</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/lighting/kattolamp/design_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">MINIMALISM</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">미니멀리즘</div>\n<div class=\"font-2222 kr mb-120\">절제된 실루엣에 원뿔형 헤드를 더해 간결함 속에서도 돋보이는 조형미를 완성합니다. 심플하면서도 입체적인 균형 위로 은은한 빛이 번지며 공간에 모던한 무드를 더합니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/lighting/kattolamp/design_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">DOUBLE SHADE</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">이중 레이어 갓</div>\n<div class=\"font-2222 kr mb-120\">유리 갓과 금속 갓이 겹쳐지는 이중 레이어 구조. 유리 위에 금속 갓을 더해 빛을 부드럽게 감싸며 편안한 조도를 만들고, 유니크한 입체감으로 시각적인 포인트가 되어줍니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/lighting/kattolamp/design_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">COLOR</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">다채로운 컬러</div>\n<div class=\"font-2222 kr mb-120\">차분한 무드의 무광 블랙과 화이트, 빛에 따라 깊이를 더하는 반광 페일 블루와 버건디. 공간과 스타일에 맞게 컬러를 선택해 취향에 맞는 감도 높은 공간을 완성해보세요.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/lighting/kattolamp/design_04.webp\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">SMART LED LIGHT BULB</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">조도 &amp; 색온도 조정</div>\n<div class=\"font-2222 kr mb-120\">증정하는 스마트 전구로 공간의 빛과 온도를 원하는 순간에 맞게 섬세하게 조율해보세요. 전용 앱을 통해 밝기와 색온도를 자유롭게 바꾸어 하루의 무드에 어울리는 빛을 완성할 수 있습니다.\n</div>\n</div>\n</div>\n\n<!--리뷰-->\n",
+  "detailCSS": "\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n\n.crema-hide.crema-applied { display : none !important; }\n\n\n        .flatpoint #wrap{\n            max-width: 100%;\n            width: 100%;\n        } \n        .flatpoint #footer .footer-info,\n        .flatpoint #footer .footer-bottom{\n            display: none;\n        }\n    \n\n  [pandassi-banner-group]:not([pandassi-banner-group=\"ready\"]) {\n    display: none !important;\n  }\n\n",
+  "cssLinks": [
+    "https://assets5.cre.ma/widgets/assets/pc-c9334d1331a67b88a5bbb28c4c16b01ef5184ab1c165983eb0e8207debdf3b2d.css",
+    "https://use.typekit.net/bqg5yxi.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/neo/css/SpoqaHanSans-kr.min.css",
+    "https://flatpoint.co.kr/drmvsn/css/style.css",
+    "https://flatpoint.co.kr/drmvsn/css/swiper-bundle.min.css",
+    "https://img.echosting.cafe24.com/editors/froala/css/froala_style_ec.min.css?vs=2510131432",
+    "https://flatpoint.co.kr/ind-script/optimizer.php?filename=ndIxDsIwDAXQvcrKOQwILgASBwBxACd1adQkjpxEgttTYIAORZDV9vv2YOjZE6zWAlH4IuhBKHERQ2BSgk44ZDDsPQc1FhbwyzyZJrEr2XJoNF8rYcm5dqnDG0kdzagdVVKOjbOBGo0hzO53VsPZRjQDHD_z9ugotCiwUVu1hM5hjtYMczEYI5x6jtOQw_OocaYtJldIzSjtF7d79KdwLKsXE4osuVZrx2b4D7__8g4&type=css&k=322d0c2a6c2ac935cdb667883a70361b51e0668d&t=1726130154",
+    "https://flatpoint.co.kr/ind-script/optimizer_user.php?filename=ncwxEkIhDATQXmw9x7ZeB0n8MCaQIcHzC1ew2NliZx_qUAaXtJyn4y05bLQesPWSVlINFThxIvZ2dfin9Sdo6tc7ijuC1faJYWQnN-LITe57e-Av_Kg6aMk25-4SqNlr5OugPw&type=css&k=f87b08facdc39347dd6f666055b5ac1ad03bd7a0&t=1754531472&user=T",
+    "https://app4you.cafe24.com/SmartPopup/assets/css/front.css?vs=202505201010",
+    "https://app4you.cafe24.com/SmartPopup/assets/uipack/slick/1.8.1/css/smart-popup.slick.css?vs=202505201010"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms; transform: translate3d(-1457.5px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transform: translate3d(0px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms;"
+    }
+  ],
+  "scrapedAt": "2025-10-16T17:45:47.374Z"
+}

@@ -1,0 +1,13 @@
+{
+  "source": "iloom",
+  "brand": "일룸",
+  "productUrl": "https://www.iloom.com/product/detail.do?productCd=HCS888",
+  "productCode": "HCS888",
+  "productName": "밴쿠버 3.5인 천연가죽 컴팩트 소파",
+  "detailHTML": "<div class=\"box\"><img class=\"contents_100img\" src=\"https://www.iloom.com/upload/contents/20240819/_1af6ba18-6ea1-49f7-96e9-ebccd0687d5c.jpg\" style=\"display: block; width: 100%; height: auto;\"></div><div class=\"box\"><img class=\"contents_100img\" src=\"https://www.iloom.com/upload/contents/20240104/_d1cd7fcb-9637-4230-97c5-06633b5c50ce.jpg\" style=\"display: block; width: 100%; height: auto;\"></div>",
+  "detailCSS": ".box { margin-bottom: 0; } .contents_100img { width: 100%; height: auto; display: block; }",
+  "sectionCount": 2,
+  "scrapedAt": "2025-10-15T00:00:00.000Z"
+}
+
+

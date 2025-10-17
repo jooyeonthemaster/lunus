@@ -29,6 +29,8 @@ export default function ProductDetailView({
 }: ProductDetailViewProps) {
   const [availableStores, setAvailableStores] = useState<FurnitureStore[]>([]);
   const [isMobile, setIsMobile] = useState(false);
+  const [similarProducts, setSimilarProducts] = useState<any[]>([]);
+  const [loadingSimilar, setLoadingSimilar] = useState(false);
 
   useEffect(() => {
     // 해당 제품을 볼 수 있는 매장들 찾기
@@ -50,6 +52,31 @@ export default function ProductDetailView({
     window.addEventListener('resize', handleResize);
     return () => window.removeEventListener('resize', handleResize);
   }, [product.storeIds]);
+
+  // 유사 제품 로드
+  useEffect(() => {
+    // product.id가 문자열이므로 숫자로 변환 시도
+    const numericId = product.id.match(/\d+/)?.[0];
+    if (!numericId) return;
+
+    const loadSimilarProducts = async () => {
+      setLoadingSimilar(true);
+      try {
+        const response = await fetch(`/api/search/similar?productId=${numericId}`);
+        const data = await response.json();
+        
+        if (data.success && data.products) {
+          setSimilarProducts(data.products.slice(0, 8));
+        }
+      } catch (error) {
+        console.error('Failed to load similar products:', error);
+      } finally {
+        setLoadingSimilar(false);
+      }
+    };
+
+    loadSimilarProducts();
+  }, [product.id]);
 
   return (
     <div className="min-h-screen bg-white">
@@ -262,6 +289,76 @@ export default function ProductDetailView({
                   </div>
                 ))}
               </div>
+            </div>
+          </div>
+        )}
+
+        {/* Similar Products - AI 기반 유사 제품 추천 */}
+        {(loadingSimilar || similarProducts.length > 0) && (
+          <div className="px-4 lg:px-8 py-6 lg:py-8">
+            <div className="max-w-6xl mx-auto">
+              <div className="flex items-center justify-between mb-6">
+                <h3 className="text-xl lg:text-2xl font-bold">이 제품과 비슷한 상품</h3>
+                <span className="text-sm text-gray-500 bg-gray-100 px-3 py-1 rounded-full">
+                  AI 추천
+                </span>
+              </div>
+
+              {loadingSimilar ? (
+                <div className="text-center py-12">
+                  <div className="inline-block animate-spin rounded-full h-12 w-12 border-4 border-gray-200 border-t-gray-800 mb-4"></div>
+                  <p className="text-gray-600">유사한 제품을 찾고 있어요...</p>
+                </div>
+              ) : (
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 lg:gap-6">
+                  {similarProducts.map((similar) => (
+                    <div 
+                      key={similar.id} 
+                      className="group cursor-pointer bg-white rounded-lg overflow-hidden shadow-md hover:shadow-xl transition-all duration-300"
+                    >
+                      <div className="relative w-full h-48 lg:h-56 bg-gray-100 overflow-hidden">
+                        {similar.image_url ? (
+                          // eslint-disable-next-line @next/next/no-img-element
+                          <img 
+                            src={similar.image_url} 
+                            alt={similar.title || '제품'} 
+                            className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-300"
+                          />
+                        ) : (
+                          <div className="w-full h-full bg-gray-200 flex items-center justify-center">
+                            <span className="text-gray-400">이미지 없음</span>
+                          </div>
+                        )}
+                        {/* 유사도 뱃지 */}
+                        {similar.similarity && (
+                          <div className="absolute top-2 right-2 bg-gray-800 bg-opacity-90 text-white text-xs px-2 py-1 rounded-full">
+                            {(similar.similarity * 100).toFixed(0)}% 유사
+                          </div>
+                        )}
+                      </div>
+                      <div className="p-3 lg:p-4">
+                        <p className="text-xs text-gray-500 mb-1">{similar.brand || '브랜드 없음'}</p>
+                        <h4 className="text-sm lg:text-base font-medium line-clamp-2 mb-2 min-h-[2.5rem]">
+                          {similar.title || '제품명 없음'}
+                        </h4>
+                        <p className="text-base lg:text-lg font-bold text-gray-800">
+                          {similar.price ? `${similar.price.toLocaleString()}원` : '가격 문의'}
+                        </p>
+                        {similar.category && (
+                          <p className="text-xs text-gray-400 mt-1">#{similar.category}</p>
+                        )}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+
+              {!loadingSimilar && similarProducts.length === 0 && (
+                <div className="text-center py-12 bg-gray-50 rounded-lg">
+                  <p className="text-gray-500">유사한 제품을 찾을 수 없습니다.</p>
+                  <p className="text-sm text-gray-400 mt-2">제품이 벡터화되지 않았을 수 있습니다.</p>
+                </div>
+              )}
             </div>
           </div>
         )}

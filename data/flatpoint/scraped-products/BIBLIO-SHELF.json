@@ -1,0 +1,88 @@
+{
+  "source": "flatpoint",
+  "brand": "플랫포인트",
+  "category": "선반",
+  "productUrl": "https://flatpoint.co.kr/product/biblio-shelf/7144/category/51/display/1/",
+  "productCode": "BIBLIO SHELF",
+  "productName": "BIBLIO SHELF",
+  "price": "",
+  "mainImage": "",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n            <div class=\"pdp-detail\">\n<!-- 디자인 -->\n<div class=\"pdp-section container\" id=\"pdp-tab-01\">\n<div class=\"row pa-50\">\n<div class=\"col-12 m-col-12 pt-10\">\n<div class=\"font-1414 pb-20\">\n</div>\n</div>\n<div class=\"col-6 m-col-12 m-pb-40\">\n<div class=\"font-4242 pb-40\">BIBLIO SHELF\n</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-1818 kr pb-40\">단순한 수납을 넘어, 공간에 잔잔한 시간을 채우는 비블리오 쉘프.\n<br>\n<br>책 한권이 놓일 때마다 비워진 여백과 채워진 면이 어우러져, 하루의 모양을 조금씩 바꿔갑니다. 얇고 간결한 철제 프레임은 단단한 존재감을 지니고, 모던하고 세련된 실루엣은 당신의 취향을 은은하게 드러냅니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\">\n<img alt=\"\" ec-data-src=\"/shop/storage/biblio/photo_main.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row plr-50 mb-150\"></div>\n<!-- 시리즈\n\t\t<div class=\"title-sm pa-50\">SERIES</div>\n\t\t<div class=\"row plr-50 mb-200\">\n\t\t\t<div class=\"col-4 m-col-6\">\n\t\t\t\t<a class=\"card\">\n\t\t\t\t\t<img ec-data-src=\"/shop/storage/biblio/series_white.jpg\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">WHITE</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t<div class=\"col-4 m-col-6\">\n\t\t\t\t<a class=\"card\">\n\t\t\t\t\t<img ec-data-src=\"/shop/storage/biblio/series_aluminum.jpg\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">ALUMINUM</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>-->\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/biblio/photo_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/biblio/photo_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/biblio/photo_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 디자인 포인트 -->\n<div id=\"pdp-tab-01-design\">\n<div class=\"row title-md design-point\">\n<div class=\"col-4 m-col-12\">\n<div class=\"ptb-20 bo-r m-bo-none\">DESIGN POINT</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/storage/biblio/design_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">STORIES FILLED</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">취향을 담은 이야기</div>\n<div class=\"font-2222 kr mb-120\">간결하게 뻗은 스테인레스 구조는 그 자체로 하나의 작품처럼 느껴집니다.\n<br>책 한 권, 오브제 하나가 놓일 때마다 선반 위에 작은 이야기가 쌓여 당신의 취향을 채운채 공간에 고요한 존재감을 더합니다.\n\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/storage/biblio/design_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">FULL COLOR</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">시각적 완성도</div>\n<div class=\"font-2222 kr mb-120\">비블리오 쉘프 전체를 통일된 소재로 마감하여 시각적 방해 요소를 배제합니다. 간결한 철제 라인이 만들어내는 절제된 아름다움 그 차이를 경험해보세요.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/storage/biblio/design_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">MINIMALISM</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">미니멀한 구조</div>\n<div class=\"font-2222 kr mb-120\">불필요함을 덜어내고 정제된 선과 면만 남긴 비블리오.\n<br>반복적인 배열은 공간에 균형과 깊이를 부여하며, 구조적으로 미니멀리즘의 완성도를 높여줍니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/storage/biblio/design_04.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">SPACE UTILIZATION</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">공간 활용 극대화</div>\n<div class=\"font-2222 kr mb-120\">미니멀한 구조로 설계된 비블리오는 시선은 가볍고, 공간은 넓게 씁니다.\n<br>좁은 벽면이나 코너에도 자연스럽게 어우러져, 공간 한편에 감각적으로 자리합니다.\n</div>\n</div>\n</div>\n<!-- 임베딩 -->\n<!-- 리뷰 -->\n",
+  "detailCSS": "\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n\n.crema-hide.crema-applied { display : none !important; }\n\n\n        .flatpoint #wrap{\n            max-width: 100%;\n            width: 100%;\n        } \n        .flatpoint #footer .footer-info,\n        .flatpoint #footer .footer-bottom{\n            display: none;\n        }\n    \n\n  [pandassi-banner-group]:not([pandassi-banner-group=\"ready\"]) {\n    display: none !important;\n  }\n\n",
+  "cssLinks": [
+    "https://assets5.cre.ma/widgets/assets/pc-c9334d1331a67b88a5bbb28c4c16b01ef5184ab1c165983eb0e8207debdf3b2d.css",
+    "https://use.typekit.net/bqg5yxi.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/neo/css/SpoqaHanSans-kr.min.css",
+    "https://flatpoint.co.kr/drmvsn/css/style.css",
+    "https://flatpoint.co.kr/drmvsn/css/swiper-bundle.min.css",
+    "https://img.echosting.cafe24.com/editors/froala/css/froala_style_ec.min.css?vs=2510131432",
+    "https://flatpoint.co.kr/ind-script/optimizer.php?filename=ndIxDsIwDAXQvcrKOQwILgASBwBxACd1adQkjpxEgttTYIAORZDV9vv2YOjZE6zWAlH4IuhBKHERQ2BSgk44ZDDsPQc1FhbwyzyZJrEr2XJoNF8rYcm5dqnDG0kdzagdVVKOjbOBGo0hzO53VsPZRjQDHD_z9ugotCiwUVu1hM5hjtYMczEYI5x6jtOQw_OocaYtJldIzSjtF7d79KdwLKsXE4osuVZrx2b4D7__8g4&type=css&k=322d0c2a6c2ac935cdb667883a70361b51e0668d&t=1726130154",
+    "https://flatpoint.co.kr/ind-script/optimizer_user.php?filename=ncwxEkIhDATQXmw9x7ZeB0n8MCaQIcHzC1ew2NliZx_qUAaXtJyn4y05bLQesPWSVlINFThxIvZ2dfin9Sdo6tc7ijuC1faJYWQnN-LITe57e-Av_Kg6aMk25-4SqNlr5OugPw&type=css&k=f87b08facdc39347dd6f666055b5ac1ad03bd7a0&t=1754531472&user=T",
+    "https://app4you.cafe24.com/SmartPopup/assets/css/front.css?vs=202505201010",
+    "https://app4you.cafe24.com/SmartPopup/assets/uipack/slick/1.8.1/css/smart-popup.slick.css?vs=202505201010"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms; transform: translate3d(-1457.5px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transform: translate3d(0px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms;"
+    }
+  ],
+  "scrapedAt": "2025-10-16T17:43:12.986Z"
+}

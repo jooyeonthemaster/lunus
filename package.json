@@ -9,6 +9,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
+    "setup:vector": "node scripts/setup-vector-db.cjs",
+    "upload:products": "node scripts/upload-all-to-supabase.cjs",
+    "vectorize": "node scripts/vectorize-products.cjs",
     "scrape:images": "node scripts/scrape-images.cjs",
     "scrape:iloom": "node scripts/scrape-iloom.js",
     "scrape:iloom:xhr": "node scripts/iloom-xhr.cjs",
@@ -46,7 +49,8 @@
     "playwright": "^1.40.0",
     "@supabase/supabase-js": "^2.39.0",
     "axios": "^1.6.0",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "replicate": "^0.34.1"
   },
   "devDependencies": {
     "@types/node": "^20",

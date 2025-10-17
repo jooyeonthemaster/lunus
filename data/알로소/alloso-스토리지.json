@@ -3,24 +3,44 @@
     "title": "리가 책장",
     "price": 6490000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ001C",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_8f8b8db4-736a-4ffe-8951-484166330648_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_8f8b8db4-736a-4ffe-8951-484166330648_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250219/_90f5d638-df6d-476a-9af4-361602fa3b53.jpg",
+    "detailText1": "다양한 소품들을 보관하고, 감상하기 좋은 선반장입니다.책, 화병, 액자, 거울, 공예품 등 취향에 맞는 작은 오브제들로 채워 사용하실 수 있습니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250219/_0494debc-de15-436a-9e07-8ad6ed44587f.jpg",
+    "detailText2": "일상의 공간에 예술적인 감수성을 더하는 리가 컬렉션",
+    "scrapedAt": "2025-10-13T16:41:23.317Z"
   },
   {
     "title": "리가 AV장",
     "price": 4990000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ001B",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_b4e535e7-fbe8-4b11-89e1-4d43dd15ec69_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_b4e535e7-fbe8-4b11-89e1-4d43dd15ec69_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250219/_a6601504-32ea-4fc4-bedd-258c170edda7.jpg",
+    "detailText1": "높이가 낮고 가로가 긴 슬림한 비율감으로, 공간을 더욱 세련되고 개방감 있게 연출해 줍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250219/_0494debc-de15-436a-9e07-8ad6ed44587f.jpg",
+    "detailText2": "일상의 공간에 예술적인 감수성을 더하는 리가 컬렉션",
+    "scrapedAt": "2025-10-13T16:41:27.609Z"
   },
   {
     "title": "리가 캐비닛",
     "price": 4290000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ001A",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_48de8c8d-0a23-42a1-abd4-af82ead655cb_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20250219/_48de8c8d-0a23-42a1-abd4-af82ead655cb_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250219/_26b69091-09e7-45e4-b99c-39283c91de1b.jpg",
+    "detailText1": "다양한 물건을 깔끔하게 수납하고, 위에는 작은 오브제를 진열하기 좋은 캐비닛입니다.거실 혹은 여백 공간에 배치하여 오브제와 함께 나의 취향을 담은 공간으로 만들어보시기 바랍니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20250219/_0494debc-de15-436a-9e07-8ad6ed44587f.jpg",
+    "detailText2": "일상의 공간에 예술적인 감수성을 더하는 리가 컬렉션",
+    "scrapedAt": "2025-10-13T16:41:31.609Z"
   },
   {
     "title": "티암 사이드보드",
     "price": 930000,
     "productUrl": "https://www.alloso.co.kr/product/detail?productCd=ASQQ003A",
-    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20200317/_38e5daf6-ea2c-4021-b468-b6e93e5c408a_S500.png"
+    "imageUrl": "https://cdn.alloso.co.kr/AllosoUpload/product/color/20200317/_38e5daf6-ea2c-4021-b468-b6e93e5c408a_S500.png",
+    "detailImage1": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200317/_272f7a21-3cd5-4663-b167-05fcdd146b1b.jpg",
+    "detailText1": "티암은 슬림한 프레임과 매스감있는 수납장의 조화가 돋보이는 제품입니다. 군더더기 없는 라인을 가지고 있어, 어떤 공간, 어떤 곳에서든 조화롭게 어우러지면서도 은은한 존재감을 뽑냅니다.",
+    "detailImage2": "https://cdn.alloso.co.kr/AllosoUpload/contents/20200317/_202d58d1-7e90-4086-ba32-e523140a4558.jpg",
+    "detailText2": "깔끔한 디자인을 돋보이게 하는 섬세한 소재 선택",
+    "scrapedAt": "2025-10-13T16:41:34.941Z"
   }
 ]

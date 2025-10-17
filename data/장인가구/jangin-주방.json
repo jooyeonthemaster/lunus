@@ -3,192 +3,353 @@
     "title": "뉴블레비오 식탁",
     "price": 2139000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=636",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_17567126093tbo9oodno.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2509/b140b323a5813f10a2209b3622feb740_1758778214_5602.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:24.949Z"
   },
   {
     "title": "온리 원형 식탁",
     "price": 1528000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=625",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1748417317lxv5ntfuaz.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2505/c1881077a60e0e3d4ccdf44204e68897_1748070270_3653.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:28.447Z"
   },
   {
     "title": "센텀II 식탁",
     "price": 1412000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=619",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1744958343q0akijui3i.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2504/39b23a5d2ea73fd16f9120f6a86399d6_1744958306_4105.png"
+    ],
+    "scrapedAt": "2025-10-13T12:42:32.311Z"
   },
   {
     "title": "디아체 식탁",
     "price": 1650000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=607",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1735181134mi022fufiv.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148436_8207.jpg",
+      "https://www.jangin.com/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148443_2557.jpg",
+      "https://www.jangin.com/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148447_2517.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:36.000Z"
   },
   {
     "title": "몰디브 패밀리 식탁",
     "price": 868000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=606",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1735180115r6y1f9ei9x.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2507/718571ae65eb69fb7df478a90eba25dc_1752729571_7621.png"
+    ],
+    "scrapedAt": "2025-10-13T12:42:40.929Z"
   },
   {
     "title": "리프 식탁(오크브라운)",
     "price": 1464000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=603",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_173251505341cbkjh196.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2507/ff448da77e77cf927cbf62e2efdcac34_1753247797_3059.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:44.490Z"
   },
   {
     "title": "리프 식탁(네추럴오크)",
     "price": 1020000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=601",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1732501595hjw9bo87vv.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2507/ff448da77e77cf927cbf62e2efdcac34_1753250370_1949.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:47.924Z"
   },
   {
     "title": "온리 식탁",
     "price": 1605000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=598",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_17324918924t0wryho6a.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2507/76a53c7941179bdde046dec6c71d45d2_1751430096_3145.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:51.551Z"
   },
   {
     "title": "히앤 식탁",
     "price": 1433000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=596",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1732145270mukel22z9q.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2501/3c556ebd629b65340790ffbfc9dd54e4_1736915042_2449.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:55.347Z"
   },
   {
     "title": "세인트Ⅱ식탁",
     "price": 1760000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=595",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1731914668e8avny37f8.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2501/deb4f4cb62031a456c01989ee7a2cc2a_1736388365_9005.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:42:58.875Z"
   },
   {
     "title": "뉴인테라스 식탁",
     "price": 1388000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=582",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_17247148704pcbqy9yky.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2507/8772c16def664d56c315633d5eb30de6_1752457340_6188.png",
+      "https://www.jangin.com/data/editor/2408/bba415addb6e7f0894bd827638bf5f60_1724714843_1254.png",
+      "https://jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715128405_2167.png"
+    ],
+    "scrapedAt": "2025-10-13T12:43:02.629Z"
   },
   {
     "title": "몰디브II 식탁",
     "price": 1191000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=586",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1725858131kbhw3t99ga.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2409/9aee1c305517881d210934c2b2466096_1726037892_2128.png",
+      "https://www.jangin.com/data/editor/2409/9aee1c305517881d210934c2b2466096_1726037897_4081.png",
+      "https://jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715128405_2167.png"
+    ],
+    "scrapedAt": "2025-10-13T12:43:06.822Z"
   },
   {
     "title": "심포니 식탁",
     "price": 990000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=552",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_17018407531s20nsey27.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2405/d2eb9975e648344241a6fcd5364cc018_1714719402_3417.jpg",
+      "https://www.jangin.com/data/editor/2405/d2eb9975e648344241a6fcd5364cc018_1714719403_5301.jpg",
+      "https://www.jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715128405_2167.png"
+    ],
+    "scrapedAt": "2025-10-13T12:43:09.749Z"
   },
   {
     "title": "칼리아 내추럴",
     "price": 960000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=551",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1701840260ktzt7o1g8c.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715127286_0669.jpg",
+      "https://www.jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715127290_3185.jpg",
+      "https://www.jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715128307_4255.png"
+    ],
+    "scrapedAt": "2025-10-13T12:43:13.061Z"
   },
   {
     "title": "스틸라 식탁",
     "price": 1818000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=550",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_17018400054mpmk4mbkb.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2312/03d3ea8621ba4de1ee90de7b644759f1_1702270020_3357.jpg",
+      "https://www.jangin.com/data/editor/2312/03d3ea8621ba4de1ee90de7b644759f1_1702270105_4617.jpg",
+      "https://www.jangin.com/data/editor/2312/03d3ea8621ba4de1ee90de7b644759f1_1702270105_5373.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:16.533Z"
   },
   {
     "title": "일립스 식탁",
     "price": 1520000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=549",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_17018353672ezsnjuxpz.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2312/df9155977ac9def1339cf0d76edc7ca3_1702366936_1903.jpg",
+      "https://www.jangin.com/data/editor/2312/df9155977ac9def1339cf0d76edc7ca3_1702366945_8385.jpg",
+      "https://www.jangin.com/data/editor/2312/df9155977ac9def1339cf0d76edc7ca3_1702366945_9583.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:19.435Z"
   },
   {
     "title": "아티젠 식탁",
     "price": 1569000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=536",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_16849999383eu7uhv52p.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2305/30295227d65d9496260e9c6e8ecf9df7_1685002372_8383.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:23.486Z"
   },
   {
     "title": "위즈너 식탁",
     "price": 1212000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=484",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_16521617894e78p1h6fd.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652250925_9588.jpg",
+      "https://www.jangin.com/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652161457_8267.png",
+      "https://www.jangin.com/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652161537_236.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:27.498Z"
   },
   {
     "title": "에비크 식탁",
     "price": 1060000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=483",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_16515456904afkz9pw6d.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1651544722_3682.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:31.774Z"
   },
   {
     "title": "호펜식탁",
     "price": 1211000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=481",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_16508429655q58t0a38g.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2204/4ed1dd86c8a989552edf5389458aadc5_1650842068_5194.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:34.918Z"
   },
   {
     "title": "센텀 식탁",
     "price": 1412000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=458",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1647302498zbmzda6oy0.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2203/fbd7814a0ba0d06e48c960a927135d0b_1647302072_3409.jpg",
+      "https://www.jangin.com/data/editor/2110/c300d9a21d4517e489dd391d15cd6e03_1633563988_1205.png",
+      "https://www.jangin.com/data/editor/2203/fbd7814a0ba0d06e48c960a927135d0b_1647302107_2293.jpg",
+      "https://www.jangin.com/data/editor/2112/c300d9a21d4517e489dd391d15cd6e03_1640931426_227.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:38.021Z"
   },
   {
     "title": "칼리아 식탁(브라운)",
     "price": 1297000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=453",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1624413126imhn56g01o.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2106/9613f49da73d96cc7a3c1712b8813a67_1624410339_0373.jpg",
+      "https://www.jangin.com/data/editor/2108/e8ea8f52f0ec75c07623755e8048d95d_1628562427_144.jpg",
+      "https://www.jangin.com/data/editor/2108/e8ea8f52f0ec75c07623755e8048d95d_1628562427_4525.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:41.375Z"
   },
   {
     "title": "칸느 식탁",
     "price": 1376000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=441",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1619055397w577b5hlfq.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2104/d86e109fc075600d443454ffd4d637d5_1619409652_8718.jpg",
+      "https://www.jangin.com/data/editor/2104/53843c9be1b2a894730dc458d4176a3b_1619054360_5191.jpg",
+      "https://www.jangin.com/data/editor/2104/53843c9be1b2a894730dc458d4176a3b_1619054360_6248.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:45.026Z"
   },
   {
     "title": "베니스 식탁",
     "price": 1220000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=427",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_16136997319344mny24z.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2102/7350487b04d757739f10d8a965b7d735_1613699404_0367.jpg",
+      "https://www.jangin.com/data/editor/2112/c300d9a21d4517e489dd391d15cd6e03_1640931543_6021.jpg",
+      "https://www.jangin.com/data/editor/2112/c300d9a21d4517e489dd391d15cd6e03_1640931543_7314.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:48.103Z"
   },
   {
     "title": "에시드 식탁",
     "price": 1280000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=415",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1603959542ghqtrklrm7.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2010/788c14ab0dfc02d8ad87a27336ef5df0_1603959436_5586.jpg",
+      "https://www.jangin.com/data/editor/2112/c300d9a21d4517e489dd391d15cd6e03_1640931592_2455.jpg",
+      "https://www.jangin.com/data/editor/2112/c300d9a21d4517e489dd391d15cd6e03_1640931592_379.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:52.207Z"
   },
   {
     "title": "왈츠 식탁",
     "price": 807000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=404",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1589942448el28e1ozer.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2005/efd05e623323b80ec3c75330807092cc_1589942429_0683.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:55.630Z"
   },
   {
     "title": "에펠 식탁",
     "price": 1343000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=402",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_158883442678aknftlrd.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2008/3b90a4660693c9b698a1c6afe145a13e_1598425704_893.jpg",
+      "https://www.jangin.com/data/editor/2112/c300d9a21d4517e489dd391d15cd6e03_1640931757_5892.jpg",
+      "https://www.jangin.com/data/editor/2112/c300d9a21d4517e489dd391d15cd6e03_1640931757_7421.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:43:59.243Z"
   },
   {
     "title": "몰디브 식탁",
     "price": 889000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=393",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_15832220525ms2zejh1b.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2003/1f78163e6786576811c1eb6bcf9098a5_1583295506_708.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:02.722Z"
   },
   {
     "title": "케이스 식탁",
     "price": 1733000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=369",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_157967753428m0do2xe1.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2001/e5d72af188c0879b57f115f5d0935fef_1579677518_6575.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:06.090Z"
   },
   {
     "title": "더스틴 식탁",
     "price": 1097000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=368",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1641446112xkezre625r.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2201/c300d9a21d4517e489dd391d15cd6e03_1641446029_2005.jpg",
+      "https://www.jangin.com/data/editor/2201/c300d9a21d4517e489dd391d15cd6e03_1641446494_076.jpg",
+      "https://www.jangin.com/data/editor/2201/c300d9a21d4517e489dd391d15cd6e03_1641446494_2145.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:10.512Z"
   },
   {
     "title": "플로린 식탁",
     "price": 1016000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=250",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1533696323v2yvwet354.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533696262_0808.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533696263_8162.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:14.919Z"
   },
   {
     "title": "망고 식탁",
     "price": 983000,
     "productUrl": "https://www.jangin.com/view.php?cate=3&idx=241",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_15336935683fbo32kii2.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2304/6119779241fb847f196ec9a0bd521125_1682556782_9425.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533693258_9639.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:18.724Z"
   }
 ]

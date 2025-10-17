@@ -3,600 +3,1270 @@
     "title": "아고 플립 테이블 조명 (Flip Table)",
     "price": 297000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA02A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250519/_101295ea-a6e5-4e3f-8f52-1fe1aae08573.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250519/_101295ea-a6e5-4e3f-8f52-1fe1aae08573.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250519/S200_27501d5a-1923-43c6-9470-22aa4af8d49c.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_9e2f314a-bf3c-4603-b29b-7403b5c59860.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_88b424b7-e8ee-496c-a550-61b94396df25.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_ae12f142-0f8a-4f67-a7c4-f003aed30e63.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:30:30.651Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 코모 포터블 조명 (Como SC53 Portable)",
     "price": 531,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT00A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_5b0f5151-506b-4d3a-b14e-f67330fa260f.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_5b0f5151-506b-4d3a-b14e-f67330fa260f.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_92b1bf98-7d90-48ef-9d1f-5b3133abed9e.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_8a2cf34b-c8dc-4385-9794-2b5d51a46c5a.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_d7702f37-9c99-49b5-9814-0c626367f1b1.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_2da74253-cf1b-4323-b6c8-1e0c3c7d528c.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_d729ac87-6107-4e58-a759-cc293cc4c51e.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_21a95536-9f6b-4ec8-b4a6-bc3240b8698d.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:30:36.780Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 플립 플로어 조명 (Flip Floor)",
     "price": 429000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA01A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250519/_70375502-8957-4fdc-913a-2c24ae61bc58.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250519/_70375502-8957-4fdc-913a-2c24ae61bc58.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250519/S200_8d5ced0b-3961-499b-ae07-d0a1e9f596ce.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_2dd1661d-8352-4f01-898f-3c19e8d77b70.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_6526e1ea-87f4-4554-bc48-b0aa0c7e88a9.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_a3539617-c25c-4c74-b080-2e0eba1d5a06.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:30:42.322Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 트라이팟 플로어 조명 (Tripod HM8 Floor)",
     "price": 80,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT07A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_cabd6095-0e3f-4e9a-b5de-50d3cf5eed67.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_cabd6095-0e3f-4e9a-b5de-50d3cf5eed67.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_ea8e920c-5d7c-4a03-b7b9-f8da5dc97e24.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_c74ee0bd-a192-4d4e-997c-ef909073a501.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_45b15562-aab3-414c-b0a4-d015f0627288.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:30:47.552Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 플라워팟 포터블 조명 (Flowerpot VP9 Portable)",
     "price": 90,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT05A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_d2296243-bb49-4f0a-b9a5-36f992e26e1a.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_d2296243-bb49-4f0a-b9a5-36f992e26e1a.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_31dd96fb-53e1-494a-a0b5-e7b214acbd85.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_f6962b63-fa9b-4f42-9d6a-651806dc9912.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_1a76226b-3639-4f23-9325-93fec1e4c483.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_c23ff86f-1962-43f7-8eba-8831bdf593d9.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_9b144bda-5a88-4d73-a5e3-5ea9bd9cfe31.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_1fc3a315-9927-409d-9f4a-0e82e29a37a3.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_713708b0-5699-4808-b664-8317ea630675.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_9081f610-f8fa-4427-8113-1c5a1e4c8cc2.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_b88f892c-66f9-412b-893a-203808edba02.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_d48b4f5a-2c89-44e0-97b3-5c00438cb74f.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_5efe007f-73e0-457e-bd6d-9131e19bcf36.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_ffc42be5-3887-4d08-9373-80dc4ad362e7.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_a1cfa458-543b-4b6f-a17c-beb5b8b7cf04.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:30:53.488Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 플립 펜던트 조명 (Flip Pendant)",
     "price": 286000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA00A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250519/_9bc3dba0-5257-49c3-8f5d-8c768a561cdf.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250519/_9bc3dba0-5257-49c3-8f5d-8c768a561cdf.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250519/S200_0f296443-2da2-4404-9b46-16eec7f93698.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_4847d30d-154a-46af-95e2-290612b4de23.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_7959c1b3-6ad7-42f6-b069-a3486c88bbcb.jpg",
+      "https://www.iloom.com/upload/productColor/20250519/S200_ce20ad67-6c2c-4f64-865e-986b757d547a.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:30:59.112Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 세타고 포터블 조명 (Setago JH27 Portable)",
     "price": 270,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT02A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_243cd451-05d3-449d-b2ae-3ce10e962002.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_243cd451-05d3-449d-b2ae-3ce10e962002.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_160c1c7b-8836-43b1-896d-39c8285b1d69.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_217eac26-1c6f-49ee-8f9c-f7a4118510c2.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_1f75a2c2-bdac-4015-b6c2-01f2efe7e394.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_ded0f080-bd7c-45a5-9923-c3922424553a.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:05.003Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "베스트버그 일 테이블 조명 (W153 ile)",
     "price": 350000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL0000A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250610/_f6f7bb36-97d6-45c5-abc8-a48e9b4740be.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250610/_f6f7bb36-97d6-45c5-abc8-a48e9b4740be.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250610/S200_ccaa945a-936a-41a5-b2b8-143e7e4755f8.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_c36f1adb-f72c-43cb-8c2b-42e6ace14b17.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_5960e3c0-0dd2-497c-9b9e-66f33f4e121c.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_533f0322-aaab-4eab-bcec-78a18fd96d9c.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_3948aa2e-c329-4f2e-9abf-25890b84bf18.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_77968df4-73ee-4aeb-96a4-5a3d36022930.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_2ef9cead-cd09-4a73-9006-e155c2592c97.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:10.526Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 프로브 플로어 조명 (Probe Floor)",
     "price": 665000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA06A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_2011aae9-5136-481b-bca5-7587ed9a1361.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_2011aae9-5136-481b-bca5-7587ed9a1361.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_a5c5aeea-386b-489f-91be-9e703cfed84d.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_611c7252-0584-47bb-b158-75af6d8093ed.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:16.809Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 보야지 리니어 펜던트 조명 (Voyage Linear Pendant)",
     "price": 968000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA04A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_704bb42b-40a0-4951-b18d-0496d0be5e86.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_704bb42b-40a0-4951-b18d-0496d0be5e86.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_57e2180e-7a39-4be0-883b-ac3726fd4d3f.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_e1dc642f-7f4c-4910-af5c-689ae98160fa.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:22.163Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 서커스 샹들리에 펜던트 조명 L (Cirkus Chandelier Pendant L)",
     "price": 930000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA13A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_202d7f91-3c2b-4e29-9425-03de5f323bdf.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_202d7f91-3c2b-4e29-9425-03de5f323bdf.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_6bf7eb4e-e7b1-40da-ae2b-13c54e93ad77.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_8e145a46-730a-4579-9afe-a1b043d03fe9.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_8bb96ce0-7aca-4407-a0fe-391e39e8c8ab.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_13ddf110-19e0-4c08-b8ae-54ba1bc9dcef.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_f5121fb2-82ab-49f6-8c60-ad6dd95d29d2.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:28.432Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 보야지 플로어 조명 (Voyage Floor)",
     "price": 987000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA05A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_49c9a0a6-8b83-48ca-a2e7-47f42cf93252.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_49c9a0a6-8b83-48ca-a2e7-47f42cf93252.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_44b3c86d-1da9-4a79-a000-f1f9cfc356c8.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_ad37720c-4e9d-4946-bdf9-f8bca25dfa12.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:34.162Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "베스트버그 파스틸 테이블 조명 (W182 Pastille)",
     "price": 590000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL0001A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250610/_51df981e-fe26-46fc-82e3-2791407bd747.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250610/_51df981e-fe26-46fc-82e3-2791407bd747.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250610/S200_12a9fb9a-1ba3-4025-b666-8b6da10f0634.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_78e837a7-b25d-4a9d-b980-c227e7c2590b.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_fc976a92-45de-40de-a1bc-b5a5195eb24b.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_4b1d1bcd-0cd1-4e73-8fe4-4dd76f0c6d92.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_8fba04bd-de97-4ccc-a680-dd87c43b72cb.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:39.563Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "베스트버그 파로 포터블 조명 (W241 Faro)",
     "price": 350000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00WB00A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250609/_d829e740-474f-4301-be04-26d3422fbc89.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250609/_d829e740-474f-4301-be04-26d3422fbc89.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250609/S200_d599217e-457f-4304-934a-96af9bfb1a0f.jpg",
+      "https://www.iloom.com/upload/productColor/20250609/S200_63f4d88d-e558-4be4-8f9b-4df895b1214c.jpg",
+      "https://www.iloom.com/upload/productColor/20250609/S200_935deef4-94d0-4e9c-91d2-6413a2cdf732.jpg",
+      "https://www.iloom.com/upload/productColor/20250609/S200_c2d32586-74f7-40c1-9950-54f8edfd9771.jpg",
+      "https://www.iloom.com/upload/productColor/20250609/S200_c967af12-b11b-4e72-b2e5-e77878e8ecef.jpg",
+      "https://www.iloom.com/upload/productColor/20250609/S200_204905ef-51e7-4ed9-875e-ecd3822b6503.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:45.775Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 플라워팟 포터블 조명 (Flowerpot VP9 Portable)",
     "price": 90,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT16A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_b3bd967c-e20d-4580-85ed-033bf0aacf49.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_b3bd967c-e20d-4580-85ed-033bf0aacf49.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_80bc5ee7-6e31-46cb-8eb8-b5c3d2812d30.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_39c6ed17-643c-429d-a5df-efb7e253a899.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_7cc5729e-9a6f-47c0-b662-b7a23d34c5f6.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:51.618Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 모찌 펜던트 조명 L (Mozzi Pendant L)",
     "price": 671000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA22A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_0656e8b5-f71c-43f6-ab26-a9d6df40c301.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_0656e8b5-f71c-43f6-ab26-a9d6df40c301.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_c4cc4615-7fee-4d25-93e0-6119c11b9ff0.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_fbb0106e-8b51-46b7-bf8f-9414c1d92d4f.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_6c963056-5bd7-442b-b476-e7140d56a530.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_669fa947-b1cc-4ccb-81a2-b00a803edba9.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_db71d152-7492-43cb-a317-ffd194d09be4.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:31:56.945Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 엘리 펜던트 조명 L (Alley Pendant L)",
     "price": 418000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA24A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_e464e29b-64d8-418f-a322-33a22519b2e7.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_e464e29b-64d8-418f-a322-33a22519b2e7.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_997e04c7-1e06-4902-9550-8a067d253e6f.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_cc974489-4c21-4375-a3c9-5595163072e5.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:03.017Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 모찌 포터블 조명 (Mozzi Portable)",
     "price": 396000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA18A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_674d18a9-8253-4bdd-9ccd-5797e792d782.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_674d18a9-8253-4bdd-9ccd-5797e792d782.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_616b898d-4bba-45ae-a5a2-96b4ec90a550.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_3f588301-8341-4105-8be7-3bb0af39ee90.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_75e0debd-7c19-4b70-834e-8eb44c061a6c.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_cdb8860a-627d-4c99-a142-359a2734e492.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_d7e10188-2260-457e-bfbe-11289280beb3.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:09.371Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 루카 포터블 조명 (Lucca SC51 Portable)",
     "price": 510,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT03A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_62fe5db4-d21f-4753-8085-d7ab07536e74.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_62fe5db4-d21f-4753-8085-d7ab07536e74.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_3c1318c0-2746-4bd2-8228-447bd57288f6.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_457d5932-2bca-4f34-8f3d-f405496dd71d.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:15.338Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 프로브 데스크 조명 (Probe Desk)",
     "price": 429000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA07A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_b804aa06-3039-4c09-8705-8acd55407606.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_b804aa06-3039-4c09-8705-8acd55407606.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_c9adf7e5-97fb-4990-a7a2-c546eb0e18e8.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_78897406-b5ad-4f4c-aca6-ddc31e9a3712.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:20.977Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 엘리 테이블 틸트 조명 S (Alley Table Tilt S)",
     "price": 374000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA23A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_bd8f6cb9-ff3c-40b9-a510-69793e2df592.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_bd8f6cb9-ff3c-40b9-a510-69793e2df592.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_1d50bece-3adf-4e51-a4f0-687b847cfd97.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_263b4e2a-e224-44c8-bbd5-ee5f529bb6f2.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_4ccc7700-fb98-41a3-861e-a0bea2cfc590.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_85007dbe-ef42-48a5-9687-304b686a214b.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_6e3ad79a-a4b2-4aba-b547-eb06b73fefba.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_b736d69d-1b19-4e52-8cd7-540e2fdd679b.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_57da8c80-004a-440c-bb10-19f385cd096c.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_9b7f7abd-afc7-4389-b2be-a7dc7f507ce1.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:26.948Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 서커스 샹들리에 펜던트 조명 S (Cirkus Chandelier Pendant S)",
     "price": 640000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA12A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_8e91b7ae-d6da-4080-8eab-3c80a7fcbd91.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_8e91b7ae-d6da-4080-8eab-3c80a7fcbd91.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_0cf73cc8-1d09-4fa8-973f-4a2487a9ae74.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_c23e36ff-4848-4293-bbf8-5eec47043ecf.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_04d910be-e1a3-4c22-ac44-6b4fd73d27a0.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_6d70a018-e419-4997-9457-c268c0f0be58.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_c26ed6fd-2f69-44aa-93f5-00c4ffa297bb.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:33.181Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 모찌 펜던트 조명 S (Mozzi Pendant S)",
     "price": 242000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA21A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_59896be8-7b47-408c-96bf-44e054dc1fcc.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_59896be8-7b47-408c-96bf-44e054dc1fcc.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_cf6e2367-8bb9-4757-9c49-0e149f138122.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_d0429d82-4783-41ca-80df-74bf69e6f252.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_66842ae9-9213-42f8-b58f-465b851a1fb4.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_6f9624a0-dc09-43fc-bfca-3d2e76d29a47.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_b49611f3-75c7-4b8f-a7fa-cb386225e165.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:39.018Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 보야지 라운드 펜던트 조명 (Voyage Round Pendant)",
     "price": 825000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA03A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_331e62d5-a787-46b6-9540-2d7c26c94585.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_331e62d5-a787-46b6-9540-2d7c26c94585.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_68b7bf48-8de2-4c44-b2ad-680f6e77d870.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_9d6821e8-518d-4054-8eb3-741e70a7a3c1.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:44.662Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 플라워팟 펜던트 조명 M (Flowerpot VP1 Pendant M)",
     "price": 10,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT14A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_bc359e52-28bf-46d3-af54-d9a05f3dd0a9.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_bc359e52-28bf-46d3-af54-d9a05f3dd0a9.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_bcd10c4c-842e-48ba-8bc3-f64ae38c2a1b.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_da48b57a-bf54-438a-a540-11f6a4f14b00.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_8f9700bc-a377-4bb5-8b37-9227ceb83991.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_69dc78fc-17d1-4542-87ac-f62685e92bea.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_80c4cfe2-68ed-4ead-9db9-7345651e6fb8.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_ee649e52-03e0-4f46-bf72-546f478c5746.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_84d9cb52-d0b6-4dae-8d5a-0a115ff6ea51.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:50.269Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 엘리 펜던트 조명 S (Alley Pendant S)",
     "price": 330000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA28A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_3128497b-4a25-402e-b646-d68b8eaaec9e.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_3128497b-4a25-402e-b646-d68b8eaaec9e.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_557befa0-275c-4586-905a-006decb50976.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_15945ffc-7ba8-4903-ab4d-5c0d041156b4.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_4125a872-7e4a-4fd3-8661-32f1412e1e3d.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_9471b379-1ff3-4b1b-b451-e678c0ce5062.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_988564fc-5714-4c3b-be7d-947061ec0bc6.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_5968498f-19f9-4fb5-aef9-4e129e7882b0.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_604110df-6f56-4b77-ab5f-4b5c32bd65a1.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_0c966747-48ae-43fd-a82d-b1b1d1bbf8f1.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:32:55.579Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 포마카미 펜던트 조명 JH3 (Formakami JH3 Pendant)",
     "price": 330,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT10A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_f31e8be5-4af8-40ac-9784-e3264581b33a.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_f31e8be5-4af8-40ac-9784-e3264581b33a.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_d5a71c07-9709-436d-b94a-9849f82e8ea7.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_4d4d3d2d-1d9c-43d5-be3c-e110529085bd.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:00.857Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아고 벌룬 펜던트 조명 (Balloon Pendant)",
     "price": 528000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00GA17A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_4d75d3a1-f8ed-4843-b82a-b05e0d3e2305.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_4d75d3a1-f8ed-4843-b82a-b05e0d3e2305.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_6d77d145-ba24-409b-a3db-84aa44c13a9b.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_74f32d8e-729e-46b0-9af0-0ff3ca694ebe.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_8d795329-7dd0-477c-a639-b45fa719c03a.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_0d74dc0b-2d24-4272-8f49-0511a114de07.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_1da00228-1bf2-4595-aa07-ea1512bbeceb.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_b1ad7729-4f02-4854-b6df-79d8834128d9.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_15582691-753f-4d8d-b584-e5b3fe70424a.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:07.240Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 포마카미 펜던트 조명 JH4 (Formakami JH4 Pendant)",
     "price": 440,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT11A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_6a009d4c-a945-4090-871e-81c185a3265e.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_6a009d4c-a945-4090-871e-81c185a3265e.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_3fd7c8c4-514b-46ba-b7e4-00c88b19a4d8.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_7621dea3-20ee-455c-9372-98baae8798bd.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:13.810Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "앤트레디션 포마카미 펜던트 조명 JH5 (Formakami JH5 Pendant)",
     "price": 550,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL00NT12A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250605/_e535b1a1-3dbf-401f-b12e-199b8aa7837f.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250605/_e535b1a1-3dbf-401f-b12e-199b8aa7837f.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250605/S200_c0419aec-ec66-49ae-9456-7b3c70717709.jpg",
+      "https://www.iloom.com/upload/productColor/20250605/S200_cca3b431-20bf-43c3-9601-b971654a413d.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:19.649Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "베스트버그 포슨 테이블 조명 (W223 Pawson)",
     "price": 720000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL0002A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250610/_89431bd2-6d66-49e7-adbf-5877736e1849.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250610/_89431bd2-6d66-49e7-adbf-5877736e1849.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250610/S200_0fee3ccf-e3db-409f-b497-b97eae4b6033.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_1780cc0a-db9d-4c25-876a-2eedd9a1aeb6.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:25.899Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "베스트버그 일루미나 테이블 조명 (W203 ilumina)",
     "price": 1190000,
     "productUrl": "https://www.iloom.com/product/detail.do?productCd=IAL0004A",
-    "imageUrl": "https://www.iloom.com/upload/product/20250610/_a886e64c-3369-4a3a-9519-6e60bcc477b0.jpg"
+    "imageUrl": "https://www.iloom.com/upload/product/20250610/_a886e64c-3369-4a3a-9519-6e60bcc477b0.jpg",
+    "galleryImages": [
+      "https://www.iloom.com/upload/product/20250610/S200_c5d8fcab-dc5e-4207-a3d9-7654e72b7327.jpg",
+      "https://www.iloom.com/upload/productColor/20250610/S200_cf4b4dbf-c29d-4cb4-892d-d6e85a2e23a8.jpg"
+    ],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:31.647Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "침실",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=1",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:37.892Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "침대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=8",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:44.439Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "매트리스",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=607",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:49.932Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "드레스룸",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=9",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:33:55.856Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=10",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:00.868Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "화장대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=11",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:06.363Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "옷장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=844",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:11.372Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "옷장/붙박이장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=845",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:16.865Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "거실",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=3",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:22.548Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "소파",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=13",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:28.913Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "테이블",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=14",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:34.867Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "거실장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=15",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:41.061Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=16",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:46.213Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "액세서리",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=523",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:52.210Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "주방",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=4",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:34:58.174Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "식탁",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=17",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:03.601Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "식탁의자",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=586",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:09.871Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "식탁세트",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=1020",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:15.297Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=18",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:21.455Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "키즈룸",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=5",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:28.274Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "책상",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=20",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:34.471Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=21",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:39.589Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "침대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=19",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:45.183Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "소파/의자",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=22",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:51.339Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "액세서리",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=241",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:35:57.455Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "학생방",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=6",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:04.682Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "책상",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=23",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:10.131Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "책장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=24",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:16.455Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "침대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=27",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:22.594Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=25",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:29.080Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "의자",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=26",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:34.538Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "서재",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=7",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:41.081Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "책상",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=28",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:46.493Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "책장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=29",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:52.340Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "서랍장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=30",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:36:57.288Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "의자",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=31",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:03.727Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=490",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:08.706Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "조명",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=1055",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:14.533Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "포터블 조명",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=1056",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:20.289Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "테이블 조명",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=1057",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:25.761Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "플로어 조명",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=1058",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:31.153Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "펜던트 조명",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=1059",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:36.604Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "펫",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=562",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:42.267Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "고양이",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=639",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:48.522Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "강아지",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=770",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:37:54.485Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "아울렛",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/list.do?categoryNo=547",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:01.556Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "침실",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=555",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:07.558Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "옷장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=557",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:12.687Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "거실",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=556",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:18.063Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "주방",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=558",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:23.492Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "키즈룸",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=559",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:28.697Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "학생방",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=560",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:35.270Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "서재",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=561",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:40.253Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "모션베드",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=33",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:45.963Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "일반침대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=32",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:51.350Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "패밀리침대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=196",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:38:56.363Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "호텔침대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=838",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:01.805Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "매트리스",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=197",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:07.073Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "액세서리",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=36",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:12.593Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "헤이븐 매트리스",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=921",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:17.432Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "매트리스",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=614",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:23.498Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "매트리스 커버/패드",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=686",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:28.573Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "드레스룸",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=642",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:34.063Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "서랍장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=210",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:40.083Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=540",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:44.982Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "협탁/사이드 테이블",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=39",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:49.983Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "수납장 액세서리",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=1027",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:39:55.439Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   },
   {
     "title": "화장대",
     "price": 0,
     "productUrl": "https://www.iloom.com/product/item.do?categoryNo=211",
-    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3"
+    "imageUrl": "https://www.iloom.com/product/list.do?categoryNo=1055&pageNo=3",
+    "galleryImages": [],
+    "detailSections": [],
+    "scrapedAt": "2025-10-16T17:40:01.874Z",
+    "detailHTML": "",
+    "detailHTMLCount": 0
   }
 ]

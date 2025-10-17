@@ -1,6 +1,5 @@
 "use client";
 
-import Image from "next/image";
 import { useMemo, useState } from "react";
 import type { Product } from "@/data/products";
 import BottomNavigation from "@/components/BottomNavigation";
@@ -53,13 +52,11 @@ export default function SimilarProductsView({
             {/* Liked Product Section */}
             <div className="lg:w-1/3 lg:sticky lg:top-8 lg:self-start mb-8 lg:mb-0">
               <div className="relative w-full h-64 lg:h-80 rounded-lg overflow-hidden bg-gray-50 mb-4 lg:mb-6">
-                <Image
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img
                   src={likedProduct.image}
                   alt={likedProduct.name}
-                  fill
-                  className="object-cover"
-                  sizes="(max-width: 1024px) 100vw, 33vw"
-                  priority
+                  className="w-full h-full object-cover"
                 />
               </div>
               <div className="text-center lg:text-left mb-2 lg:mb-3">
@@ -111,13 +108,18 @@ export default function SimilarProductsView({
                     onClick={() => onProductClick?.(product)}
                   >
                     <div className="relative w-full h-40 lg:h-48 overflow-hidden bg-gray-50 mb-3">
-                      <Image
+                      {/* eslint-disable-next-line @next/next/no-img-element */}
+                      <img
                         src={product.image}
                         alt={product.name}
-                        fill
-                        className="object-cover hover:scale-105 transition-transform duration-300"
-                        sizes="(max-width: 768px) 50vw, (max-width: 1024px) 33vw, 25vw"
+                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
                       />
+                      {/* 유사도 뱃지 */}
+                      {(product as any).similarity && (
+                        <div className="absolute top-2 right-2 bg-gray-800 bg-opacity-90 text-white text-xs px-2 py-1 rounded-full font-bold">
+                          {((product as any).similarity * 100).toFixed(0)}% 유사
+                        </div>
+                      )}
                     </div>
                     <div className="p-3 lg:p-4">
                       <div className="mb-1 lg:mb-2">

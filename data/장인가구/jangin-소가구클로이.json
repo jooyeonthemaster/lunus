@@ -3,90 +3,157 @@
     "title": "휴빅 5단 서랍장",
     "price": 447000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=628",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1749443664jgzztz1948.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749443348_9684.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:25.799Z"
   },
   {
     "title": "넬리 화장대",
     "price": 424000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=624",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1747629710mm9vrhd6kk.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2505/aafbbd12e9135eef17aaac333e4a089a_1747628770_2593.jpg",
+      "https://jangin.com/data/editor/2503/eace519af25ae99336737a411a3b01b4_1742436307_6816.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:29.533Z"
   },
   {
     "title": "넬리 3단 서랍장",
     "price": 256000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=621",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1745557710d63pr4zd3a.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2504/05d4d8c78e0a4ddbbd4b3b24f2a0ec42_1745557591_3849.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:33.627Z"
   },
   {
     "title": "넬리 5단 서랍장",
     "price": 323000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=620",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_17455571263cqt2acqsy.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2504/05d4d8c78e0a4ddbbd4b3b24f2a0ec42_1745557093_3612.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:37.078Z"
   },
   {
     "title": "망고 스툴",
     "price": 85000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=477",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1649398804wc3mjstvgu.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649398742_7588.png"
+    ],
+    "scrapedAt": "2025-10-13T12:44:40.252Z"
   },
   {
     "title": "모히토 스툴",
     "price": 87000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=476",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1649396994z1e88o2awe.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649396921_4375.png"
+    ],
+    "scrapedAt": "2025-10-13T12:44:44.155Z"
   },
   {
     "title": "베네치아 스툴",
     "price": 102000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=475",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1649396719ijhe4gt3jd.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649396705_5605.png"
+    ],
+    "scrapedAt": "2025-10-13T12:44:47.928Z"
   },
   {
     "title": "라테 러브테이블",
     "price": 534000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=473",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1649395350no2n3kv2tu.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649396356_4258.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:51.491Z"
   },
   {
     "title": "다이어리 러브테이블",
     "price": 956000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=472",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1649394115btpse77t8v.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649396327_2562.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:44:55.375Z"
   },
   {
     "title": "아룬 스툴",
     "price": 111000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=471",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_16493932924p04ruj9r6.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649392890_8672.png"
+    ],
+    "scrapedAt": "2025-10-13T12:44:58.095Z"
   },
   {
     "title": "샤인 화장대",
     "price": 908000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=435",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_16167378074wqjfgh01s.png",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2103/b5095a36dceaf3946c60d06b1a065bbb_1616737523_756.png"
+    ],
+    "scrapedAt": "2025-10-13T12:45:02.002Z"
   },
   {
     "title": "멜로디 스툴",
     "price": 90000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=408",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1592552199zc47ih13gr.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2006/b7a685f64aec2bcdcaa561b3b0c5cb64_1592551854_7673.png"
+    ],
+    "scrapedAt": "2025-10-13T12:45:05.720Z"
   },
   {
     "title": "코코 화장대",
     "price": 527000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=340",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1548382909mfccgih6ok.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1901/5a60a44de80ae9dcd208a8d99fb14f4e_1548382778_5318.png"
+    ],
+    "scrapedAt": "2025-10-13T12:45:09.158Z"
   },
   {
     "title": "로하 렌지대",
     "price": 161000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=279",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_15337196286q3kwaubn6.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533719447_8257.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533719447_9971.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533719448_104.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533719448_1737.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533719448_2248.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533719459_0374.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:13.110Z"
   },
   {
     "title": "리사 화장대",
     "price": 546000,
     "productUrl": "https://www.jangin.com/view.php?cate=5&idx=278",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_153371327358xkg2214l.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533713227_7882.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533713232_6789.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:17.543Z"
   }
 ]

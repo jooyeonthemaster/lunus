@@ -3,42 +3,81 @@
     "title": "알렉스 시리즈",
     "price": 1043000,
     "productUrl": "https://www.jangin.com/view.php?cate=4&idx=590",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_173026252579qhgql94y.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/2410/960933cf2892830cf0bc657066d73e59_1730262026_4047.jpg",
+      "https://www.jangin.com/data/editor/2410/960933cf2892830cf0bc657066d73e59_1730262028_5206.jpg",
+      "https://www.jangin.com/data/editor/2410/960933cf2892830cf0bc657066d73e59_1730262033_1635.gif",
+      "https://www.jangin.com/data/editor/2410/960933cf2892830cf0bc657066d73e59_1730262034_9776.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:25.274Z"
   },
   {
     "title": "코멜리 시리즈",
     "price": 887000,
     "productUrl": "https://www.jangin.com/view.php?cate=4&idx=332",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_154330106583i9xpm5kb.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1811/e9c70c8c40ac5e1cec6ef2f0c65c809a_1543456528_0972.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:28.742Z"
   },
   {
     "title": "하비 시리즈",
     "price": 1083000,
     "productUrl": "https://www.jangin.com/view.php?cate=4&idx=273",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1533707831gsa44vznaf.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533707728_6725.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533707756_2217.gif",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533707759_2343.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533707762_3054.gif",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533707764_5306.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:32.266Z"
   },
   {
     "title": "아몬드 각도조절책상",
     "price": 612000,
     "productUrl": "https://www.jangin.com/view.php?cate=4&idx=270",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1533707304921li2gmio.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533707251_8885.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533707258_8284.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:35.668Z"
   },
   {
     "title": "아몬드 시리즈",
     "price": 774000,
     "productUrl": "https://www.jangin.com/view.php?cate=4&idx=269",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_15337072105cbuoo2jg1.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533706799_9208.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533706849_6598.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:39.358Z"
   },
   {
     "title": "율 시리즈",
     "price": 1217000,
     "productUrl": "https://www.jangin.com/view.php?cate=4&idx=267",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1533706671dd477qe1sj.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533706594_0112.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533706596_8965.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:43.398Z"
   },
   {
     "title": "코코모 시리즈",
     "price": 693000,
     "productUrl": "https://www.jangin.com/view.php?cate=4&idx=264",
-    "imageUrl": "https://www.jangin.com/img/sub/list_sale.png"
+    "imageUrl": "https://www.jangin.com/data/product/b_file_1533705901tyavca1jea.jpg",
+    "detailImages": [
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533705832_0546.jpg",
+      "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533705834_8633.jpg"
+    ],
+    "scrapedAt": "2025-10-13T12:45:46.761Z"
   }
 ]

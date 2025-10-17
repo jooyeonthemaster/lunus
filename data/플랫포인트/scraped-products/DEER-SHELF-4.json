@@ -1,0 +1,96 @@
+{
+  "source": "flatpoint",
+  "brand": "플랫포인트",
+  "category": "선반",
+  "productUrl": "https://flatpoint.co.kr/product/deer-shelf-4/5449/category/51/display/1/",
+  "productCode": "DEER SHELF 4",
+  "productName": "DEER SHELF 4",
+  "price": "",
+  "mainImage": "",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n            <div class=\"pdp-detail\">\n<!-- 디자인 -->\n<div class=\"pdp-section container\" id=\"pdp-tab-01\">\n<div class=\"row pa-50\">\n<div class=\"col-12 m-col-12 pt-10\">\n<div class=\"font-1414 pb-20\">\n</div>\n</div>\n<div class=\"col-6 m-col-12 m-pb-40\">\n<div class=\"font-4242 pb-40\">DEER SHELF 4\n</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-1818 kr pb-40\">천연 소재 리놀륨의 부드러움과 원목이 주는 자연스러움을 더한 디자인. 손 쉽게 조립하는 디어 쉘프입니다.\n<br>\n<br>거실부터 키즈룸까지. 어떤 공간에서도 자연스러운 분위기를 더해보세요. 완성도 높은 디테일과 고급 퀄리티로 완성되었습니다. 이동을 위한 캐스터 옵션을 추가할 수 있습니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\">\n<img alt=\"\" ec-data-src=\"/shop/storage/deershelf/photo_12.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 시리즈 \n\t\t<div class=\"title-sm pa-50\">SERIES</div>\n\t\t<div class=\"row plr-50 mb-200\">\n\t\t\t<div class=\"col-4 m-col-6\">\n\t\t\t\t<a class=\"card\" href=\"#\" target=\"_blank\">\n\t\t\t\t\t<img ec-data-src=\"/shop/storage/deershelf/series_1.png\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">SHELF 2</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t<div class=\"col-4 m-col-6\">\n\t\t\t\t<a class=\"card\" href=\"#\" target=\"_blank\">\n\t\t\t\t\t<img ec-data-src=\"/shop/storage/deershelf/series_2.png\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">SHELF CASTOR 3</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t<div class=\"col-4 m-col-6\">\n\t\t\t\t<a class=\"card\" href=\"#\" target=\"_blank\">\n\t\t\t\t\t<img ec-data-src=\"/shop/storage/deershelf/series_1.png\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">SHELF 4</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>-->\n<!-- 룩북 비디오\n\t\t<div class=\"row pb-20\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t\t\t<div class=\"vimeo-wrapper\">\n\t\t\t\t\t<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/719993669?h=3f6365cbda&badge=0&autopause=0&autoplay=1&background=1&muted=1&loop=1&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"\" data-ready=\"true\"></iframe>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_04.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_05.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_06.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_07.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_08.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_09.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_10.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_11.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_12.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_13.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_23.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/storage/deershelf/photo_45.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n\n<!-- 디자인 포인트 -->\n<div id=\"pdp-tab-01-design\">\n<div class=\"row title-md design-point\">\n<div class=\"col-4 m-col-12\">\n<div class=\"ptb-20 bo-r m-bo-none\">DESIGN POINT</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/storage/deershelf/design_point_1.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">WOOD FRAME</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">원목의 자연스러움</div>\n<div class=\"font-2222 kr mb-120\">원목의 자연스러움을 고스란히 담아낸 디자인에 천연 소재 리놀륨의 부드러움을 더했습니다. 어디든 아늑한 공간으로 완성하는 디어 쉘프입니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/storage/deershelf/design_point_2.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">VARIOUS USE</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">다양한 활용도</div>\n<div class=\"font-2222 kr mb-120\">필요에 따라 손쉽게 단을 분리, 재조립하여 사용해보세요. 공간에 맞는 사이즈와 옵션으로 연출할 수 있습니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/storage/deershelf/design_point_3.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">PORTABLE</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">이동식 캐스터</div>\n<div class=\"font-2222 kr mb-120\">2,3단 쉘프는 이동식 캐스터 옵션을 선택할 수 있습니다. 안전하고 부드러운 이동식 캐스터로 활용도를 높여보세요.\n</div>\n</div>\n</div>\n<!-- 360도 뷰어\n        <div class=\"row pa-50\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t        <div class=\"font-2828\">360 viewer</div>\n            </div>\n\t\t\t<div class=\"font-1818 kr\">360도 뷰어로 확인하는 볼리니 체어</div>\n\t\t\t<div class=\"around-viewer\">\n\t\t\t\t<div class=\"swiper-wrapper\">\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"swiper-pagination\"></div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 임베딩 -->\n<!-- 리뷰 -->\n",
+  "detailCSS": "\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n\n.crema-hide.crema-applied { display : none !important; }\n\n\n        .flatpoint #wrap{\n            max-width: 100%;\n            width: 100%;\n        } \n        .flatpoint #footer .footer-info,\n        .flatpoint #footer .footer-bottom{\n            display: none;\n        }\n    \n\n  [pandassi-banner-group]:not([pandassi-banner-group=\"ready\"]) {\n    display: none !important;\n  }\n\n",
+  "cssLinks": [
+    "https://assets5.cre.ma/widgets/assets/pc-c9334d1331a67b88a5bbb28c4c16b01ef5184ab1c165983eb0e8207debdf3b2d.css",
+    "https://use.typekit.net/bqg5yxi.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/neo/css/SpoqaHanSans-kr.min.css",
+    "https://flatpoint.co.kr/drmvsn/css/style.css",
+    "https://flatpoint.co.kr/drmvsn/css/swiper-bundle.min.css",
+    "https://img.echosting.cafe24.com/editors/froala/css/froala_style_ec.min.css?vs=2510131432",
+    "https://flatpoint.co.kr/ind-script/optimizer.php?filename=ndIxDsIwDAXQvcrKOQwILgASBwBxACd1adQkjpxEgttTYIAORZDV9vv2YOjZE6zWAlH4IuhBKHERQ2BSgk44ZDDsPQc1FhbwyzyZJrEr2XJoNF8rYcm5dqnDG0kdzagdVVKOjbOBGo0hzO53VsPZRjQDHD_z9ugotCiwUVu1hM5hjtYMczEYI5x6jtOQw_OocaYtJldIzSjtF7d79KdwLKsXE4osuVZrx2b4D7__8g4&type=css&k=322d0c2a6c2ac935cdb667883a70361b51e0668d&t=1726130154",
+    "https://flatpoint.co.kr/ind-script/optimizer_user.php?filename=ncwxEkIhDATQXmw9x7ZeB0n8MCaQIcHzC1ew2NliZx_qUAaXtJyn4y05bLQesPWSVlINFThxIvZ2dfin9Sdo6tc7ijuC1faJYWQnN-LITe57e-Av_Kg6aMk25-4SqNlr5OugPw&type=css&k=f87b08facdc39347dd6f666055b5ac1ad03bd7a0&t=1754531472&user=T",
+    "https://app4you.cafe24.com/SmartPopup/assets/css/front.css?vs=202505201010",
+    "https://app4you.cafe24.com/SmartPopup/assets/uipack/slick/1.8.1/css/smart-popup.slick.css?vs=202505201010"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms; transform: translate3d(-1457.5px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transform: translate3d(0px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms;"
+    }
+  ],
+  "scrapedAt": "2025-10-16T17:45:18.776Z"
+}

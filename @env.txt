@@ -20,6 +20,23 @@ SUPABASE_SERVICE_ROLE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhY
 # Gemini API 키 (임베딩/분석용) – 콘솔에서 발급 후 교체
 GEMINI_API_KEY=AIzaSyCln3-C_bbPWQZq3UE_yY8PSQmyPuywAgo
 
+# ============================================
+# Replicate API Token (이미지 벡터화용)
+# ============================================
+# 발급 방법:
+# 1. https://replicate.com 접속 및 회원가입
+# 2. 로그인 후 우측 상단 프로필 클릭
+# 3. "Account Settings" 클릭
+# 4. 좌측 메뉴에서 "API tokens" 클릭
+# 5. "Create token" 버튼 클릭
+# 6. 토큰 이름 입력 (예: lunus-image-search)
+# 7. 생성된 토큰을 아래에 붙여넣기
+# 8. 이 파일의 내용을 .env.local에 복사
+#
+# 참고: 토큰은 'r8_'로 시작합니다
+# ============================================
+REPLICATE_API_TOKEN=r8_여기에_발급받은_토큰을_붙여넣으세요
+
 
 
 
