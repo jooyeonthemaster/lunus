@@ -20,7 +20,7 @@ export default function FlatpointDetailPage() {
 
         // 스크래핑된 제품 데이터 로드
         const data = await import(
-          `../../../../data/flatpoint/scraped-products/${decodedId}.json`
+          `../../../../data/플랫포인트/scraped-products/${decodedId}.json`
         );
 
         let productData = data.default;
