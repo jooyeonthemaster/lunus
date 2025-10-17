@@ -1,0 +1,104 @@
+{
+  "source": "flatpoint",
+  "brand": "플랫포인트",
+  "category": "체어",
+  "productUrl": "https://flatpoint.co.kr/product/volini-fabric-chair-stainless/5432/category/248/display/1/",
+  "productCode": "VOLINI FABRIC CHAIR STAINLESS",
+  "productName": "VOLINI FABRIC CHAIR STAINLESS",
+  "price": "",
+  "mainImage": "",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n            <div class=\"pdp-detail\">\n<!-- 디자인 -->\n<div class=\"pdp-section container\" id=\"pdp-tab-01\">\n<div class=\"row pa-50\">\n<div class=\"col-12 m-col-12 pt-10\">\n<div class=\"font-1414 pb-20\">\n</div>\n</div>\n<div class=\"col-6 m-col-12 m-pb-40\">\n<div class=\"font-4242 pb-40\">VOLINI FABRIC CHAIR\n<br> STAINLESS\n</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-1818 kr pb-40\">체어 디자인 전반에 섬세한 곡선 라인이 돋보이는 볼리니 체어입니다. 고급스러운 이미지와 편안한 착석감에 슬림한 철제라인으로 완성된 볼리니 시리즈.\n<br>\n<br>모노톤 부터 다채로운 컬러감까지. 원하는 무드의 체어를 선택할 수 있습니다. 모든 부분이 세심하게 디자인된 완벽한 볼리니 체어를 만나보세요.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\">\n<img alt=\"\" ec-data-src=\"/shop/chair/volinifabric/photo_main.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 시리즈 -->\n<div class=\"title-sm pa-50\">SERIES</div>\n<div class=\"row plr-50 mb-200\">\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/chair/volini/series_volini.png\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">CHAIR</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/chair/volini/series_volinifabric.png\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">FABRIC CHAIR</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/chair/volini/series_volinibar.png\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">BAR CHAIR</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/chair/volini/series_volinilounge.png\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">LOUNGE CHAIR</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/chair/volini/series_volinistool.png\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">STOOL</div>\n</a>\n</div>\n</div>\n<!-- 배치시뮬레이터 -->\n<div class=\"row pa-50 pc-only\">\n<div class=\"col-12 m-col-12\">\n<div class=\"font-3838 kr light pb-40\">내가 원하는 테이블&amp;체어의 믹스 매치\n<br> <span class=\"bold\">배치 시뮬레이터</span>\n</div>\n<div>\n<div class=\"font-2222 kr m-pb-40\">원하는 다양한 테이블 구성을 한 번에 모두 확인하세요.</div>\n</div>\n</div>\n</div>\n<div class=\"row pb-20 pc-only mg-120\">\n<div class=\"col-12 m-col-12\">\n<div class=\"vimeo-wrapper guide-tp type-f bo-t m-flex-wrap bo-b\">\n<iframe src=\"//display.flatpoint.co.kr/\" frameborder=\"0\" allowfullscreen=\"\"></iframe>&gt;\n</div>\n</div>\n</div>\n<!-- 룩북 비디오\n\t\t<div class=\"row pb-20\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t\t\t<div class=\"vimeo-wrapper\">\n\t\t\t\t\t<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/719993669?h=3f6365cbda&badge=0&autopause=0&autoplay=1&background=1&muted=1&loop=1&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"\" data-ready=\"true\"></iframe>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_1.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_2.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 룩북 세로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-6 m-col-12 pr-10\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_3.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n<div class=\"col-6 m-col-12 pl-10\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_4.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_5.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_6.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_7.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_8.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_9.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 룩북 세로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-6 m-col-12 pr-10\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_10.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n<div class=\"col-6 m-col-12 pl-10\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_12.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/volinifabric/photo_13.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 디자인 포인트 -->\n<div id=\"pdp-tab-01-design\">\n<div class=\"row title-md design-point\">\n<div class=\"col-4 m-col-12\">\n<div class=\"ptb-20 bo-r m-bo-none\">DESIGN POINT</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/volinifabric/design_point_1.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">BACKREST</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">등받이</div>\n<div class=\"font-2222 kr mb-120\">곡선의 아름다움을 살린 슬림한 등받이는 모던한 분위기와 부드러운 이미지를 동시에 완성합니다. 어느 공간에서든 볼리니 체어만의 존재감 느껴보세요.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/volinifabric/design_point_2.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">COMFORT SEAT</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">착석감</div>\n<div class=\"font-2222 kr mb-120\">전체적인 곡선의 디자인은 몸을 편안히 감싸주어 만족스러운 착석감을 제공합니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/volinifabric/design_point_3.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">STEEL FRAME</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">스틸 프레임</div>\n<div class=\"font-2222 kr mb-120\">스테인레스,화이트,블랙 총 세가지의 스틸프레임은 볼리니가 가진 모던함과 고급스러움을 극대화합니다.\n</div>\n</div>\n</div>\n<!-- 360도 뷰어\n        <div class=\"row pa-50\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t        <div class=\"font-2828\">360 viewer</div>\n            </div>\n\t\t\t<div class=\"font-1818 kr\">360도 뷰어로 확인하는 볼리니 체어</div>\n\t\t\t<div class=\"around-viewer\">\n\t\t\t\t<div class=\"swiper-wrapper\">\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"swiper-pagination\"></div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 임베딩 -->\n<!-- 리뷰 -->\n",
+  "detailCSS": "\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n\n.crema-hide.crema-applied { display : none !important; }\n\n\n        .flatpoint #wrap{\n            max-width: 100%;\n            width: 100%;\n        } \n        .flatpoint #footer .footer-info,\n        .flatpoint #footer .footer-bottom{\n            display: none;\n        }\n    \n\n  [pandassi-banner-group]:not([pandassi-banner-group=\"ready\"]) {\n    display: none !important;\n  }\n\n",
+  "cssLinks": [
+    "https://assets5.cre.ma/widgets/assets/pc-c9334d1331a67b88a5bbb28c4c16b01ef5184ab1c165983eb0e8207debdf3b2d.css",
+    "https://use.typekit.net/bqg5yxi.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/neo/css/SpoqaHanSans-kr.min.css",
+    "https://flatpoint.co.kr/drmvsn/css/style.css",
+    "https://flatpoint.co.kr/drmvsn/css/swiper-bundle.min.css",
+    "https://img.echosting.cafe24.com/editors/froala/css/froala_style_ec.min.css?vs=2510131432",
+    "https://flatpoint.co.kr/ind-script/optimizer.php?filename=ndIxDsIwDAXQvcrKOQwILgASBwBxACd1adQkjpxEgttTYIAORZDV9vv2YOjZE6zWAlH4IuhBKHERQ2BSgk44ZDDsPQc1FhbwyzyZJrEr2XJoNF8rYcm5dqnDG0kdzagdVVKOjbOBGo0hzO53VsPZRjQDHD_z9ugotCiwUVu1hM5hjtYMczEYI5x6jtOQw_OocaYtJldIzSjtF7d79KdwLKsXE4osuVZrx2b4D7__8g4&type=css&k=322d0c2a6c2ac935cdb667883a70361b51e0668d&t=1726130154",
+    "https://flatpoint.co.kr/ind-script/optimizer_user.php?filename=ncwxEkIhDATQXmw9x7ZeB0n8MCaQIcHzC1ew2NliZx_qUAaXtJyn4y05bLQesPWSVlINFThxIvZ2dfin9Sdo6tc7ijuC1faJYWQnN-LITe57e-Av_Kg6aMk25-4SqNlr5OugPw&type=css&k=f87b08facdc39347dd6f666055b5ac1ad03bd7a0&t=1754531472&user=T",
+    "https://app4you.cafe24.com/SmartPopup/assets/css/front.css?vs=202505201010",
+    "https://app4you.cafe24.com/SmartPopup/assets/uipack/slick/1.8.1/css/smart-popup.slick.css?vs=202505201010"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms; transform: translate3d(-1457.5px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transform: translate3d(0px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms;"
+    }
+  ],
+  "scrapedAt": "2025-10-16T17:51:46.973Z"
+}

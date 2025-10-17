@@ -1,0 +1,48 @@
+{
+  "source": "flatpoint",
+  "brand": "플랫포인트",
+  "category": "체어",
+  "productUrl": "https://flatpoint.co.kr/product/deer-bench-walnut/5426/category/248/display/1/",
+  "productCode": "DEER BENCH WALNUT",
+  "productName": "DEER BENCH WALNUT",
+  "price": "",
+  "mainImage": "",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n            <div class=\"pdp-detail\">\n<!-- 디자인 -->\n<div class=\"pdp-section container\" id=\"pdp-tab-01\">\n<div class=\"row pa-50\">\n<div class=\"col-12 m-col-12 pt-10\">\n<div class=\"font-1414 pb-20\">\n</div>\n</div>\n<div class=\"col-6 m-col-12 m-pb-40\">\n<div class=\"font-4242 pb-40\">DEER BENCH\n<br>WALNUT\n</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-1818 kr pb-40\"> 우아한 사슴을 연상시키는 원목 프레임에 천연 소재 리놀륨으로 완성한 디어 벤치.\n<br>\n<br> 섬세한 디테일과 퀄리티의 벤치는 은은한 색감과 부드러운 촉감의 기능성 소재로 준비되어 여러 공간에 다양한 활용도로 매치할 수 있습니다.\n</div>\n</div>\n</div>\n<!-- \n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t\t\t<img alt=\"\" ec-data-src=\"/shop/chair/deerbench/photo_main.jpg\">\n\t\t\t</div>\n\t\t</div>\n\t\t\t시리즈\n\t\t<div class=\"title-sm pa-50\">DEER CHAIR SERIES</div>\n\t\t<div class=\"row plr-50 mb-200\">\n\t\t\t<div class=\"col-3 m-col-6\">\n\t\t\t\t<a class=\"card\" href=\"#\" target=\"_blank\">\n\t\t\t\t\t<img ec-data-src=\"/shop/chair/deerbench/series_crevin_oak.png\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">CREVIN-OAK</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t<div class=\"col-3 m-col-6\">\n\t\t\t\t<a class=\"card\" href=\"#\" target=\"_blank\">\n\t\t\t\t\t<img ec-data-src=\"/shop/chair/deerbench/series_crevin_walnut.png\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">CREVIN-WALNUT</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t<div class=\"col-3 m-col-6\">\n\t\t\t\t<a class=\"card\" href=\"#\" target=\"_blank\">\n\t\t\t\t\t<img ec-data-src=\"/shop/chair/deerbench/series_easyplus_oak.png\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">EASYPLUS-OAK</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t\t<div class=\"col-3 m-col-6\">\n\t\t\t\t<a class=\"card\" href=\"#\" target=\"_blank\">\n\t\t\t\t\t<img ec-data-src=\"/shop/chair/deerbench/series_easyplus_walnut.png\" alt=\"\">\n\t\t\t\t\t<div class=\"font-1818 m-align-center\">EASYPLUS-WALNUT</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 룩북 비디오\n\t\t<div class=\"row pb-20\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t\t\t<div class=\"vimeo-wrapper\">\n\t\t\t\t\t<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/719993669?h=3f6365cbda&badge=0&autopause=0&autoplay=1&background=1&muted=1&loop=1&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"\" data-ready=\"true\"></iframe>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/deerbench/photo_main.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/deerbench/photo_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/deerbench/photo_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/deerbench/photo_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/deerbench/photo_04.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/deerbench/photo_05.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n\n\n<!-- 디자인 포인트 -->\n<div id=\"pdp-tab-01-design\">\n<div class=\"row title-md design-point\">\n<div class=\"col-4 m-col-12\">\n<div class=\"ptb-20 bo-r m-bo-none\">DESIGN POINT</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/deerbench/design_point_1.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">DIAGONAL LINE</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">독보적인 사선라인</div>\n<div class=\"font-2222 kr mb-120\">슬림하고 세련된 플랫포인트만의 사선라인으로 디자인의 디테일과 완성도를 높였습니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/deerbench/design_point_2.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">WOOD FRAME</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">통원목 일체형 다리</div>\n<div class=\"font-2222 kr mb-120\">견고하고 흔들림 없는 테이블을 완성시키기 위해 한 개씩 부착되는 구조가 아닌, 암수짜임 방식의 일체형 구조로 완성되었습니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/deerbench/design_point_3.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">SMOOTH SHAPE</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">곡선 디테일</div>\n<div class=\"font-2222 kr mb-120\">플랫포인트만의 섬세한 가공법으로 딱딱하고 단순한 스퀘어 형태가 아닌, 부드럽고 세련된 이미지의 라인을 완성했습니다.\n</div>\n</div>\n</div>\n\n<!-- 360도 뷰어\n        <div class=\"row pa-50\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t        <div class=\"font-2828\">360 viewer</div>\n            </div>\n\t\t\t<div class=\"font-1818 kr\">360도 뷰어로 확인하는 볼리니 체어</div>\n\t\t\t<div class=\"around-viewer\">\n\t\t\t\t<div class=\"swiper-wrapper\">\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"swiper-pagination\"></div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 임베딩 -->\n<!-- 리뷰\n        ",
+  "detailCSS": "\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n\n.crema-hide.crema-applied { display : none !important; }\n\n\n        .flatpoint #wrap{\n            max-width: 100%;\n            width: 100%;\n        } \n        .flatpoint #footer .footer-info,\n        .flatpoint #footer .footer-bottom{\n            display: none;\n        }\n    \n\n  [pandassi-banner-group]:not([pandassi-banner-group=\"ready\"]) {\n    display: none !important;\n  }\n\n",
+  "cssLinks": [
+    "https://assets5.cre.ma/widgets/assets/pc-c9334d1331a67b88a5bbb28c4c16b01ef5184ab1c165983eb0e8207debdf3b2d.css",
+    "https://use.typekit.net/bqg5yxi.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/neo/css/SpoqaHanSans-kr.min.css",
+    "https://flatpoint.co.kr/drmvsn/css/style.css",
+    "https://flatpoint.co.kr/drmvsn/css/swiper-bundle.min.css",
+    "https://img.echosting.cafe24.com/editors/froala/css/froala_style_ec.min.css?vs=2510131432",
+    "https://flatpoint.co.kr/ind-script/optimizer.php?filename=ndIxDsIwDAXQvcrKOQwILgASBwBxACd1adQkjpxEgttTYIAORZDV9vv2YOjZE6zWAlH4IuhBKHERQ2BSgk44ZDDsPQc1FhbwyzyZJrEr2XJoNF8rYcm5dqnDG0kdzagdVVKOjbOBGo0hzO53VsPZRjQDHD_z9ugotCiwUVu1hM5hjtYMczEYI5x6jtOQw_OocaYtJldIzSjtF7d79KdwLKsXE4osuVZrx2b4D7__8g4&type=css&k=322d0c2a6c2ac935cdb667883a70361b51e0668d&t=1726130154",
+    "https://flatpoint.co.kr/ind-script/optimizer_user.php?filename=ncwxEkIhDATQXmw9x7ZeB0n8MCaQIcHzC1ew2NliZx_qUAaXtJyn4y05bLQesPWSVlINFThxIvZ2dfin9Sdo6tc7ijuC1faJYWQnN-LITe57e-Av_Kg6aMk25-4SqNlr5OugPw&type=css&k=f87b08facdc39347dd6f666055b5ac1ad03bd7a0&t=1754531472&user=T",
+    "https://app4you.cafe24.com/SmartPopup/assets/css/front.css?vs=202505201010",
+    "https://app4you.cafe24.com/SmartPopup/assets/uipack/slick/1.8.1/css/smart-popup.slick.css?vs=202505201010"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "transform: translate3d(0px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms;"
+    }
+  ],
+  "scrapedAt": "2025-10-16T17:54:17.685Z"
+}

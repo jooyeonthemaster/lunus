@@ -1,0 +1,92 @@
+{
+  "source": "flatpoint",
+  "brand": "플랫포인트",
+  "category": "체어",
+  "productUrl": "https://flatpoint.co.kr/product/atik-chair/6316/category/248/display/1/",
+  "productCode": "ATIK CHAIR",
+  "productName": "ATIK CHAIR",
+  "price": "",
+  "mainImage": "",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n            <div class=\"pdp-detail\">\n<!-- 디자인 -->\n<div class=\"pdp-section container\" id=\"pdp-tab-01\">\n<div class=\"row pa-50\">\n<div class=\"col-12 m-col-12 pt-10\">\n<div class=\"font-1414 pb-20\">\n</div>\n</div>\n<div class=\"col-6 m-col-12 m-pb-40\">\n<div class=\"font-4242 pb-40\">ATIK CHAIR\n</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-1818 kr pb-40\">지금껏 없던 가장 아이코닉한 디자인 체어. 당신이 찾던, 현대적인 감각의 아틱 체어입니다.\n<br>\n<br>아틱 시리즈의 아이덴티티인 납작하면서 볼드한 다리, 은은하고 강렬한 컬러, 그리고 감각적인 텍스처의 최고급 양모 원단까지. 간결하지만 확실한 각각의 요소들은 가장 아이코닉한 아틱 체어로 탄생하였습니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\">\n<img alt=\"\" ec-data-src=\"/shop/chair/atik/photo_main_chair.jpg\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<!-- 시리즈 -->\n<div class=\"title-sm pa-50\">SERIES</div>\n<div class=\"row plr-50 mb-200\">\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/table/atikceramic/series_chair.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">CHAIR</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/table/atikceramic/series_980.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">ROUND 980</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/table/atikceramic/series_1100.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">ROUND 1100</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/table/atikceramic/series_1580.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">SOFT 1580</div>\n</a>\n</div>\n<div class=\"col-4 m-col-6\">\n<a class=\"card\">\n<img ec-data-src=\"/shop/table/atikceramic/series_1800.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n<div class=\"font-1818 m-align-center\">SOFT 1800</div>\n</a>\n</div>\n</div>\n<!-- 룩북 비디오\n\t\t<div class=\"row pb-20\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t\t\t<div class=\"vimeo-wrapper\">\n\t\t\t\t\t<iframe title=\"vimeo-player\" src=\"https://player.vimeo.com/video/719993669?h=3f6365cbda&badge=0&autopause=0&autoplay=0&background=1&muted=1&loop=1&player_id=0\" width=\"640\" height=\"360\" frameborder=\"0\" allowfullscreen=\"\" data-ready=\"true\"></iframe>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 룩북 가로형 -->\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/atik/photo_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/atik/photo_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n<div class=\"row pb-20\">\n<div class=\"col-12 m-col-12\">\n<img ec-data-src=\"/shop/chair/atik/photo_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\">\n</div>\n</div>\n\n<!-- 룩북 세로형\n\t\t<div class=\"row pb-20\">\n\t\t\t<div class=\"col-6 m-col-12 pr-10\">\n\t\t\t\t<img ec-data-src=\"/web/imgs/template/pdp/pdp-03-02.jpg\" alt=\"\">\n\t\t\t</div>\n\t\t\t<div class=\"col-6 m-col-12 pl-10\">\n\t\t\t\t<img ec-data-src=\"/web/imgs/template/pdp/pdp-03-03.jpg\" alt=\"\">\n\t\t\t</div>\n\t\t</div> -->\n<!-- 디자인 포인트 -->\n<div id=\"pdp-tab-01-design\">\n<div class=\"row title-md design-point\">\n<div class=\"col-4 m-col-12\">\n<div class=\"ptb-20 bo-r m-bo-none\">DESIGN POINT</div>\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/atik/design_01.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">ICONIC DESIGN</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">아이코닉 디자인</div>\n<div class=\"font-2222 kr mb-120\">넓고 볼드한 다리는 모서리를 곡선으로 마감해 간결하면서도 정제된 디자인 요소로 완성되었습니다. 이처럼 간결한 요소들의 조합은 아틱 체어만의 아이덴티티 완성합니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/atik/design_02.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">BACK REST</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">곡선형 등받이</div>\n<div class=\"font-2222 kr mb-120\">직선 다리와 조합된 곡선형 등받이는 체어에 다양한 라인을 더하며 디자인의 리듬감을 연출합니다. 또한 등을 받쳐주며 푹신한 좌방석과 함께 편안한 착석감을 완성합니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/atik/design_03.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">PREMIUM FABRIC</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">최고급 양모 패브릭</div>\n<div class=\"font-2222 kr mb-120\">감각적인 텍스처의 좌방석 패브릭은 최고급 양모 패브릭사 '로하이'의 양모 원단이 적용되었습니다. 도톰한 내장재 스펀지로 오랜시간 착석에도 편안함을 느끼실 수 있습니다.\n</div>\n</div>\n</div>\n<div class=\"row\">\n<div class=\"col-12 m-col-12\"><img ec-data-src=\"/shop/chair/atik/design_04.jpg\" alt=\"\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR4nGP6zwAAAgcBApocMXEAAAAASUVORK5CYII=\"></div>\n</div>\n<div class=\"row pa-50\">\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 pc-only\">COLOR</div>\n</div>\n<div class=\"col-6 m-col-12\">\n<div class=\"font-2828 kr bold pb-30\">컬러</div>\n<div class=\"font-2222 kr mb-120\">아틱 체어가 표현하는 은은한 컬러부터 확실한 포인트가 되는 컬러까지. 따로 또 같이 다양한 조합으로 표현하는 공간의 아이덴티티를 만나보세요.\n</div>\n</div>\n</div>\n<!-- 360도 뷰어\n        <div class=\"row pa-50\">\n\t\t\t<div class=\"col-12 m-col-12\">\n\t\t        <div class=\"font-2828\">360 viewer</div>\n            </div>\n\t\t\t<div class=\"font-1818 kr\">360도 뷰어로 확인하는 볼리니 체어</div>\n\t\t\t<div class=\"around-viewer\">\n\t\t\t\t<div class=\"swiper-wrapper\">\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t\t<div class=\"swiper-slide\"><img ec-data-src=\"/web/imgs/viewer-ex-img.jpg\"></div>\n\t\t\t\t</div>\n\t\t\t\t<div class=\"swiper-pagination\"></div>\n\t\t\t</div>\n\t\t</div> -->\n<!-- 임베딩 -->\n<!-- 리뷰-->\n",
+  "detailCSS": "\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n#prdDetailContentLazy img[src=\"\"], #prdDetailContentLazy img:not([src]) { visibility: hidden !important; height: 1px !important; }\n\n.crema-hide.crema-applied { display : none !important; }\n\n\n        .flatpoint #wrap{\n            max-width: 100%;\n            width: 100%;\n        } \n        .flatpoint #footer .footer-info,\n        .flatpoint #footer .footer-bottom{\n            display: none;\n        }\n    \n\n  [pandassi-banner-group]:not([pandassi-banner-group=\"ready\"]) {\n    display: none !important;\n  }\n\n",
+  "cssLinks": [
+    "https://assets5.cre.ma/widgets/assets/pc-c9334d1331a67b88a5bbb28c4c16b01ef5184ab1c165983eb0e8207debdf3b2d.css",
+    "https://use.typekit.net/bqg5yxi.css",
+    "https://cdnjs.cloudflare.com/ajax/libs/spoqa-han-sans/neo/css/SpoqaHanSans-kr.min.css",
+    "https://flatpoint.co.kr/drmvsn/css/style.css",
+    "https://flatpoint.co.kr/drmvsn/css/swiper-bundle.min.css",
+    "https://img.echosting.cafe24.com/editors/froala/css/froala_style_ec.min.css?vs=2510131432",
+    "https://flatpoint.co.kr/ind-script/optimizer.php?filename=ndIxDsIwDAXQvcrKOQwILgASBwBxACd1adQkjpxEgttTYIAORZDV9vv2YOjZE6zWAlH4IuhBKHERQ2BSgk44ZDDsPQc1FhbwyzyZJrEr2XJoNF8rYcm5dqnDG0kdzagdVVKOjbOBGo0hzO53VsPZRjQDHD_z9ugotCiwUVu1hM5hjtYMczEYI5x6jtOQw_OocaYtJldIzSjtF7d79KdwLKsXE4osuVZrx2b4D7__8g4&type=css&k=322d0c2a6c2ac935cdb667883a70361b51e0668d&t=1726130154",
+    "https://flatpoint.co.kr/ind-script/optimizer_user.php?filename=ncwxEkIhDATQXmw9x7ZeB0n8MCaQIcHzC1ew2NliZx_qUAaXtJyn4y05bLQesPWSVlINFThxIvZ2dfin9Sdo6tc7ijuC1faJYWQnN-LITe57e-Av_Kg6aMk25-4SqNlr5OugPw&type=css&k=f87b08facdc39347dd6f666055b5ac1ad03bd7a0&t=1754531472&user=T",
+    "https://app4you.cafe24.com/SmartPopup/assets/css/front.css?vs=202505201010",
+    "https://app4you.cafe24.com/SmartPopup/assets/uipack/slick/1.8.1/css/smart-popup.slick.css?vs=202505201010"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms; transform: translate3d(-1457.5px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 569px; margin-right: 14px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transform: translate3d(0px, 0px, 0px);"
+    },
+    {
+      "tag": "DIV",
+      "style": "width: 1440px;"
+    },
+    {
+      "tag": "DIV",
+      "style": "transition-duration: 0ms;"
+    }
+  ],
+  "scrapedAt": "2025-10-16T17:50:44.298Z"
+}

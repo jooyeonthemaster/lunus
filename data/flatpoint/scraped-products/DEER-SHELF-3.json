@@ -1,8 +1,8 @@
 {
   "source": "flatpoint",
   "brand": "플랫포인트",
-  "category": "선반",
-  "productUrl": "https://flatpoint.co.kr/product/deer-shelf-3/5448/category/51/display/1/",
+  "category": "키즈",
+  "productUrl": "https://flatpoint.co.kr/product/deer-shelf-3/5448/category/169/display/1/",
   "productCode": "DEER SHELF 3",
   "productName": "DEER SHELF 3",
   "price": "",
@@ -92,5 +92,5 @@
       "style": "transition-duration: 0ms;"
     }
   ],
-  "scrapedAt": "2025-10-16T17:45:11.488Z"
+  "scrapedAt": "2025-10-16T17:56:42.871Z"
 }
