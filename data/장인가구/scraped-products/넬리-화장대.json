@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=624",
+  "productName": "넬리 화장대",
+  "price": 424000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1747629710mm9vrhd6kk.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2505/aafbbd12e9135eef17aaac333e4a089a_1747628770_2593.jpg\"><br style=\"clear:both;\"><img src=\"https://jangin.com/data/editor/2503/eace519af25ae99336737a411a3b01b4_1742436307_6816.jpg\" style=\"text-align: center;\"></p><p>&nbsp;</p><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2505/aafbbd12e9135eef17aaac333e4a089a_1747628770_2593.jpg",
+    "https://jangin.com/data/editor/2503/eace519af25ae99336737a411a3b01b4_1742436307_6816.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "IMG",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:09:25.942Z"
+}

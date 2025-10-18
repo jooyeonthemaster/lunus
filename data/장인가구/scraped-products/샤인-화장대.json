@@ -1,0 +1,30 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=435",
+  "productName": "샤인 화장대",
+  "price": 908000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_16167378074wqjfgh01s.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2103/b5095a36dceaf3946c60d06b1a065bbb_1616737523_756.png\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2103/b5095a36dceaf3946c60d06b1a065bbb_1616737523_756.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:10:41.829Z"
+}

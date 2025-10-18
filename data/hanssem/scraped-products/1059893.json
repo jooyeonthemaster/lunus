@@ -1,0 +1,17 @@
+{
+  "productCode": "1059893",
+  "productName": "플리츠 거실장 210cm 오트밀",
+  "price": 649000,
+  "productUrl": "https://store.hanssem.com/goods/1059893",
+  "mainImage": "https://image.hanssem.com/hsimg/gds/1050/1059/1059893_A1.jpg?v=20250804101314",
+  "category": "거실",
+  "detailHTML": "<div class=\"img-box\">\n\t<picture data-origin=\"admin-editor-img\">\n\t\t<source media=\"(max-width:767px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715822228923_0.jpg?w=750 2x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715822228923_0.jpg?w=1125 3x\">\n\t\t<source media=\"(min-width:768px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715822228923_0.jpg?w=870 1x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715822228923_0.jpg?w=1740 2x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715822228923_0.jpg?w=2610 3x\">\n\t\t<img src=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715822228923_0.jpg\" width=\"\" height=\"\">\n\t</picture>\n</div>\n<div class=\"img-box\">\n\t<picture data-origin=\"admin-editor-img\">\n\t\t<source media=\"(max-width:767px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/27/1716771035099_0.jpg?w=750 2x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/27/1716771035099_0.jpg?w=1125 3x\">\n\t\t<source media=\"(min-width:768px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/27/1716771035099_0.jpg?w=870 1x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/27/1716771035099_0.jpg?w=1740 2x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/27/1716771035099_0.jpg?w=2610 3x\">\n\t\t<img src=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/27/1716771035099_0.jpg\" width=\"\" height=\"\">\n\t</picture>\n</div>\n<div class=\"img-box\">\n\t<picture data-origin=\"admin-editor-img\">\n\t\t<source media=\"(max-width:767px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715818509200_0.jpg?w=750 2x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715818509200_0.jpg?w=1125 3x\">\n\t\t<source media=\"(min-width:768px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715818509200_0.jpg?w=870 1x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715818509200_0.jpg?w=1740 2x, https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715818509200_0.jpg?w=2610 3x\">\n\t\t<img src=\"https://image.hanssem.com/hsimg/gds/Editor/2024/05/16/1715818509200_0.jpg\" width=\"\" height=\"\">\n\t</picture>\n</div>\n",
+  "cssLinks": [
+    "https://res.remodeling.hanssem.com/font/pretendard/pretendard.css",
+    "https://store.hanssem.com/_next/static/css/cd8d11070aab510c.css",
+    "https://use.fontawesome.com/7f85a56ba4.css",
+    "https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+  ],
+  "viewport": "1920x1080 (Desktop)",
+  "scrapedAt": "2025-10-17T07:08:06.573Z"
+}

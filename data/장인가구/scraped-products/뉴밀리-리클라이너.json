@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=641",
+  "productName": "뉴밀리 리클라이너",
+  "price": 2697000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1756776879evcukxn9ow.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2509/1d847ab781e638b960d3746fb9a9a7d3_1756775368_415.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2509/1d847ab781e638b960d3746fb9a9a7d3_1756775376_4354.jpg\"></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2509/1d847ab781e638b960d3746fb9a9a7d3_1756775368_415.jpg",
+    "https://www.jangin.com/data/editor/2509/1d847ab781e638b960d3746fb9a9a7d3_1756775376_4354.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:04:55.918Z"
+}

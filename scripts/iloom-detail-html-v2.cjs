@@ -68,36 +68,63 @@ async function scrapeProductDetailHTML(page, productUrl, productTitle) {
 
     // 3. ⭐ NEW: Get raw HTML from .box elements
     const detailHTML = await page.evaluate(() => {
-      const boxes = document.querySelectorAll('.prd_cont .box');
+      // ⭐ 수정: .prd_cont가 없으니 #section_detailInfo 또는 #contents 내부의 .box만 선택
+      let boxes = document.querySelectorAll('#section_detailInfo .box');
       
       if (boxes.length === 0) {
-        return { html: '', count: 0 };
+        // fallback: #contents 영역
+        boxes = document.querySelectorAll('#contents .box');
+      }
+      
+      if (boxes.length === 0) {
+        // fallback: .detailContents 영역
+        boxes = document.querySelectorAll('.detailContents .box');
+      }
+      
+      if (boxes.length === 0) {
+        // 최후: 전체 .box 선택 (다른 영역 제외)
+        const allBoxes = document.querySelectorAll('.box');
+        // 갤러리, 리뷰 영역 제외하고 실제 상세 내용만
+        boxes = Array.from(allBoxes).filter(box => {
+          const html = box.outerHTML;
+          return html.includes('contents_100img') || 
+                 html.includes('contents_title') || 
+                 html.includes('contents_100contents') ||
+                 html.includes('contents_50img');
+        });
+      }
+      
+      if (boxes.length === 0) {
+        return { html: '', count: 0, method: 'none' };
       }
       
       let htmlContent = '';
       boxes.forEach((box) => {
-        // outerHTML을 그대로 가져옴
         htmlContent += box.outerHTML + '\n';
       });
       
       return {
         html: htmlContent,
-        count: boxes.length
+        count: boxes.length,
+        method: boxes.length > 0 ? 'success' : 'none'
       };
-    }).catch(() => ({ html: '', count: 0 }));
+    }).catch(() => ({ html: '', count: 0, method: 'error' }));
 
     console.log(`    ✓ Gallery images: ${uniqueGalleryImages.length}`);
     console.log(`    ✓ Detail sections: ${detailSections.length}`);
     console.log(`    ✓ HTML sections: ${detailHTML.count}`);
 
-    // ⭐ 상대 경로를 절대 경로로 자동 변환
+    // ⭐ 상대 경로를 절대 경로로 자동 변환 + jQuery 코드 제거
     let processedHTML = detailHTML.html;
     if (processedHTML) {
       processedHTML = processedHTML
         .replace(/src="\/upload\//g, 'src="https://www.iloom.com/upload/')
         .replace(/href="\/upload\//g, 'href="https://www.iloom.com/upload/')
         .replace(/src='\/upload\//g, "src='https://www.iloom.com/upload/")
-        .replace(/href='\/upload\//g, "href='https://www.iloom.com/upload/");
+        .replace(/href='\/upload\//g, "href='https://www.iloom.com/upload/")
+        // jQuery 코드 제거 ($ is not defined 에러 방지)
+        .replace(/onload="\$\(this\)\.css\('display',\s*'(block|inline)'\);"/g, 'style="display: $1;"')
+        .replace(/onload='\$\(this\)\.css\("display",\s*"(block|inline)"\);'/g, "style='display: $1;'");
     }
 
     return {

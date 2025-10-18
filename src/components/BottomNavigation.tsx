@@ -189,6 +189,90 @@ export default function BottomNavigation({ onSearchClick, onMapClick, onCartClic
                   <span className="text-sm font-medium">{tab.label}</span>
                 </button>
               ))}
+              
+              {/* 크롤링 완성 모음 드롭다운 */}
+              <div className="relative group">
+                <button className="flex items-center space-x-2 px-3 py-2 rounded-lg transition-colors text-gray-600 hover:text-gray-900 hover:bg-gray-50">
+                  <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M3 9h18v10a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V9Z"/>
+                    <path d="m3 9 2.45-4.9A2 2 0 0 1 7.24 3h9.52a2 2 0 0 1 1.8 1.1L21 9"/>
+                    <path d="M12 3v6"/>
+                  </svg>
+                  <span className="text-sm font-medium">크롤링 모음</span>
+                  <svg width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" strokeWidth="2">
+                    <path d="M4 6l4 4 4-4"/>
+                  </svg>
+                </button>
+                
+                {/* 드롭다운 메뉴 */}
+                <div className="absolute top-full right-0 mt-2 w-48 bg-white rounded-lg shadow-lg border border-gray-200 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200">
+                  <div className="py-2">
+                    <a
+                      href="/iloom-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🛋️</span>
+                      <span>일룸 (500개)</span>
+                    </a>
+                    <a
+                      href="/flatpoint-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🪑</span>
+                      <span>플랫포인트 (270개)</span>
+                    </a>
+                    <a
+                      href="/jangin-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🪵</span>
+                      <span>장인가구 (174개)</span>
+                    </a>
+                    <a
+                      href="/hanssem-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🏠</span>
+                      <span>한샘 (297개)</span>
+                    </a>
+                    <a
+                      href="/inart-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🌿</span>
+                      <span>인아트 (332개)</span>
+                    </a>
+                    <a
+                      href="/emons-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🪑</span>
+                      <span>에몬스 (60개)</span>
+                    </a>
+                    <a
+                      href="/enex-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🏠</span>
+                      <span>에넥스 (NEW)</span>
+                    </a>
+                    <a
+                      href="/wooami-products"
+                      className="flex items-center px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 transition-colors"
+                    >
+                      <span className="mr-3">🌸</span>
+                      <span>우아미 (100개)</span>
+                    </a>
+                    <a
+                      href="/alloso-products"
+                      className="flex items-center px-4 py-2 text-sm text-blue-700 hover:bg-blue-50 transition-colors font-medium"
+                    >
+                      <span className="mr-3">🛋️</span>
+                      <span>알로소 (45개) ✨</span>
+                    </a>
+                  </div>
+                </div>
+              </div>
             </nav>
           </div>
         </div>

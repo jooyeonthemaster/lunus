@@ -1,0 +1,43 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=119",
+  "productName": "베네치아 침대",
+  "price": 1476000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_15332028728w9be9yzbk.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/1808/7ad01a6ed2194030fe50d967ae1c4150_1533202852_2977.jpg\"><br style=\"clear: both;\"><img src=\"/data/editor/1808/7ad01a6ed2194030fe50d967ae1c4150_1533202868_212.jpg\"><br style=\"clear: both;\">&nbsp;</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/1808/7ad01a6ed2194030fe50d967ae1c4150_1533202852_2977.jpg",
+    "https://www.jangin.com/data/editor/1808/7ad01a6ed2194030fe50d967ae1c4150_1533202868_212.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear: both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear: both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:27:41.921Z"
+}

@@ -1,0 +1,48 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=634",
+  "productName": "브라이튼 소파",
+  "price": 1771000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\">&nbsp;<img src=\"/data/editor/2509/9eb99af65836bea7cf76eb0b048549c6_1757294987_8859.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/9eb99af65836bea7cf76eb0b048549c6_1757299178_171.gif\"><br style=\"clear:both;\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/9eb99af65836bea7cf76eb0b048549c6_1757298145_4428.jpg\">&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><br></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2509/9eb99af65836bea7cf76eb0b048549c6_1757294987_8859.jpg",
+    "https://www.jangin.com/data/editor/2509/9eb99af65836bea7cf76eb0b048549c6_1757299178_171.gif",
+    "https://www.jangin.com/data/editor/2509/9eb99af65836bea7cf76eb0b048549c6_1757298145_4428.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:57:34.883Z"
+}

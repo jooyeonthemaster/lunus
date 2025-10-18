@@ -3,42 +3,103 @@
     "title": "W100 텐셀 HARD 본넬 스프링 매트리스",
     "price": 128000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=91&cate_no=76&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202308/3976dd2c00209a9ec43bb0080786af87.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202308/3976dd2c00209a9ec43bb0080786af87.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bed.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:33:18.064Z"
   },
   {
     "title": "W200 텐셀 독립포켓 스프링 매트리스",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=92&cate_no=76&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202308/45dc5fd92e84c76594cd9d5528505cca.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202308/45dc5fd92e84c76594cd9d5528505cca.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bed.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:33:39.165Z"
   },
   {
     "title": "W300 독립포켓 프리미엄 매트리스 SS/Q/K/LK",
     "price": 360000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1383&cate_no=76&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202308/f79844376894501ccc1ada936a6babea.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202308/f79844376894501ccc1ada936a6babea.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/mattress/W300.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bed.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:34:00.653Z"
   },
   {
     "title": "몰리스 캐시미어 독립포켓 스프링 매트리스 SS/Q/K/LK",
     "price": 290000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1390&cate_no=76&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202309/a1663b2affaf0609c45094b31e1a6a8a.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202309/a1663b2affaf0609c45094b31e1a6a8a.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/mattress/Mollis.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bed.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:34:21.633Z"
   },
   {
     "title": "에일린 캐시미어 비스코 메모리폼 매트리스 25cm SS/Q/K/LK",
     "price": 390000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1391&cate_no=76&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202309/ad51a03b4131c3643b36ec4c40252bdb.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202309/ad51a03b4131c3643b36ec4c40252bdb.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/mattress/Aileen.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bed.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:34:43.474Z"
   },
   {
     "title": "(침대구매시) 템포 메모리 매트리스 200",
     "price": 460000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=95&cate_no=76&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202109/71b4af464f6b3c4207f18b0d1947be75.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202109/71b4af464f6b3c4207f18b0d1947be75.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bed.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:35:02.473Z"
   },
   {
     "title": "(침대구매시) 템포 메모리 매트리스 300",
     "price": 560000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=96&cate_no=76&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202109/862293051744d4da182861925e7bf4b0.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202109/862293051744d4da182861925e7bf4b0.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bed.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:35:20.999Z"
   }
 ]

@@ -3,360 +3,1090 @@
     "title": "클라엔 슬라이드장",
     "price": 205000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1679&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/2cade22b0586283dc7ec618c3785925d.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/2cade22b0586283dc7ec618c3785925d.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-045/KLEEN1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-045/KLEEN2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-045/KLEEN3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-045/KLEEN4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:55:28.805Z"
   },
   {
     "title": "사이엘 슬라이드장",
     "price": 155000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1676&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/189ee1e2838073e7f50d5c9d9b60b7c3.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/189ee1e2838073e7f50d5c9d9b60b7c3.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-020/CYEL1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-020/CYEL2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-020/CYEL3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-020/CYEL4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:55:46.509Z"
   },
   {
     "title": "릴리아 장롱 (10.5자 / 12자)",
     "price": 1190000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1574&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/c7a2e395a658b2c55e5eb48ddebb4b99.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/c7a2e395a658b2c55e5eb48ddebb4b99.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-19/lilia01.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-19/lilia02.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-19/lilia03.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-19/lilia04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:56:05.094Z"
   },
   {
     "title": "에이덴 장롱 (10.5자 / 12자)",
     "price": 1130000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1573&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/40d824ab5eb0ae3fe09940de48cf9be4.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/40d824ab5eb0ae3fe09940de48cf9be4.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-13/AIDEN01.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-13/AIDEN02.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-13/AIDEN03.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-13/AIDEN04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:56:23.490Z"
   },
   {
     "title": "리아 4자/5자 슬라이딩 싱글장",
     "price": 670000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1197&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202212/5c86e04e1c3f4d0700e77c2c27a0f090.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202212/5c86e04e1c3f4d0700e77c2c27a0f090.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU56-001/1.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU56-001/2.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU56-001/3.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU56-001/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:56:41.222Z"
   },
   {
     "title": "넬리 고무나무 원목 성인장 10.5자 세트 (내추럴)",
     "price": 1850000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=907&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202209/7aeeda170b17362c562f53d835f0e41e.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202209/7aeeda170b17362c562f53d835f0e41e.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-502/GSA-502-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-502/GSA-502-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-502/GSA-502-3point.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-502/GSA-502-4photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/rubber_tree.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-502/GSA-502-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:57:00.086Z"
   },
   {
     "title": "베스 고무나무 원목 성인장 10.5자 세트 (내추럴)",
     "price": 1950000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=905&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202209/fc98d2dd42d1d7183bcb09d82bfe17b3.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202209/fc98d2dd42d1d7183bcb09d82bfe17b3.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-307/GSA-307-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-307/GSA-307-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-307/GSA-307-3point.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-307/GSA-307-4photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/rubber_tree.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GSA-307/GSA-307-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:57:19.899Z"
   },
   {
     "title": "베스 고무나무 원목 입본장 A (내추럴)",
     "price": 650000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=902&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202208/4b3ca8c1beabd45ee121d419b6ed8194.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202208/4b3ca8c1beabd45ee121d419b6ed8194.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/bed/bas%20GSA-301/GSA-301-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bas%20GSA-301/GSA-305-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bas%20GSA-301/GSA-305-3point.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bas%20GSA-301/GSA-301-4photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bas%20GSA-301/GSA-301-4photo1.jpg",
+      "https://gi.esmplus.com/glory8804/2021/rubber_tree.jpg",
+      "https://gi.esmplus.com/glory8804/2021/bed/bas%20GSA-301/GSA-301-6bottom1.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:57:40.612Z"
   },
   {
     "title": "소니언 슬라이드장",
     "price": 155000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1680&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/307e200ebf425222a6c200387444de08.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/307e200ebf425222a6c200387444de08.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-048/sonion1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-048/sonion2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-048/sonion3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-048/sonion4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:57:58.444Z"
   },
   {
     "title": "뮤트 슬라이드장",
     "price": 159000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1677&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/2c5d92d76abe15257fc34f72ca76cb1c.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/2c5d92d76abe15257fc34f72ca76cb1c.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-022/mute1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-022/mute2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-022/mute3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-022/mute4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:58:15.948Z"
   },
   {
     "title": "웬트스 장롱",
     "price": 159000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=161&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202110/e2f590ea3925afa093dbb00057c8ca12.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202110/e2f590ea3925afa093dbb00057c8ca12.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/whents_GSS500-194/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/whents_GSS500-194/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/whents_GSS500-194/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:58:34.039Z"
   },
   {
     "title": "미케느 장롱",
     "price": 159000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=160&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202110/03bce3a500614c5df83d3e6686315db8.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202110/03bce3a500614c5df83d3e6686315db8.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/mycenae_GSS500-195/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/mycenae_GSS500-195/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/mycenae_GSS500-195/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:58:51.565Z"
   },
   {
     "title": "푸키 주니어장 (화이트,제품선택)",
     "price": 219000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1586&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/16e3c5d3c6112f333f90b24a55484bf5.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/16e3c5d3c6112f333f90b24a55484bf5.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-007/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-007/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-007/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-007/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:59:08.903Z"
   },
   {
     "title": "크미 주니어장 (우드백,제품선택)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1585&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/ac3d8ab246350160c982a5776fe4f221.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/ac3d8ab246350160c982a5776fe4f221.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-007/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-007/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-007/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-007/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:59:26.494Z"
   },
   {
     "title": "크론 주니어장 (소프트그레이제품선택)",
     "price": 185000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1582&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/fd32b35a74b7520bc1bcf9671fe0d047.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/fd32b35a74b7520bc1bcf9671fe0d047.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-005/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-005/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-005/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-005/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T14:59:44.340Z"
   },
   {
     "title": "크론 주니어장 (화이트/제품선택)",
     "price": 185000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1581&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/d1e5da941636050f235fb6fc0a5d4d8d.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/d1e5da941636050f235fb6fc0a5d4d8d.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-001/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-001/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-001/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY414-001/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:00:01.860Z"
   },
   {
     "title": "로프 주니어장 (미백색/제품선택)",
     "price": 235000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1580&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/a7e8a6d904ebdc99f1d52ee27cdbec8e.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/a7e8a6d904ebdc99f1d52ee27cdbec8e.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY413-003/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY413-003/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY413-003/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY413-003/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:00:19.263Z"
   },
   {
     "title": "스펜드 슬라이드장 (인디고블루)",
     "price": 149000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=150&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/d3f4f543c0243993f017c99bf9934078.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/d3f4f543c0243993f017c99bf9934078.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-046/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-046/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-046/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-046/detail2.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:00:37.261Z"
   },
   {
     "title": "그랑누아 슬라이드장",
     "price": 195000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=151&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/2e290a86864f0a9e4435e8ce9dc7007b.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/2e290a86864f0a9e4435e8ce9dc7007b.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/grandnoir_GSS500-156/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/grandnoir_GSS500-156/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/grandnoir_GSS500-156/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:00:55.572Z"
   },
   {
     "title": "베레나 슬라이드장",
     "price": 149000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=152&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/916b2f1fcf417939d7b151483054fbef.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/916b2f1fcf417939d7b151483054fbef.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/berena_GSS500-021/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/berena_GSS500-021/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/berena_GSS500-021/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:01:13.887Z"
   },
   {
     "title": "벨베스 장롱 (10자 / 12자)",
     "price": 970000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1570&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202403/4d75c1211fdd10701167d34eacec8ebf.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202403/4d75c1211fdd10701167d34eacec8ebf.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-24/belves01.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-24/belves02.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-24/belves03.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-24/belves04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:01:32.017Z"
   },
   {
     "title": "클로아 장롱 (10자 / 12자)",
     "price": 950000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1569&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202403/1d75f1d9532f15d721c40555aa84e910.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202403/1d75f1d9532f15d721c40555aa84e910.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-9/cloa_01.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-9/cloa_02.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-9/cloa_03.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GMB/GMB2010-9/cloa_04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:01:50.380Z"
   },
   {
     "title": "딜런 슬라이드 장롱 10자 (아카시아)",
     "price": 950000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=582&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/4b324e7b945f00fae691bbcc1526794c.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/4b324e7b945f00fae691bbcc1526794c.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20500-324/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20500-324/02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20500-324/03.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20500-324/04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:02:08.247Z"
   },
   {
     "title": "에이바 슬라이드 장롱 6자/7자/9자/10자/12자",
     "price": 590000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=583&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/f7f5539dc0a021c4ff54549861f187bd.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/f7f5539dc0a021c4ff54549861f187bd.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-106/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-106/02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-106/03.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-106/04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:02:26.071Z"
   },
   {
     "title": "바브1 슬라이드 장롱 6자/7자/9자/10자/12자",
     "price": 590000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=584&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/0d873b9de3a6e822465c806222b52f28.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/0d873b9de3a6e822465c806222b52f28.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-107/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-107/02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-107/03.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-107/04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:02:43.919Z"
   },
   {
     "title": "바브2 슬라이드 장롱 6자/7자/9자/10자/12자",
     "price": 590000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=585&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/a6e3cc8caeeabcc7341ec782f923584f.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/a6e3cc8caeeabcc7341ec782f923584f.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-108/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-108/02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-108/03.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GNB%20813-108/04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:03:01.927Z"
   },
   {
     "title": "스위브 10.5R 장롱",
     "price": 980000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=687&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/138cbfd482bf09b49610f2fc076d98a4.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/138cbfd482bf09b49610f2fc076d98a4.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI-19-03/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:03:19.867Z"
   },
   {
     "title": "라일 10.5자 장롱 시리즈 (제품선택)",
     "price": 980000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=686&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/abfffba9a37ea8f15277cc324e7b870e.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/abfffba9a37ea8f15277cc324e7b870e.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-101/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-101/02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-101/03.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-101/04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-101/05.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-101/06.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:03:38.412Z"
   },
   {
     "title": "디아밍 10.5자 장롱 시리즈 (제품선택)",
     "price": 980000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=685&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/54e078f8e27e3abb54f2e565ce4057a5.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/54e078f8e27e3abb54f2e565ce4057a5.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-105/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-105/02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-105/03.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-105/04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-105/05.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%201123-105/06.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:03:56.490Z"
   },
   {
     "title": "다크비 10.5자 일체형 장롱(라이트브라운)",
     "price": 1150000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=679&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202205/4c3db3bf7690c52dd5c4beeeeb8a6b16.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202205/4c3db3bf7690c52dd5c4beeeeb8a6b16.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-515/GYI-550-515-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-515/GYI-550-515-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-515/GYI-550-515-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-515/GYI-550-515-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:04:15.624Z"
   },
   {
     "title": "스미스 9자 장롱 시리즈(제품선택)(딥그린)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=676&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/8d2f15125d33c2d5ab40534abcc4f29b.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/8d2f15125d33c2d5ab40534abcc4f29b.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-502/GYI-550-502-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-502/GYI-550-502-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-502/GYI-550-502-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-502/GYI-550-502-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:04:33.224Z"
   },
   {
     "title": "브라이스 10.5자 일체형 장롱(화이트LPM무광)",
     "price": 1090000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=671&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202205/b18480701fb6878fecab7bb85549d43a.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202205/b18480701fb6878fecab7bb85549d43a.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-499/GYI-550-499-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-499/GYI-550-499-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-499/GYI-550-499-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-499/GYI-550-499-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:04:51.681Z"
   },
   {
     "title": "엘리트 9자 장롱 시리즈(제품선택)(화이트UV)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=670&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/3fdc6088fd8ad5d33fdf9034241d9fee.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/3fdc6088fd8ad5d33fdf9034241d9fee.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/%20GYI%20550-521/GYI-550-521-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/%20GYI%20550-521/GYI-550-521-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/%20GYI%20550-521/GYI-550-521-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/%20GYI%20550-521/GYI-550-521-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:05:10.695Z"
   },
   {
     "title": "헤이 9자 장롱 시리즈(제품선택)(화이트UV)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=669&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/0dc489454f7355ad2f449c7eaa6e042f.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/0dc489454f7355ad2f449c7eaa6e042f.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-524/GYI-550-524-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-524/GYI-550-524-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-524/GYI-550-524-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-524/GYI-550-524-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:05:29.280Z"
   },
   {
     "title": "지오 주니어장-다리형 (화이트, 핑크/제품선택)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1600&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/7f82e2ba51abb3efdbb3b8d3c016d7f1.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/7f82e2ba51abb3efdbb3b8d3c016d7f1.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY427-001/geo1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY427-001/geo2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY427-001/geo3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY427-001/geo4.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY427-001/geo5.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/chest/bedroom-chest.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:05:47.641Z"
   },
   {
     "title": "지오 주니어장-다리형 (그레이, 아키시아/제품선택)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1599&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/58bf011cbfbc05466e97f96ee0ee913e.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/58bf011cbfbc05466e97f96ee0ee913e.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY426-001/geo1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY426-001/geo2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY426-001/geo3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY426-001/geo4.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY426-001/geo5.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/chest/bedroom-chest.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:06:06.401Z"
   },
   {
     "title": "젠느 슬라이드장",
     "price": 199000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1678&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/f99dac623bf77b9598cd048b7abb5190.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/f99dac623bf77b9598cd048b7abb5190.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-029/jenne1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-029/jenne2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-029/jenne3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GSS/GSS500-029/jenne4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:06:24.392Z"
   },
   {
     "title": "지오 주니어장 (그레이, 오크 /제품선택)",
     "price": 195000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1598&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/d6ec4b0e0e89a8e8a7de01436e2bcb69.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/d6ec4b0e0e89a8e8a7de01436e2bcb69.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY425-001/geo1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY425-001/geo2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY425-001/geo3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY425-001/geo4.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY425-001/geo5.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/chest/bedroom-chest.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:06:42.547Z"
   },
   {
     "title": "제나 10자 장롱",
     "price": 890000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1007&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202210/f616e21a6dbe718ffcd6fd19ff475075.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202210/f616e21a6dbe718ffcd6fd19ff475075.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-119/1.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-119/2.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-119/3.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-119/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:07:00.921Z"
   },
   {
     "title": "다이야 9자 장롱 시리즈(제품선택)(웜그레이)",
     "price": 195000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=666&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/38e029941539f5480982c23a3c0cfb3f.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/38e029941539f5480982c23a3c0cfb3f.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-501/GYI-550-501-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-501/GYI-550-501-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-501/GYI-550-501-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-501/GYI-550-501-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:07:18.355Z"
   },
   {
     "title": "지오 주니어장 (화이트,핑크 / 제품선택)",
     "price": 195000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1597&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/2e90c5fbe1d49ee464619c7ac22ab2cc.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/2e90c5fbe1d49ee464619c7ac22ab2cc.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY424-001/geo1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY424-001/geo2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY424-001/geo3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY424-001/geo4.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/chest/GTY/GTY424-001/geo5.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/chest/bedroom-chest.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:07:36.811Z"
   },
   {
     "title": "푸키 주니어장 (그레이,제품선택)",
     "price": 219000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1587&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/11146f30947e574f8e3eb0a69e6d1aab.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/11146f30947e574f8e3eb0a69e6d1aab.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-001/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-001/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-001/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU104-001/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:07:54.206Z"
   },
   {
     "title": "샤이닝 10자 장롱",
     "price": 980000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1003&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202210/eb223e78b24b2652e7e17fd17fbf7e66.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202210/eb223e78b24b2652e7e17fd17fbf7e66.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-115/1.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-115/2.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-115/3.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLS790-115/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:08:11.733Z"
   },
   {
     "title": "크미 주니어장 (화이트,제품선택)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1584&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/64e3da67115d830751f164634e200415.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/64e3da67115d830751f164634e200415.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU102-001/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU102-001/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU102-001/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU102-001/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:08:29.577Z"
   },
   {
     "title": "크미 주니어장 (그레이,제품선택)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1583&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/803fa83b0b11c5e06c9388594718001b.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/803fa83b0b11c5e06c9388594718001b.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-001/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-001/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-001/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GLU/GLU103-001/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:08:47.982Z"
   },
   {
     "title": "쥬르테 슬라이드장",
     "price": 189000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=156&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/2663751dcc1469c568e51fb0a8366079.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/2663751dcc1469c568e51fb0a8366079.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/jourte_GSS500-127/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/jourte_GSS500-127/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/jourte_GSS500-127/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:09:05.994Z"
   },
   {
     "title": "램 템바골드 주니어장 (그레이/제품선택)",
     "price": 250000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1579&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/5ff00109f494d832575965dabda9782e.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/5ff00109f494d832575965dabda9782e.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY411-001/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY411-001/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY411-001/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY411-001/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:09:24.161Z"
   },
   {
     "title": "램 템바골드 주니어장 (미백색/제품선택)",
     "price": 250000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1578&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202404/53033ce45c11afdc802fe5122545d6ef.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202404/53033ce45c11afdc802fe5122545d6ef.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY410-001/1.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY410-001/2.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY410-001/3.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GTY/GTY410-001/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/junior_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:09:42.003Z"
   },
   {
     "title": "마벨 10.5자 일체형 장롱(화이트UV)",
     "price": 1190000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=655&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/959d70cc70a0e40787a975f8cf569652.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/959d70cc70a0e40787a975f8cf569652.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-513/GYI-550-513-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-513/GYI-550-513-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-513/GYI-550-513-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-513/GYI-550-513-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:10:00.913Z"
   },
   {
     "title": "소리렌 슬라이드장",
     "price": 179000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=153&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/dc69e0d443c49321e4db7fa000f2c766.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/dc69e0d443c49321e4db7fa000f2c766.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/sorren_GSS500-035/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/sorren_GSS500-035/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/sorren_GSS500-035/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:10:18.775Z"
   },
   {
     "title": "크리스틴 800 하이그로시 장롱시리즈",
     "price": 250000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=654&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/390601f86595d8500c17ce9574c3a4d8.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/390601f86595d8500c17ce9574c3a4d8.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI-19-10/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:10:37.407Z"
   },
   {
     "title": "모모 9자 장롱 시리즈(제품선택)(웜그레이)",
     "price": 215000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=653&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/5e5d8ea14e28c71afc19131db0ae419e.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/5e5d8ea14e28c71afc19131db0ae419e.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-514/GYI-550-514-1title.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-514/GYI-550-514-2spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-514/GYI-550-514-5photo.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%20550-514/GYI-550-514-6bottom.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:10:55.611Z"
   },
   {
     "title": "스펜드 슬라이드장 (화이트)",
     "price": 149000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=802&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202206/72435bc5be5f359ffc637fd79189e7af.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202206/72435bc5be5f359ffc637fd79189e7af.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-047/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-047/02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-047/03.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/spend_GSS500-047/04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:11:14.177Z"
   },
   {
     "title": "리키 9자 옷장 시리즈 (제품선택)",
     "price": 225000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1564&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202403/390e164d92d79db0a744ce9bbdda4b43.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202403/390e164d92d79db0a744ce9bbdda4b43.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GYI550-532/RICKY_01.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GYI550-532/RICKY_02.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GYI550-532/RICKY_03.jpg",
+      "https://gi.esmplus.com/glory3646/wooami/closet/GYI550-532/RICKY_04.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:11:33.934Z"
   },
   {
     "title": "에코 4자/5자 슬라이딩 싱글장 (화이트)",
     "price": 530000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1204&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202212/437a4d53a372fce05f68c0139f13fa81.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202212/437a4d53a372fce05f68c0139f13fa81.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-003/1.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-003/2.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-003/3.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-003/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:11:51.856Z"
   },
   {
     "title": "에린즈 장롱",
     "price": 139000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=162&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202110/c4ebb2a1ce736803b04aaf6b6f3e32ac.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202110/c4ebb2a1ce736803b04aaf6b6f3e32ac.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/erinz_GSS500-213/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/erinz_GSS500-213/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/erinz_GSS500-213/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:12:10.152Z"
   },
   {
     "title": "몬테즈 장롱",
     "price": 139000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=159&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202110/d4e42bc6f7b58c829e736a99a32c69e8.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202110/d4e42bc6f7b58c829e736a99a32c69e8.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/montage_GSS500-193/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/montage_GSS500-193/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/montage_GSS500-193/detail.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:12:28.456Z"
   },
   {
     "title": "에디 장롱",
     "price": 165000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=158&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202110/8a37303bc86f2f3f43cd128cc6e2c563.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202110/8a37303bc86f2f3f43cd128cc6e2c563.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/eddie_GSS500-168/main.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/eddie_GSS500-168/spec.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:12:46.542Z"
   },
   {
     "title": "타니 4자/5자 슬라이딩 싱글장",
     "price": 670000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=1203&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202212/b3699218fc132e71b4104c634b4b6213.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202212/b3699218fc132e71b4104c634b4b6213.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/wooami_brand2.gif",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-007/1.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-007/2.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-007/3.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/GLU57-007/4.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:13:04.866Z"
   },
   {
     "title": "클레식 800 장롱(원서랍장+거울장)",
     "price": 230000,
     "productUrl": "https://wooamimall.com/product/detail.html?product_no=688&cate_no=50&display_group=1",
-    "imageUrl": "https://wooamimall.com/web/product/medium/202205/c43b863e6034918d76b56f3a7d3ab7b7.jpg"
+    "imageUrl": "https://wooamimall.com/web/product/medium/202205/c43b863e6034918d76b56f3a7d3ab7b7.jpg",
+    "detailImages": [
+      "https://gi.esmplus.com/glory8804/2021/closet/GYI%2010-75/01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "https://gi.esmplus.com/glory8804/2021/closet/bedroom_closet.jpg",
+      "https://gi.esmplus.com/glory8804/2021/delivery.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T15:13:22.398Z"
   }
 ]

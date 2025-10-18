@@ -3,480 +3,1105 @@
     "title": "패브릭 소파 클리닝 비치움 홈케어서비스",
     "price": 20000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008899",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/08/31/1000008899/1000008899_detail_055.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/08/31/1000008899/1000008899_detail_055.jpg",
+    "detailImages": [
+      "https://gdcdn.enex.co.kr/UPLOAD/colla_enex_bchium.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_01.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_02.gif",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_03.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_04.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_05.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_06.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_07.gif",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_08.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_09.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_10.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_11.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_12.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_13.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_14.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_sofa_15.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:23:46.628Z"
   },
   {
     "title": "블룸 제로라인 모션 리클라이너 아쿠아텍스 3인 소파",
     "price": 1106100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008709",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614711_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614711_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_02.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_04-1.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_04-1-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_04-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_05_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_05_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_05_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_06.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_07.png"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:23:51.221Z"
   },
   {
     "title": "블룸 제로라인 모션 리클라이너 아쿠아텍스 4인 소파",
     "price": 1426500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008708",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614754_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614754_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_02.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_04-1.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_04-1-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_04-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_05_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_05_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_05_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_06.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/bloom_sofa_07.png"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:23:55.607Z"
   },
   {
     "title": "플로 에코레더 제로라인 모션 리클라이너 3인 소파(일반형)",
     "price": 1448100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008699",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614639_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614639_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_02.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-1.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-3.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_05.png"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:00.008Z"
   },
   {
     "title": "플로 에코레더 제로라인 모션 리클라이너 3인 소파(멀티형)",
     "price": 1588500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008698",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614673_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614673_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_02.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-1.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-3.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_05.png"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:04.446Z"
   },
   {
     "title": "플로 에코레더 제로라인 모션 리클라이너 4인 소파(멀티형)",
     "price": 2159100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008697",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614680_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614680_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_02.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-1.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-3.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_05.png"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:08.818Z"
   },
   {
     "title": "플로 에코레더 제로라인 모션 리클라이너 4인 소파(일반형)",
     "price": 1993500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008696",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614693_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176614693_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_02.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-1.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-1-3.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_04-2.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_05.png"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:13.147Z"
   },
   {
     "title": "쿠오레 스윙기능 4인 이탈리아 가죽 소파+스툴",
     "price": 2180000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008630",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176608297_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176608297_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_4_detail_stallx_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_4_detail_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_4_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_4_detail_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_4_detail_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_4_detail_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:17.545Z"
   },
   {
     "title": "쿠오레 스윙기능 3인 이탈리아 가죽 소파+스툴",
     "price": 1700000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008629",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176608313_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176608313_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3_detail_stallx_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3_detail_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3_detail_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3_detail_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3_detail_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:21.925Z"
   },
   {
     "title": "쿠오레 스윙기능 3.5인 이탈리아 가죽 소파+스툴",
     "price": 2080000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008628",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176608317_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176608317_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3.5_detail_stallx_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3.5_detail_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3.5_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3.5_detail_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3.5_detail_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cuore_3.5_detail_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:26.308Z"
   },
   {
     "title": "아모르 모듈형 2인용 조야 패브릭 소파 (좌형)",
     "price": 217000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008580",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202503/prd175861771_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202503/prd175861771_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_5.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:30.729Z"
   },
   {
     "title": "아모르 모듈형 2인용 조야 패브릭 소파 (우형)",
     "price": 217000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008579",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202504/prd176241563_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202504/prd176241563_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_5.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:35.107Z"
   },
   {
     "title": "아모르 모듈형 4인용 조야 패브릭 소파",
     "price": 434000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008578",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202504/prd176241616_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202504/prd176241616_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/amor_5.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:39.508Z"
   },
   {
     "title": "[한정수량] 퓨어엔 거실장/수납장 시리즈",
     "price": 63000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008518",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/17/1000008518/1000002653_detail_059.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/17/1000008518/1000002653_detail_059.jpg",
+    "detailImages": [
+      "https://gdcdn.enex.co.kr/UPLOAD/edit/221124/20221124_164210_1_165344.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/edit/221124/20221124_164222_2_165349.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:43.855Z"
   },
   {
     "title": "에넥스 인칸토 더블 스윙소파 4인",
     "price": 2490000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000007504",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/03/10/1000007504/1000007504_detail_084.png"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/03/10/1000007504/1000007504_detail_084.png",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/4/1_incanto4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/4/2_incanto1080.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/4/3_incanto4.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:48.339Z"
   },
   {
     "title": "에넥스 인칸토 더블 스윙소파 3.5인",
     "price": 2390000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000007503",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/03/10/1000007503/1000007503_detail_031.png"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/03/10/1000007503/1000007503_detail_031.png",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/3.5/1_incanto3.5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/3.5/2_incanto1080.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/3.5/3_incanto3.5.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:52.805Z"
   },
   {
     "title": "에넥스 인칸토 더블 스윙소파 3인",
     "price": 2090000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000007502",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/03/10/1000007502/1000007502_detail_030.png"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/03/10/1000007502/1000007502_detail_030.png",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/3/1_incanto3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/3/2_incanto1080.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/GSSHOP/sofa_incanto/3/3_incanto3.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:24:57.240Z"
   },
   {
     "title": "럭스 확장형 모션 슬라이드 리클라이너 4인 소파",
     "price": 1431000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000007484",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/02/07/1000007484/1000007484_detail_089.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/02/07/1000007484/1000007484_detail_089.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_03.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_04.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_06.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_07.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/luxsofa_09.png"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:01.728Z"
   },
   {
     "title": "피렌체 이태리 천연소가죽 3인 소파 (스툴 별도)",
     "price": 1199000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006795",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006795/1000006795_detail_079.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006795/1000006795_detail_079.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-3men_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-3men_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-3men_3.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:06.199Z"
   },
   {
     "title": "피렌체 이태리 천연소가죽 4인 소파+스툴",
     "price": 1299000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006794",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006794/1000006794_detail_059.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006794/1000006794_detail_059.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-4men_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-4men_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-4men_3.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:10.639Z"
   },
   {
     "title": "피렌체 이태리 천연소가죽 6인 소파+스툴",
     "price": 1599000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006793",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006793/1000006793_detail_067.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006793/1000006793_detail_067.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-6men_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-6men_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SKSTOA/241204enex_sk-sofa-6men_3.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:15.103Z"
   },
   {
     "title": "플로 확장형 슬라이드 모션 리클라이너 이지클린 4인 소파",
     "price": 1791000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006754",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/48/1000006754/1000006754_detail_075.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/48/1000006754/1000006754_detail_075.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_1.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_4.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_7.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_8.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_9.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_10.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_11.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_12.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_13.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_14.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_15.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_16.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_17.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:19.621Z"
   },
   {
     "title": "플로 확장형 슬라이드 모션 리클라이너 이지클린 3인 소파",
     "price": 1251000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006753",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/48/1000006753/1000006753_detail_048.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/48/1000006753/1000006753_detail_048.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_1.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flo_sofa_up_202506.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_4.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_7.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_8.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_9.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_10.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_11.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_12.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_13.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_14.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_15.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_16.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_17.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flosofa_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:24.019Z"
   },
   {
     "title": "루시 빗살 2단 원목 협탁 사이드테이블",
     "price": 96300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006749",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006749/1000006749_detail_03.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006749/1000006749_detail_03.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:28.550Z"
   },
   {
     "title": "루시 빗살 1단 원목 협탁 사이드테이블",
     "price": 77400,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006748",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006748/1000006748_detail_025.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006748/1000006748_detail_025.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:33.128Z"
   },
   {
     "title": "데미 아쿠아텍스 패브릭 협탁",
     "price": 85000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006747",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006747/1000006747_detail_046.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006747/1000006747_detail_046.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/demi_side_table.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/demi_side_table_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:37.974Z"
   },
   {
     "title": "헤이 550 로봇청소기 선반수납장",
     "price": 99000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006184",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/40/1000006184/1000006184_detail_087.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/40/1000006184/1000006184_detail_087.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/hey_robot.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/hey_robot_02_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/hey_robot_02_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/hey_robot_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/hey_robot_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/hey_robot_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:42.557Z"
   },
   {
     "title": "[한정수량] 블랑 패브릭소파 오토만 단품 (스몰780)",
     "price": 121000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006182",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/09/40/1000006182/1000006182_detail_050.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/09/40/1000006182/1000006182_detail_050.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_04.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_06.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/02_bla_aqua.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_07.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/03_bla_cu.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/01_bla_cover.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_sofa_atm_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc_bottom_atm.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:47.279Z"
   },
   {
     "title": "[한정수량] 꼼마 모듈 패브릭 소파 1인 2인 스툴 조합 2 colors",
     "price": 77000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005179",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/07/30/1000005179/1000005179_detail_068.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/07/30/1000005179/1000005179_detail_068.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01-1.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:52.248Z"
   },
   {
     "title": "꼼마 모듈 패브릭 소파 2인용 단품",
     "price": 256300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005162",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/07/29/1000005162/1000000884_detail_015.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/07/29/1000005162/1000000884_detail_015.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/photoreview_hs_sofa.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_3_del.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01-1.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:25:56.898Z"
   },
   {
     "title": "꼼마 모듈 패브릭 소파 1인용(양쪽팔걸이)",
     "price": 242500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005018",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005018/1000005018_detail_036.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005018/1000005018_detail_036.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01-1.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:01.407Z"
   },
   {
     "title": "대형스툴,사무실,응접실 추천상품 메리 아쿠아텍스 소파 스툴 (착불배송)",
     "price": 99900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004984",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/05/22/1000004984/1000004984_detail_042.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/05/22/1000004984/1000004984_detail_042.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc-marry-sofa_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc-marry-sofa_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc-marry-sofa_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc-marry-sofa_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/blanc-marry-sofa_05.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:05.879Z"
   },
   {
     "title": "모티브 이태리 천연소가죽 6인 소파",
     "price": 1950000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004904",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004904/1000004904_detail_067.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004904/1000004904_detail_067.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/motive_six_01.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:10.368Z"
   },
   {
     "title": "모티브 이태리 천연소가죽 4인 소파",
     "price": 1600000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004903",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004903/1000004903_detail_045.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004903/1000004903_detail_045.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/motive_four_01.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:14.799Z"
   },
   {
     "title": "모티브 이태리 천연소가죽 3인 소파 (스툴 별도)",
     "price": 1490000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004902",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004902/1000004902_detail_043.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004902/1000004902_detail_043.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/motive_three_01.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:19.186Z"
   },
   {
     "title": "미유 슈렁큰 통가죽 스윙 6인 소파",
     "price": 2558000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004742",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/03/1000004742/1000004742_detail_03.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/03/1000004742/1000004742_detail_03.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/miusofa-6m-tablesvc.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:23.687Z"
   },
   {
     "title": "미유 슈렁큰 통가죽 스윙 4인 소파",
     "price": 2258000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004741",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/03/1000004741/1000004741_detail_076.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/03/1000004741/1000004741_detail_076.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/miusofa-4m-tablesvc.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:28.175Z"
   },
   {
     "title": "미유 슈렁큰 통가죽 스윙 3인 소파 (스툴 별도)",
     "price": 2058000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004740",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/03/1000004740/1000004740_detail_025.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/03/1000004740/1000004740_detail_025.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/miusofa-3m-tablesvc.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:32.683Z"
   },
   {
     "title": "[특가할인] 우디 원목 매거진랙 벽선반 잡지꽂이(멀바우)",
     "price": 23900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004733",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/01/1000004733/register_detail_05.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/01/1000004733/register_detail_05.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:37.176Z"
   },
   {
     "title": "[특가할인] 우디 원목 매거진랙 벽선반 잡지꽂이(내추럴)",
     "price": 20900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004732",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/01/1000004732/register_detail_065.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/01/1000004732/register_detail_065.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:41.731Z"
   },
   {
     "title": "[특가할인] 우디 2단 원목 라운드 선반(내추럴)",
     "price": 27500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004731",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/01/1000004731/register_detail_048.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/01/01/1000004731/register_detail_048.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:46.278Z"
   },
   {
     "title": "도노 슈렁큰 천연면피 통가죽 3인 소파 (스툴별도)",
     "price": 1190000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004229",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/07/29/1000004229/register_detail_068.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/07/29/1000004229/register_detail_068.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/dono_three_01.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:50.825Z"
   },
   {
     "title": "도노 슈렁큰 천연면피 통가죽 4인 소파",
     "price": 1440000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004228",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/07/29/1000004228/register_detail_031.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/07/29/1000004228/register_detail_031.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/dono_four_01.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:55.353Z"
   },
   {
     "title": "도노 슈렁큰 천연면피 통가죽 6인 소파",
     "price": 1690000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004227",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/07/29/1000004227/register_detail_029.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/07/29/1000004227/register_detail_029.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/dono_six_01.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:26:59.891Z"
   },
   {
     "title": "어반 템바보드 거실 소파 테이블 1200",
     "price": 233100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004109",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/06/23/1000004109/register_detail_074.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/06/23/1000004109/register_detail_074.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/tembar_living_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/tembar_living_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/tembar_living_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/tembar_living_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/tembar_living_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/tembar_living_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/tembar_living_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:04.448Z"
   },
   {
     "title": "쿼터 커버링 아쿠아텍스 2인 소파",
     "price": 359100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004047",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/05/19/1000004047/register_detail_034.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/05/19/1000004047/register_detail_034.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/quota2_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/quota2_mv01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/quota2_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/quota2_mv02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/quota2_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/quota2_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:08.977Z"
   },
   {
     "title": "우디 원목 매거진랙 벽선반 잡지꽂이(멀바우)",
     "price": 31500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000003737",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/02/08/1000003737/register_detail_05.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/02/08/1000003737/register_detail_05.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_mulbow_S_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:13.541Z"
   },
   {
     "title": "우디 원목 매거진랙 벽선반 잡지꽂이(내추럴)",
     "price": 28000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000003736",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/02/08/1000003736/register_detail_065.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/02/08/1000003736/register_detail_065.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_nature_S_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:18.004Z"
   },
   {
     "title": "우디 2단 원목 라운드 선반(내추럴)",
     "price": 30300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000003735",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/02/08/1000003735/register_detail_048.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/02/08/1000003735/register_detail_048.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-2round_S_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/woody-magazine-rack_bottom.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:22.393Z"
   },
   {
     "title": "빈 4인 소파",
     "price": 850000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000003680",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/01/02/1000003680/register_detail_014.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/01/02/1000003680/register_detail_014.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:26.776Z"
   },
   {
     "title": "빈 4인 소파+스툴",
     "price": 882000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000003679",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/01/02/1000003679/register_detail_090.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/01/02/1000003679/register_detail_090.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bean_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:31.238Z"
   },
   {
     "title": "로지 1800 거실장",
     "price": 239000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002680",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/43/1000002680/register_detail_017.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/43/1000002680/register_detail_017.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/rozy_series_living.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/rozy_livingtable_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:35.763Z"
   },
   {
     "title": "퓨어엔 거실장/수납장 시리즈",
     "price": 76500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002653",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002653/1000002653_detail_059.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002653/1000002653_detail_059.jpg",
+    "detailImages": [
+      "https://gdcdn.enex.co.kr/UPLOAD/edit/221124/20221124_164210_1_165344.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/edit/221124/20221124_164222_2_165349.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:40.309Z"
   },
   {
     "title": "퓨어엔 600폭 높은 거실장",
     "price": 76500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002641",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002641/register_detail_093.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002641/register_detail_093.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_living-room-dresser-_600.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:44.845Z"
   },
   {
     "title": "퓨어엔 1800폭 높은 거실장 A형 (일반)",
     "price": 155000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002640",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002640/register_detail_077.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002640/register_detail_077.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_living-room-dresser-_1800.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:49.310Z"
   },
   {
     "title": "퓨어엔 1800폭 높은 거실장 B형 (오픈형)",
     "price": 155000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002639",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002639/register_detail_017.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002639/register_detail_017.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_open_living-room-dresser-_1800.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:53.739Z"
   },
   {
     "title": "퓨어엔 800폭 높은 수납장",
     "price": 105000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002638",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002638/register_detail_076.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002638/register_detail_076.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_storage-closet-_800.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:27:58.305Z"
   },
   {
     "title": "퓨어엔 1200폭 높은 수납장",
     "price": 142000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002637",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002637/register_detail_032.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002637/register_detail_032.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_storage-closet-_1200.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:02.758Z"
   },
   {
     "title": "퓨어엔 400폭 키큰 수납장",
     "price": 125000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002636",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002636/register_detail_072.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002636/register_detail_072.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_high_storage-closet-_400.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:07.233Z"
   },
   {
     "title": "퓨어엔 600폭 키큰 수납장",
     "price": 149000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002635",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002635/register_detail_075.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002635/register_detail_075.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_high_storage-closet-_600.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:11.621Z"
   },
   {
     "title": "퓨어엔 800폭 키큰 수납장",
     "price": 179000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002634",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002634/register_detail_056.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/42/1000002634/register_detail_056.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_high_storage-closet-_800.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/pureN_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:16.079Z"
   },
   {
     "title": "꼼마 모듈 패브릭 소파 2인 + 고이스",
     "price": 413800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002628",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/41/1000002628/1000002120_detail_028.png"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/10/41/1000002628/1000002120_detail_028.png",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_01-1.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comma_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:20.498Z"
   },
   {
     "title": "플렉스 LED 벽걸이형 거실장",
     "price": 144000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002420",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002420/register_detail_020.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002420/register_detail_020.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_detail_wall_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_detail_wall_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_detail_wall_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_detail_wall_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/gd_flex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:24.921Z"
   },
   {
     "title": "플렉스 LED 확장형 거실장",
     "price": 274000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002419",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002419/register_detail_030.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002419/register_detail_030.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_ex_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_ex_detail_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_ex_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/flex_led_ex_detail_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/gd_flex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:29.344Z"
   },
   {
     "title": "도도 800 슬라이딩 수납장",
     "price": 168000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002418",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002418/register_detail_039.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002418/register_detail_039.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/dodo_series_800_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/dodo_series_800_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/dodo_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:33.795Z"
   },
   {
     "title": "도도 1200 슬라이딩 수납장",
     "price": 203000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002417",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002417/register_detail_073.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/29//1000002417/register_detail_073.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/dodo_series_1200_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/dodo_series_1200_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/dodo_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:38.259Z"
   },
   {
     "title": "프라우 프리미엄 통가죽 천연면피 4인용 소파",
     "price": 2189000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002399",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002399/register_detail_074.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002399/register_detail_074.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_05.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:42.650Z"
   },
   {
     "title": "프라우 프리미엄 통가죽 천연면피 4인용 소파+스툴",
     "price": 2420000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002398",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002398/register_detail_058.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002398/register_detail_058.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/frau_05.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:47.052Z"
   },
   {
     "title": "카디프 프리미엄 통가죽 천연면피 4인용 소파",
     "price": 1490000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002395",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002395/register_detail_096.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002395/register_detail_096.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_04.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:51.483Z"
   },
   {
     "title": "카디프 프리미엄 통가죽 천연면피 4인용 소파+스툴",
     "price": 1750000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002394",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002394/register_detail_012.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/28//1000002394/register_detail_012.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_leather_04.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:28:55.897Z"
   },
   {
     "title": "카디프 조야 이지클린 패브릭 4인용 소파",
     "price": 1315600,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002358",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/27//1000002358/register_detail_010.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/27//1000002358/register_detail_010.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_04.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:00.305Z"
   },
   {
     "title": "카디프 조야 이지클린 패브릭 4인용 소파+스툴",
     "price": 1544400,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002357",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/27//1000002357/register_detail_044.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/07/27//1000002357/register_detail_044.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cardiff_04.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:04.683Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 1600",
     "price": 499000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002346",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002346/register_detail_027.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002346/register_detail_027.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_1600_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_1600_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:09.111Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 2400",
     "price": 699000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002345",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002345/register_detail_034.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002345/register_detail_034.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_2400_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_2400_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:13.521Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 2800",
     "price": 790000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002344",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002344/register_detail_044.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002344/register_detail_044.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_2800_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_2800_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:17.957Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 3200",
     "price": 880000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002343",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002343/register_detail_077.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002343/register_detail_077.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_3200_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_3200_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:22.476Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 3600",
     "price": 990000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002342",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002342/register_detail_045.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002342/register_detail_045.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_3600_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_3600_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:26.891Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 400",
     "price": 149000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002341",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002341/register_detail_068.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002341/register_detail_068.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_400_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_400_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:31.676Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 600",
     "price": 189000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002340",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002340/register_detail_097.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002340/register_detail_097.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_600_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_600_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:36.229Z"
   },
   {
     "title": "모던 월플렉스 서재형 거실장 800",
     "price": 249000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000002339",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002339/register_detail_066.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/22/06/25//1000002339/register_detail_066.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_800_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_damper.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/wallflex_800_detail_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/riz_wallflex_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:29:40.781Z"
   }
 ]

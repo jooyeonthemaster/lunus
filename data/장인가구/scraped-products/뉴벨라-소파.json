@@ -1,0 +1,44 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=637",
+  "productName": "뉴벨라 소파",
+  "price": 1850000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758500659_0408.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758500667_2062.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758500671_6363.jpg\"><br style=\"clear:both;\"><br></div>&nbsp;<p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758500659_0408.jpg",
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758500667_2062.gif",
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758500671_6363.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:57:10.977Z"
+}

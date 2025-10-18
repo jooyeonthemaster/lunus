@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=635",
+  "productName": "솔레나 소파",
+  "price": 2672000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/3ad0d1c46602fe8c03aef0e3b6603fa6_1752795289_8126.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/3ad0d1c46602fe8c03aef0e3b6603fa6_1752795295_9535.jpg\"></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2507/3ad0d1c46602fe8c03aef0e3b6603fa6_1752795289_8126.jpg",
+    "https://www.jangin.com/data/editor/2507/3ad0d1c46602fe8c03aef0e3b6603fa6_1752795295_9535.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:57:19.170Z"
+}

@@ -1,0 +1,255 @@
+{
+  "testUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008985",
+  "timestamp": "2025-10-17T16:43:26.617Z",
+  "totalImages": 138,
+  "enexImages": 8,
+  "imageDomains": {
+    "enexennee1.cdn-nhncommerce.com": [
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/41868dbec59af093a08e31f9ee0e50ff_68623.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_search.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_my.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_cart.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/e2708efbb40142d0e24ba9a2b4a70cf7_29792.jpg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_quick01.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_quick02.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_quick03.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_quick04.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/upload/event/202509301623213981057.jpg",
+      "https://enexennee1.cdn-nhncommerce.com/data/upload/event/202509261344069175013.jpg",
+      "https://enexennee1.cdn-nhncommerce.com/data/upload/event/202509261314474231091.jpg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/icon/shop_cart/btn_slide_prev.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/icon/shop_cart/btn_slide_next.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/btn/sns-facebook.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/btn/sns-twitter.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/btn/sns-pinterest.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/layer/btn_layer_close.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/layer/btn_layer_close.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/goods_icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/icon_cart.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/main_swipe_arw.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/main_swipe_arw.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/review_star.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/review_star.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/review_star.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/review_star.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/review_star.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/layer/btn_layer_close.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/etc/ico_camera.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/editor/policy/250929/f04a570e1aef47f002477204a3c99180_190210.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/detail_size_img.jpg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/btn/btn_vertical_prev.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/btn/btn_vertical_next.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/layer/btn_layer_close.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/layer/btn_layer_close.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/quick_icon01.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/quick_icon02.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/quick_icon03.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/quick_icon04.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/9924be9f3e12371fe52a2802ce4afd34_94203.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/e5fd17abd145e7dd3b136f89917c5431_86615.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/4eb0126b90c83c5a7ee4173c4880edd7_98077.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/0f1928fb33625bc0908cdb271ae6c2a8_97789.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/9f8df1bd0c756123068c86643e4a22ef_95135.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/ft_menu01.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/ft_menu02.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/ft_menu03.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/ft_menu04.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/ft_menu05.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/commonimg/logo_comodo.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/commonimg/escrow_banner_tosspayments.jpg",
+      "https://enexennee1.cdn-nhncommerce.com/data/commonimg/logo_cash_receipt_liability.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/btn/btn_scroll_list_del.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/btn/btn_scroll_prev.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/btn/btn_scroll_next.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/common/btn/btn_scroll_top.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/goods_icon_wish.svg",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/icon/shop_cart/btn_cart_open.png",
+      "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/icon/shop_cart/btn_cart_close.png"
+    ],
+    "godomall-storage.cdn-nhncommerce.com": [
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006337/image/main/1000006337_main_049.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000007483/image/main/1000007483_main_045.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/12009/image/main/12009_main_023.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000001129/image/main/1000001129_main_046.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006557/image/main/1000006557_main_022.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/13541/image/main/13541_main_060.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/detail/1000008985_detail_07.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/magnify/1000008985_magnify_013.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/detail/thumb/1000008985_detail_07.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/detail/thumb/1000008985_detail_117.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/detail/thumb/1000008985_detail_235.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006602/image/main/1000006602_main_091.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008510/image/main/1000008510_main_074.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006811/image/main/1000006811_main_088.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006611/image/main/1000006611_main_083.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006589/image/main/1000006589_main_080.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006777/image/main/1000006777_main_073.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006591/image/main/1000006591_main_032.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006604/image/main/1000006604_main_080.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000007489/image/main/1000007489_main_021.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006812/image/main/1000006812_main_029.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006602/image/main/1000006602_main_091.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008510/image/main/1000008510_main_074.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006811/image/main/1000006811_main_088.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006611/image/main/1000006611_main_083.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006589/image/main/1000006589_main_080.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006777/image/main/1000006777_main_073.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006591/image/main/1000006591_main_032.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006604/image/main/1000006604_main_080.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/magnify/1000008985_magnify_013.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/magnify/thumb/1000008985_magnify_013.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/magnify/thumb/1000008985_magnify_115.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/magnify/thumb/1000008985_magnify_232.jpg",
+      "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000008985/image/main/1000008985_main_012.jpg"
+    ],
+    "ad2.shoplinker.co.kr": [
+      "http://ad2.shoplinker.co.kr/product_image9/a0002428/202504/prd176251384_700.jpg"
+    ],
+    "gdcdn.enex.co.kr": [
+      "http://gdcdn.enex.co.kr/UPLOAD/event04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/dongwon_wb_thenew_intro.png",
+      "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/dongwon_wb_delivery_info.png"
+    ]
+  },
+  "imagePatterns": {
+    "/UPLOAD": [
+      {
+        "filename": "event04.jpg",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/event04.jpg"
+      },
+      {
+        "filename": "dongwon_wb_thenew_intro.png",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/dongwon_wb_thenew_intro.png"
+      },
+      {
+        "filename": "jmode_w_01.jpg",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_01.jpg"
+      },
+      {
+        "filename": "jmode_w_02.jpg",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_02.jpg"
+      },
+      {
+        "filename": "jmode_w_03.jpg",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_03.jpg"
+      },
+      {
+        "filename": "jmode_w_04.jpg",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_04.jpg"
+      },
+      {
+        "filename": "jmode_w_05.jpg",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_05.jpg"
+      },
+      {
+        "filename": "dongwon_wb_delivery_info.png",
+        "fullUrl": "http://gdcdn.enex.co.kr/UPLOAD/dongwon_wb_delivery_info.png"
+      }
+    ]
+  },
+  "detailSections": [
+    {
+      "selector": "Container 1",
+      "tagName": "DIV",
+      "id": "contents",
+      "className": "",
+      "imageCount": 94
+    },
+    {
+      "selector": "Container 4",
+      "tagName": "A",
+      "id": "detail",
+      "className": "",
+      "imageCount": 0
+    },
+    {
+      "selector": "Container 5",
+      "tagName": "DIV",
+      "id": "",
+      "className": "detail_event",
+      "imageCount": 0
+    }
+  ],
+  "sampleImages": [
+    "http://gdcdn.enex.co.kr/UPLOAD/event04.jpg",
+    "http://gdcdn.enex.co.kr/UPLOAD/dongwon_wb_thenew_intro.png",
+    "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_01.jpg",
+    "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_02.jpg",
+    "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_03.jpg",
+    "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_04.jpg",
+    "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_05.jpg",
+    "http://gdcdn.enex.co.kr/UPLOAD/dongwon_wb_delivery_info.png"
+  ],
+  "allSampleImages": [
+    {
+      "domain": "enexennee1.cdn-nhncommerce.com",
+      "sample": [
+        "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/banner/41868dbec59af093a08e31f9ee0e50ff_68623.png",
+        "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_search.svg",
+        "https://enexennee1.cdn-nhncommerce.com/data/skin/front/mo_designart/img/da_image/hd_my.svg"
+      ]
+    },
+    {
+      "domain": "godomall-storage.cdn-nhncommerce.com",
+      "sample": [
+        "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000006337/image/main/1000006337_main_049.jpg",
+        "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/1000007483/image/main/1000007483_main_045.jpg",
+        "https://godomall-storage.cdn-nhncommerce.com/c2d39a53dad6479c909b372a2902bed9/goods/12009/image/main/12009_main_023.jpg"
+      ]
+    },
+    {
+      "domain": "ad2.shoplinker.co.kr",
+      "sample": [
+        "http://ad2.shoplinker.co.kr/product_image9/a0002428/202504/prd176251384_700.jpg"
+      ]
+    },
+    {
+      "domain": "gdcdn.enex.co.kr",
+      "sample": [
+        "http://gdcdn.enex.co.kr/UPLOAD/event04.jpg",
+        "http://gdcdn.enex.co.kr/UPLOAD/dongwon_wb_thenew_intro.png",
+        "http://gdcdn.enex.co.kr/UPLOAD/jmode_w_01.jpg"
+      ]
+    }
+  ]
+}

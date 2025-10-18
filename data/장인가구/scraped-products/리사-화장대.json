@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=278",
+  "productName": "리사 화장대",
+  "price": 546000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_153371327358xkg2214l.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533713227_7882.jpg\"><br style=\"clear: both;\"><img src=\"/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533713232_6789.jpg\"><br style=\"clear: both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533713227_7882.jpg",
+    "https://www.jangin.com/data/editor/1808/1937828203f502cd6292fd380d8a62f1_1533713232_6789.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear: both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear: both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:11:18.122Z"
+}

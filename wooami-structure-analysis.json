@@ -1,0 +1,1235 @@
+{
+  "testUrl": "https://wooamimall.com/product/detail.html?product_no=1756&cate_no=43&display_group=1",
+  "analysis": {
+    "detailSectionSelectors": [
+      {
+        "selector": ".detail",
+        "found": true,
+        "innerHTML": "\n<span class=\"sale\"></span><div class=\"per\">40<i>%</i></div>\n...",
+        "imageCount": 0
+      },
+      {
+        "selector": "#prdDetail",
+        "found": true,
+        "innerHTML": "\n        <div class=\"xans-element- xans-product xans-product-detail tabMenu \"><ul>\n                <li class=\"on\"><a href=\"#tab01\">상세정보</a></li>\n                <li><a href=\"#tab03\">상품후기<span>0</span></a></li>\n                <li><a href=\"#tab04\">상품문의<span>0</span></a></li>\n            </ul>\n</div>\n\n        <!-- 상단 정보 이미지 / 전체공지 -->\n        <div class=\"img_info img1\">--&gt;\n            <img src=\"/_wg/img/img_info1.jpg\">\n        &nbsp;</div>\n        \n        <!-- 상품기본정보 -->\n        <div class=\"co...",
+        "imageCount": 14
+      },
+      {
+        "selector": ".xans-product-detail",
+        "found": true,
+        "innerHTML": "<script src=\"//developers.kakao.com/sdk/js/kakao.min.js\"></script>\n<!--\n\t\t$coupon_download_page = /coupon/coupon_productdetail.html\n    -->\n<div class=\"detailArea \">\n        \n        <!-- 이미지영역 -->\n        <div class=\"xans-element- xans-product xans-product-image imgArea \"><div class=\"keyImg item\">\n                <!-- 꾸미기 아이콘 -->\n                                \n                <!-- 좋아요 버튼 -->\n                <div class=\"-likeButton -mov likePrd likePrd_1756\">\n                    <button type=\"...",
+        "imageCount": 37
+      },
+      {
+        "selector": ".detailArea",
+        "found": true,
+        "innerHTML": "\n        \n        <!-- 이미지영역 -->\n        <div class=\"xans-element- xans-product xans-product-image imgArea \"><div class=\"keyImg item\">\n                <!-- 꾸미기 아이콘 -->\n                                \n                <!-- 좋아요 버튼 -->\n                <div class=\"-likeButton -mov likePrd likePrd_1756\">\n                    <button type=\"button\" class=\"-mov\"><img src=\"//img.echosting.cafe24.com/skin/admin_ko_KR/product/ico_likeit.png\" class=\"likePrdIcon\" product_no=\"1756\" category_no=\"43\" icon_status...",
+        "imageCount": 37
+      },
+      {
+        "selector": "#contents",
+        "found": true,
+        "innerHTML": "\n            \n<!--\n    $category_page = /product/list.html\n    $project_page = /product/project.html\n    $jointbuy_page = /product/jointbuy.html\n-->\n\n\n<div id=\"titleArea\">\n    <h2>상품상세 정보</h2>\n    <span class=\"xans-element- xans-layout xans-layout-mobileaction \"><a href=\"#none\" onclick=\"history.go(-1);return false;\"><img src=\"//img.echosting.cafe24.com/skin/mobile_ko_KR/layout/btn_back.gif\" width=\"33\" alt=\"뒤로가기\"></a>\n</span>\n</div>\n\n<div class=\"xans-element- xans-product xans-product-detail\"><sc...",
+        "imageCount": 52
+      }
+    ],
+    "allImages": [
+      {
+        "index": 0,
+        "src": "https://wooamimall.com/_wg/img/logo_off.png",
+        "alt": "{$mall_name}",
+        "className": "off -mov",
+        "parent": "A",
+        "width": 120,
+        "height": 60
+      },
+      {
+        "index": 1,
+        "src": "https://wooamimall.com/_wg/img/logo_on.png",
+        "alt": "{$mall_name}",
+        "className": "on -mov",
+        "parent": "A",
+        "width": 120,
+        "height": 60
+      },
+      {
+        "index": 2,
+        "src": "https://wooamimall.com/_wg/img/logo_mobile.png",
+        "alt": "{$mall_name}",
+        "className": "mobile",
+        "parent": "A",
+        "width": 400,
+        "height": 200
+      },
+      {
+        "index": 3,
+        "src": "https://wooamimall.com/_wg/_cPack/cp503/img/04.png",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "index": 4,
+        "src": "https://wooamimall.com/_wg/_cPack/cp503/img/05.png",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "index": 5,
+        "src": "https://wooamimall.com/_wg/_cPack/cp503/img/04.png",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "index": 6,
+        "src": "https://wooamimall.com/_wg/_cPack/cp503/img/05.png",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "index": 7,
+        "src": "https://wooamimall.com/_wg/_cPack/cp503/img/04.png",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "index": 8,
+        "src": "https://wooamimall.com/_wg/_cPack/cp503/img/05.png",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 120,
+        "height": 120
+      },
+      {
+        "index": 9,
+        "src": "https://img.echosting.cafe24.com/skin/mobile_ko_KR/layout/btn_back.gif",
+        "alt": "뒤로가기",
+        "className": "",
+        "parent": "A",
+        "width": 25,
+        "height": 25
+      },
+      {
+        "index": 10,
+        "src": "https://img.echosting.cafe24.com/skin/admin_ko_KR/product/ico_likeit.png",
+        "alt": "좋아요 등록 전",
+        "className": "likePrdIcon",
+        "parent": "BUTTON",
+        "width": 14,
+        "height": 14
+      },
+      {
+        "index": 11,
+        "src": "https://wooamimall.com/web/product/extra/big/202410/d3da77e34f0da777a3bf32b7b02905da.jpg",
+        "alt": "",
+        "className": "BigImage",
+        "parent": "DIV",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 12,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/txt_product_zoom.gif",
+        "alt": "마우스를 올려보세요.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 170,
+        "height": 27
+      },
+      {
+        "index": 13,
+        "src": "https://wooamimall.com/web/product/big/202410/5e2f06fdcaed62df926d4cf218c54a41.jpg",
+        "alt": "",
+        "className": "BigImage",
+        "parent": "DIV",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 14,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/txt_product_zoom.gif",
+        "alt": "마우스를 올려보세요.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 170,
+        "height": 27
+      },
+      {
+        "index": 15,
+        "src": "https://wooamimall.com/web/product/extra/big/202410/ecd5e35d8148ea3c8807cc8b1ff599c0.jpg",
+        "alt": "",
+        "className": "BigImage",
+        "parent": "DIV",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 16,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/txt_product_zoom.gif",
+        "alt": "마우스를 올려보세요.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 170,
+        "height": 27
+      },
+      {
+        "index": 17,
+        "src": "https://wooamimall.com/web/product/extra/big/202410/565d1233ae0c14e043fc1694719dc86a.jpg",
+        "alt": "",
+        "className": "BigImage",
+        "parent": "DIV",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 18,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/txt_product_zoom.gif",
+        "alt": "마우스를 올려보세요.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 170,
+        "height": 27
+      },
+      {
+        "index": 19,
+        "src": "https://wooamimall.com/web/product/extra/big/202410/52246b60a2ba4096de2591aa4f34fca7.jpg",
+        "alt": "",
+        "className": "BigImage",
+        "parent": "DIV",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 20,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/txt_product_zoom.gif",
+        "alt": "마우스를 올려보세요.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 170,
+        "height": 27
+      },
+      {
+        "index": 21,
+        "src": "https://wooamimall.com/web/product/extra/big/202410/d3da77e34f0da777a3bf32b7b02905da.jpg",
+        "alt": "",
+        "className": "BigImage",
+        "parent": "DIV",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 22,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/txt_product_zoom.gif",
+        "alt": "마우스를 올려보세요.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 170,
+        "height": 27
+      },
+      {
+        "index": 23,
+        "src": "https://wooamimall.com/web/product/big/202410/5e2f06fdcaed62df926d4cf218c54a41.jpg",
+        "alt": "",
+        "className": "BigImage",
+        "parent": "DIV",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 24,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/txt_product_zoom.gif",
+        "alt": "마우스를 올려보세요.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 170,
+        "height": 27
+      },
+      {
+        "index": 25,
+        "src": "https://wooamimall.com/web/product/small/202410/88f6cf556fb080b7ecc4bc6a253164d6.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 92,
+        "height": 92
+      },
+      {
+        "index": 26,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/ecd5e35d8148ea3c8807cc8b1ff599c0.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 92,
+        "height": 92
+      },
+      {
+        "index": 27,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/565d1233ae0c14e043fc1694719dc86a.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 92,
+        "height": 92
+      },
+      {
+        "index": 28,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/52246b60a2ba4096de2591aa4f34fca7.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 92,
+        "height": 92
+      },
+      {
+        "index": 29,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/d3da77e34f0da777a3bf32b7b02905da.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 92,
+        "height": 92
+      },
+      {
+        "index": 30,
+        "src": "https://wooamimall.com/web/product/small/202410/88f6cf556fb080b7ecc4bc6a253164d6.jpg",
+        "alt": "",
+        "className": "ThumbImage",
+        "parent": "LI",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 31,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/ecd5e35d8148ea3c8807cc8b1ff599c0.jpg",
+        "alt": "",
+        "className": "ThumbImage",
+        "parent": "LI",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 32,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/565d1233ae0c14e043fc1694719dc86a.jpg",
+        "alt": "",
+        "className": "ThumbImage",
+        "parent": "LI",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 33,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/52246b60a2ba4096de2591aa4f34fca7.jpg",
+        "alt": "",
+        "className": "ThumbImage",
+        "parent": "LI",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 34,
+        "src": "https://wooamimall.com/web/product/extra/small/202410/d3da77e34f0da777a3bf32b7b02905da.jpg",
+        "alt": "",
+        "className": "ThumbImage",
+        "parent": "LI",
+        "width": 500,
+        "height": 500
+      },
+      {
+        "index": 35,
+        "src": "https://wooamimall.com/_wg/_cPack/cp513/img/06.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 500,
+        "height": 150
+      },
+      {
+        "index": 36,
+        "src": "https://wooamimall.com/_wg/_cPack/cp513/img/01.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 500,
+        "height": 150
+      },
+      {
+        "index": 37,
+        "src": "https://wooamimall.com/_wg/_cPack/cp513/img/05.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 500,
+        "height": 150
+      },
+      {
+        "index": 38,
+        "src": "https://wooamimall.com/_wg/_cPack/cp513/img/06.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 500,
+        "height": 150
+      },
+      {
+        "index": 39,
+        "src": "https://wooamimall.com/_wg/_cPack/cp513/img/01.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 500,
+        "height": 150
+      },
+      {
+        "index": 40,
+        "src": "https://wooamimall.com/_wg/_cPack/cp513/img/05.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 500,
+        "height": 150
+      },
+      {
+        "index": 41,
+        "src": "https://wooamimall.com/_wg/_cPack/cp513/img/06.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 500,
+        "height": 150
+      },
+      {
+        "index": 42,
+        "src": "https://img.echosting.cafe24.com/skin/base_ko_KR/product/txt_naver.gif",
+        "alt": "개인결제창을 통한 결제 시 네이버 마일리지 적립 및 사용이 가능합니다.",
+        "className": "",
+        "parent": "P",
+        "width": 339,
+        "height": 34
+      },
+      {
+        "index": 43,
+        "src": "https://wooamimall.com/_wg/img/_btn/ico_quantity_up.png",
+        "alt": "수량증가",
+        "className": "",
+        "parent": "A",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "index": 44,
+        "src": "https://wooamimall.com/_wg/img/_btn/ico_quantity_down.png",
+        "alt": "수량감소",
+        "className": "",
+        "parent": "A",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "index": 45,
+        "src": "https://img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_point.gif",
+        "alt": "",
+        "className": "",
+        "parent": "SPAN",
+        "width": 11,
+        "height": 11
+      },
+      {
+        "index": 46,
+        "src": "https://wooamimall.com/_wg/img/_ico/sns_kakao.jpg",
+        "alt": "카카오톡 상품공유",
+        "className": "",
+        "parent": "A",
+        "width": 128,
+        "height": 128
+      },
+      {
+        "index": 47,
+        "src": "https://wooamimall.com/_wg/img/img_info1.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "DIV",
+        "width": 1260,
+        "height": 1
+      },
+      {
+        "index": 48,
+        "src": "https://gi.esmplus.com/glory8804/2021/top860.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "DIV",
+        "width": 1000,
+        "height": 1108
+      },
+      {
+        "index": 49,
+        "src": "https://gi.esmplus.com/glory8804/2021/w_top.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 860,
+        "height": 1
+      },
+      {
+        "index": 50,
+        "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/1title.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 2000
+      },
+      {
+        "index": 51,
+        "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/2spec.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 2300
+      },
+      {
+        "index": 52,
+        "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/color.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 3655
+      },
+      {
+        "index": 53,
+        "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/3photo.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 4898
+      },
+      {
+        "index": 54,
+        "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/4detail.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 1250
+      },
+      {
+        "index": 55,
+        "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/5bottom.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 600
+      },
+      {
+        "index": 56,
+        "src": "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 5715
+      },
+      {
+        "index": 57,
+        "src": "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 650
+      },
+      {
+        "index": 58,
+        "src": "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 1201
+      },
+      {
+        "index": 59,
+        "src": "https://gi.esmplus.com/glory8804/2021/tv/living.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 1322
+      },
+      {
+        "index": 60,
+        "src": "https://gi.esmplus.com/glory8804/2021/delivery.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "CENTER",
+        "width": 1000,
+        "height": 6860
+      },
+      {
+        "index": 61,
+        "src": "https://wooamimall.com/_wg/_cPack/cp005/img/05.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 300,
+        "height": 150
+      },
+      {
+        "index": 62,
+        "src": "https://wooamimall.com/_wg/_cPack/cp005/img/07.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 300,
+        "height": 150
+      },
+      {
+        "index": 63,
+        "src": "https://wooamimall.com/_wg/_cPack/cp005/img/08.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 300,
+        "height": 150
+      },
+      {
+        "index": 64,
+        "src": "https://wooamimall.com/_wg/_cPack/cp005/img/06.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "A",
+        "width": 300,
+        "height": 150
+      },
+      {
+        "index": 65,
+        "src": "https://wooamimall.com/_wg/img/_ico/footer_ico_12.png",
+        "alt": "공정거래위원회",
+        "className": "",
+        "parent": "A",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "index": 66,
+        "src": "https://wooamimall.com/_wg/img/_ico/footer_ico_13.png",
+        "alt": "현금영수증",
+        "className": "",
+        "parent": "A",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "index": 67,
+        "src": "https://wooamimall.com/_wg/img/_ico/footer_ico_17.png",
+        "alt": "KCP",
+        "className": "",
+        "parent": "A",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "index": 68,
+        "src": "https://wooamimall.com/_wg/img/_ico/footer_ico_22.png",
+        "alt": "기업은행",
+        "className": "",
+        "parent": "A",
+        "width": 60,
+        "height": 60
+      },
+      {
+        "index": 69,
+        "src": "https://wooamimall.com/web/upload/category/editor/2024/06/03/83388ee3928afd708872a8889ce6fcc9.jpg",
+        "alt": "",
+        "className": "",
+        "parent": "UL",
+        "width": 469,
+        "height": 140
+      },
+      {
+        "index": 70,
+        "src": "https://img.echosting.cafe24.com/skin/base_ko_KR/layout/txt_progress.gif",
+        "alt": "현재 결제가 진행중입니다.",
+        "className": "",
+        "parent": "SPAN",
+        "width": 183,
+        "height": 17
+      },
+      {
+        "index": 71,
+        "src": "https://img.echosting.cafe24.com/skin/base/layout/img_loading.gif",
+        "alt": "",
+        "className": "",
+        "parent": "SPAN",
+        "width": 391,
+        "height": 10
+      },
+      {
+        "index": 72,
+        "src": "https://wooamimall.com/web/product/tiny/202410/3f0b4fb4deab734aa94f813d14745226.jpg",
+        "alt": "",
+        "className": "-mov",
+        "parent": "A",
+        "width": 80,
+        "height": 80
+      },
+      {
+        "index": 73,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/016.jpg",
+        "alt": "유니오조명침대",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 270
+      },
+      {
+        "index": 74,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/017.jpg",
+        "alt": "라비아5인코너소파",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 270
+      },
+      {
+        "index": 75,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/015.jpg",
+        "alt": "마레6인식탁",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 270
+      },
+      {
+        "index": 76,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/016.jpg",
+        "alt": "유니오조명침대",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 270
+      },
+      {
+        "index": 77,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/017.jpg",
+        "alt": "라비아5인코너소파",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 270
+      },
+      {
+        "index": 78,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/015.jpg",
+        "alt": "마레6인식탁",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 270
+      },
+      {
+        "index": 79,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/016.jpg",
+        "alt": "유니오조명침대",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 270
+      },
+      {
+        "index": 80,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/13.jpg",
+        "alt": "신혼소파",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 60
+      },
+      {
+        "index": 81,
+        "src": "https://wooamimall.com/_wg/_cPack/cp793/img/18.jpg",
+        "alt": "코너소파",
+        "className": "mCS_img_loaded",
+        "parent": "A",
+        "width": 230,
+        "height": 60
+      }
+    ],
+    "imagesBySection": {
+      "detailArea": []
+    },
+    "htmlStructure": [
+      {
+        "depth": 0,
+        "selector": "body.pc.bbo-on",
+        "hasImages": true,
+        "imageCount": 82
+      },
+      {
+        "depth": 1,
+        "selector": "div#wrap",
+        "hasImages": true,
+        "imageCount": 73
+      },
+      {
+        "depth": 2,
+        "selector": "div#skipNavigation",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 3,
+        "selector": "p",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "a",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 3,
+        "selector": "p",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "a",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 2,
+        "selector": "div#header",
+        "hasImages": true,
+        "imageCount": 9
+      },
+      {
+        "depth": 3,
+        "selector": "div.part_01",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "div.inner",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div.sns_icon",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "ul.JS_topMenu.menuOver",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 3,
+        "selector": "div.part_02.fixed",
+        "hasImages": true,
+        "imageCount": 9
+      },
+      {
+        "depth": 4,
+        "selector": "div.p0201",
+        "hasImages": true,
+        "imageCount": 9
+      },
+      {
+        "depth": 5,
+        "selector": "div.inner",
+        "hasImages": true,
+        "imageCount": 9
+      },
+      {
+        "depth": 4,
+        "selector": "div.p0202",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div.inner",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "div.p0203",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div.inner",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 3,
+        "selector": "div",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 2,
+        "selector": "div.divClear",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 2,
+        "selector": "div#container",
+        "hasImages": true,
+        "imageCount": 52
+      },
+      {
+        "depth": 3,
+        "selector": "div#left",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "div.topBg",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "div.oper_time._part",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div.title",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "ul.xans-element-.xans-layout.xans-layout-footer.left.",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "ul.xans-element-.xans-layout.xans-layout-footer.right.",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "ul.leftMenu",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "li",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "li",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "li",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "li",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "li",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 3,
+        "selector": "div#contents",
+        "hasImages": true,
+        "imageCount": 52
+      },
+      {
+        "depth": 4,
+        "selector": "div#titleArea",
+        "hasImages": true,
+        "imageCount": 1
+      },
+      {
+        "depth": 5,
+        "selector": "h2",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "span.xans-element-.xans-layout.xans-layout-mobileaction.",
+        "hasImages": true,
+        "imageCount": 1
+      },
+      {
+        "depth": 4,
+        "selector": "div.xans-element-.xans-product.xans-product-detail",
+        "hasImages": true,
+        "imageCount": 37
+      },
+      {
+        "depth": 5,
+        "selector": "script",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div.detailArea.",
+        "hasImages": true,
+        "imageCount": 37
+      },
+      {
+        "depth": 5,
+        "selector": "div.supplyInfo.displaynone",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div.eventArea.typeA.displaynone.",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div.loadhtml",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "div.xans-element-.xans-product.xans-product-additional.",
+        "hasImages": true,
+        "imageCount": 14
+      },
+      {
+        "depth": 5,
+        "selector": "div#tab01",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div#prdDetail",
+        "hasImages": true,
+        "imageCount": 14
+      },
+      {
+        "depth": 5,
+        "selector": "div.divClear",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "div#tab03",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 5,
+        "selector": "a",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 4,
+        "selector": "div.bg-buy-wrapper",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 2,
+        "selector": "hr.layout",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 1,
+        "selector": "div#multi_option",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 1,
+        "selector": "form#frm_image_zoom",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 1,
+        "selector": "form#frm_image_zoom",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 1,
+        "selector": "span",
+        "hasImages": false,
+        "imageCount": 0
+      },
+      {
+        "depth": 2,
+        "selector": "link",
+        "hasImages": false,
+        "imageCount": 0
+      }
+    ]
+  },
+  "detailImages": [
+    {
+      "index": 48,
+      "src": "https://gi.esmplus.com/glory8804/2021/top860.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "DIV",
+      "width": 1000,
+      "height": 1108
+    },
+    {
+      "index": 50,
+      "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/1title.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 2000
+    },
+    {
+      "index": 51,
+      "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/2spec.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 2300
+    },
+    {
+      "index": 52,
+      "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/color.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 3655
+    },
+    {
+      "index": 53,
+      "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/3photo.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 4898
+    },
+    {
+      "index": 54,
+      "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/4detail.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 1250
+    },
+    {
+      "index": 55,
+      "src": "https://gi.esmplus.com/glory3646/wooami/livingroom/GMB/GMB207-001/5bottom.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 600
+    },
+    {
+      "index": 56,
+      "src": "https://gi.esmplus.com/glory8804/2021/shop_01.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 5715
+    },
+    {
+      "index": 57,
+      "src": "https://gi.esmplus.com/glory8804/2021/shop_view.gif",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 650
+    },
+    {
+      "index": 58,
+      "src": "https://gi.esmplus.com/glory8804/2021/shop_02.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 1201
+    },
+    {
+      "index": 59,
+      "src": "https://gi.esmplus.com/glory8804/2021/tv/living.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 1322
+    },
+    {
+      "index": 60,
+      "src": "https://gi.esmplus.com/glory8804/2021/delivery.jpg",
+      "alt": "",
+      "className": "",
+      "parent": "CENTER",
+      "width": 1000,
+      "height": 6860
+    }
+  ],
+  "timestamp": "2025-10-17T13:49:16.443Z"
+}

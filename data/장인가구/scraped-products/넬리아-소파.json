@@ -1,0 +1,50 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=604",
+  "productName": "넬리아 소파",
+  "price": 2114000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500414_2977.png\"><br style=\"clear:both;\"><br style=\"clear:both;\"><br style=\"clear:both;\"><br style=\"clear:both;\"><br style=\"clear:both;\"><br></div><br><p>&nbsp;</p><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500414_2977.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:58:53.241Z"
+}

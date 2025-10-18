@@ -1,0 +1,79 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=506",
+  "productName": "노블크레마 소파",
+  "price": 1668000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1663285041cg89fxkcau.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p align=\"center\" style=\"text-align: center;\"><img src=\"/data/editor/2209/62530b9a8f4a1cb7cc89d762d3e50ea6_1663291698_6918.jpg\"></p><p align=\"center\" style=\"text-align: center;\"><img src=\"/data/editor/2504/fbac8ea4c5e468776163dd16dd51f320_1743659300_5971.png\"><br style=\"clear:both;\">&nbsp;</p><p align=\"center\" style=\"text-align: center;\"><iframe width=\"1240\" height=\"745\" src=\"https://www.youtube.com/embed/xGmKRR7t-Wk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></p><p align=\"center\" style=\"text-align: center;\"><br style=\"clear:both;\">&nbsp;</p><p style=\"text-align: center;\" align=\"center\">&nbsp;</p>\n<div style=\"text-align: center;\" align=\"center\">&nbsp;<iframe width=\"1240\" height=\"745\" src=\"https://www.youtube.com/embed/-CRKXSa04zk\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"\"></iframe></div><p style=\"text-align: center;\" align=\"center\">&nbsp;</p>\n<div style=\"text-align: center;\" align=\"center\"><br></div><div style=\"text-align: center;\" align=\"center\"><br></div><div style=\"text-align: center;\" align=\"center\"><br></div><p style=\"text-align: center;\" align=\"center\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2209/62530b9a8f4a1cb7cc89d762d3e50ea6_1663291698_6918.jpg",
+    "https://www.jangin.com/data/editor/2504/fbac8ea4c5e468776163dd16dd51f320_1743659300_5971.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:04:05.184Z"
+}

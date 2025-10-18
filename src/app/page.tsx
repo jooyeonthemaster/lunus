@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import { useRouter } from "next/navigation";
 import Image from "next/image";
 import { products, getRandomProduct, findSimilarProducts, categories } from "@/data/products";
 import type { Product } from "@/data/products";
@@ -15,6 +16,7 @@ import UnifiedProductDetail from "@/components/UnifiedProductDetail";
 import BottomNavigation from "@/components/BottomNavigation";
 
 export default function Home() {
+  const router = useRouter();
   const [currentProduct, setCurrentProduct] = useState<Product | null>(null);
   const [selectedCategory, setSelectedCategory] = useState("전체");
   const [currentView, setCurrentView] = useState<"main" | "similar" | "photo-search" | "map" | "all-products" | "crawled" | "product-detail">("main");
@@ -242,11 +244,54 @@ export default function Home() {
           <h1 className="text-3xl lg:text-5xl font-normal tracking-[0.15em] mb-2 lg:mb-4">LUNUS</h1>
           <p className="text-gray-600 text-sm lg:text-lg">취향에 딱 맞는 제품을 찾아드려요</p>
           
-          {/* 브랜드별 상세페이지 테스트 */}
-          <div className="mt-6 bg-gray-50 rounded-2xl p-6 max-w-2xl mx-auto border-2 border-gray-200">
+          {/* 브랜드별 제품 목록 바로가기 
+          <div className="mt-6 bg-gradient-to-br from-blue-50 to-indigo-50 rounded-2xl p-6 max-w-2xl mx-auto border-2 border-blue-200">
+            <h3 className="text-lg font-bold mb-4 text-gray-800">🏪 브랜드 제품 목록</h3>
+            
+            <div className="grid grid-cols-2 gap-3 mb-4">
+              <button
+                onClick={() => router.push('/flatpoint-products')}
+                className="px-6 py-4 bg-white hover:bg-gray-50 rounded-xl border-2 border-gray-200 hover:border-gray-400 transition-all shadow-sm hover:shadow-md"
+              >
+                <div className="text-lg font-bold mb-1">플랫포인트</div>
+                <div className="text-sm text-gray-600">미니멀리즘의 완성</div>
+                <div className="text-xs text-gray-500 mt-2">270+ 제품</div>
+              </button>
+              
+              <button
+                onClick={() => router.push('/jangin-products')}
+                className="px-6 py-4 bg-white hover:bg-gray-50 rounded-xl border-2 border-gray-200 hover:border-gray-400 transition-all shadow-sm hover:shadow-md"
+              >
+                <div className="text-lg font-bold mb-1">장인가구</div>
+                <div className="text-sm text-gray-600">장인정신 수제 가구</div>
+                <div className="text-xs text-gray-500 mt-2">174+ 제품</div>
+              </button>
+
+              <button
+                onClick={() => router.push('/wooami-products')}
+                className="px-6 py-4 bg-white hover:bg-gray-50 rounded-xl border-2 border-gray-200 hover:border-gray-400 transition-all shadow-sm hover:shadow-md"
+              >
+                <div className="text-lg font-bold mb-1">우아미</div>
+                <div className="text-sm text-gray-600">우아한 미소, 편안한 휴식</div>
+                <div className="text-xs text-gray-500 mt-2">100+ 제품</div>
+              </button>
+
+              <button
+                onClick={() => router.push('/alloso-products')}
+                className="px-6 py-4 bg-white hover:bg-gray-50 rounded-xl border-2 border-blue-200 hover:border-blue-400 transition-all shadow-sm hover:shadow-md"
+              >
+                <div className="text-lg font-bold mb-1 text-blue-700">알로소 ✨</div>
+                <div className="text-sm text-gray-600">디자인 리클라이너의 새로운 기준</div>
+                <div className="text-xs text-blue-600 mt-2">45+ 제품 (신규!)</div>
+              </button>
+            </div>
+          </div>
+
+          {/* 브랜드별 상세페이지 테스트 
+          <div className="mt-4 bg-gray-50 rounded-2xl p-6 max-w-2xl mx-auto border-2 border-gray-200">
             <h3 className="text-lg font-bold mb-4 text-gray-800">🔍 상세페이지 테스트</h3>
             
-            {/* 브랜드 선택 */}
+            {/* 브랜드 선택 
             <div className="mb-4">
               <label className="block text-sm font-medium text-gray-700 mb-2">브랜드 선택</label>
               <select
@@ -262,7 +307,7 @@ export default function Home() {
               </select>
             </div>
             
-            {/* 1안, 2안, 3안, 4안 버튼 */}
+            {/* 1안, 2안, 3안, 4안 버튼 
             <div className="flex gap-2">
               {[0, 1, 2, 3].map((index) => {
                 const brandProducts = products.filter(p => 
@@ -303,6 +348,7 @@ export default function Home() {
               })}
             </div>
           </div>
+          */}
         </div>
 
         {/* Category Tabs */}

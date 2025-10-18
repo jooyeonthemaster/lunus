@@ -1,0 +1,30 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=471",
+  "productName": "아룬 스툴",
+  "price": 111000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_16493932924p04ruj9r6.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649392890_8672.png\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649392890_8672.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:10:33.484Z"
+}

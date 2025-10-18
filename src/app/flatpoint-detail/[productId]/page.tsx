@@ -3,6 +3,9 @@
 import { useEffect, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 
+// 플랫포인트 제품 리스트 데이터 import (이미지 URL, 가격 등을 가져오기 위함)
+import flatpointProductsList from "../../../../data/플랫포인트/products.json";
+
 export default function FlatpointDetailPage() {
   const params = useParams();
   const router = useRouter();
@@ -16,35 +19,91 @@ export default function FlatpointDetailPage() {
   useEffect(() => {
     async function loadProductData() {
       try {
-        const decodedId = decodeURIComponent(productId);
+        const decodedTitle = decodeURIComponent(productId);
 
-        // 스크래핑된 제품 데이터 로드
-        const data = await import(
-          `../../../../data/flatpoint/scraped-products/${decodedId}.json`
-        );
+        // 모든 플랫포인트 JSON 파일 로드
+        const categories = [
+          "flatpoint-DOB.json",
+          "flatpoint-가죽소파.json",
+          "flatpoint-사이드테이블.json",
+          "flatpoint-선반.json",
+          "flatpoint-조명&홈데코.json",
+          "flatpoint-체어.json",
+          "flatpoint-침대&매트리스.json",
+          "flatpoint-키즈.json",
+          "flatpoint-테이블.json",
+          "flatpoint-패브릭소파.json",
+        ];
 
-        let productData = data.default;
+        let foundProduct = null;
 
-        // mainImage가 없으면 원본 JSON에서 imageUrl 가져오기
-        if (!productData.mainImage || productData.mainImage === '') {
+        for (const category of categories) {
           try {
-            const allUrls = await import("../../../../flatpoint-all-urls.json");
-            const matchingProduct = allUrls.default.find(
-              (p: any) => p.title === productData.productCode ||
-                         p.title === productData.productName
-            );
-            if (matchingProduct && matchingProduct.imageUrl) {
-              productData.mainImage = matchingProduct.imageUrl;
+            const data = await import(`../../../../data/플랫포인트/${category}`);
+            const products = data.default;
+
+            // title로 제품 찾기
+            foundProduct = products.find((p: any) => p.title === decodedTitle);
+
+            if (foundProduct) {
+              break;
             }
           } catch (e) {
-            console.log("imageUrl 매칭 실패:", e);
+            console.log(`${category} 로드 실패:`, e);
           }
         }
 
-        setProductData(productData);
+        if (!foundProduct) {
+          setError("제품을 찾을 수 없습니다.");
+          setLoading(false);
+          return;
+        }
+
+        // 리스트 데이터에서 누락된 정보 보완 (mainImage, price, category 등)
+        try {
+          // 리스트 JSON에서 해당 제품 찾기
+          const matchingProduct = flatpointProductsList.find(
+            (p: any) => p.title === foundProduct.productName || p.title === foundProduct.title || p.title === foundProduct.productCode
+          );
+          
+          if (matchingProduct) {
+            console.log(`🔍 매칭된 제품 찾음:`, matchingProduct);
+            
+            // mainImage가 없으면 리스트의 imageUrl 사용
+            if (!foundProduct.mainImage || foundProduct.mainImage === "") {
+              foundProduct.mainImage = matchingProduct.imageUrl;
+              console.log(`✅ mainImage 설정: ${matchingProduct.imageUrl}`);
+            }
+            
+            // price가 "0원"이거나 비어있으면 리스트의 price 사용
+            if (!foundProduct.price || foundProduct.price === "0원" || foundProduct.price === "0" || foundProduct.price === 0) {
+              foundProduct.price = matchingProduct.price;
+              console.log(`✅ price 설정: ${matchingProduct.price}`);
+            }
+            
+            // title이 없으면 리스트의 title 사용
+            if (!foundProduct.title) {
+              foundProduct.title = matchingProduct.title;
+            }
+            
+            // category 보완 (리스트 페이지에서 추가된 것)
+            if ((matchingProduct as any).category) {
+              foundProduct.displayCategory = (matchingProduct as any).category;
+            }
+            
+            console.log(`✅ 리스트 데이터 병합 완료:`, foundProduct);
+          } else {
+            console.warn(`⚠️ products.json에서 매칭 제품을 찾지 못함: ${foundProduct.productName || foundProduct.title}`);
+            console.log(`⚠️ 전체 제품 리스트 개수: ${flatpointProductsList.length}`);
+          }
+        } catch (e) {
+          console.error("products.json 병합 실패:", e);
+        }
+
+        setProductData(foundProduct);
 
         // HTML 내용 가져오기 + 이미지 경로 변환
-        let html = data.default.detailHTML || "";
+        let html = foundProduct.detailHTML || "";
 
         // 1. ec-data-src를 src로 변환 (lazy loading 속성 처리)
         html = html.replace(/ec-data-src="\/shop\//g, 'src="https://flatpoint.co.kr/shop/');
@@ -138,7 +197,7 @@ export default function FlatpointDetailPage() {
             {productData.mainImage ? (
               <img
                 src={productData.mainImage}
-                alt={productData.productName}
+                alt={productData.title || productData.productName || productData.productCode}
                 className="w-full h-full object-cover"
               />
             ) : (
@@ -146,7 +205,7 @@ export default function FlatpointDetailPage() {
                 <div className="text-center">
                   <div className="text-8xl mb-4">🪑</div>
                   <div className="text-xl font-medium text-gray-700">
-                    {productData.category}
+                    {productData.displayCategory || productData.category || '플랫포인트'}
                   </div>
                 </div>
               </div>
@@ -159,12 +218,20 @@ export default function FlatpointDetailPage() {
               <div className="inline-block px-4 py-2 bg-black text-white rounded-full text-sm font-medium">
                 플랫포인트
               </div>
-              <div className="inline-block px-4 py-2 bg-blue-100 text-blue-900 rounded-full text-sm font-medium">
-                {productData.category}
-              </div>
+              {(productData.displayCategory || productData.category) && (
+                <div className="inline-block px-4 py-2 bg-blue-100 text-blue-900 rounded-full text-sm font-medium">
+                  {productData.displayCategory || productData.category}
+                </div>
+              )}
             </div>
-            <h2 className="text-3xl font-bold mb-3">{productData.productName}</h2>
-            <p className="text-2xl font-bold text-gray-900 mb-6">{productData.price}</p>
+            <h2 className="text-3xl font-bold mb-3">
+              {productData.title || productData.productName || productData.productCode}
+            </h2>
+            <p className="text-2xl font-bold text-gray-900 mb-6">
+              {typeof productData.price === 'number' 
+                ? `${productData.price.toLocaleString()}원` 
+                : productData.price || '가격 문의'}
+            </p>
             <a
               href={productData.productUrl}
               target="_blank"
@@ -560,3 +627,4 @@ export default function FlatpointDetailPage() {
     </div>
   );
 }
+

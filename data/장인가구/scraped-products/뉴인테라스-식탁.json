@@ -1,0 +1,68 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=3&idx=582",
+  "productName": "뉴인테라스 식탁",
+  "price": 1388000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_17247148704pcbqy9yky.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><br></div><div style=\"text-align: center;\" align=\"center\"><br></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/8772c16def664d56c315633d5eb30de6_1752457340_6188.png\"></div><div style=\"text-align: center;\" align=\"center\"><br></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2408/bba415addb6e7f0894bd827638bf5f60_1724714843_1254.png\"></div><p>&nbsp;</p><p style=\"text-align: center;\" align=\"center\"><img src=\"https://jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715128405_2167.png\"></p><p style=\"text-align: center;\" align=\"center\">&nbsp;&nbsp;</p><p style=\"text-align: center;\" align=\"center\">&nbsp;</p>\n\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"text-align: center; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2507/8772c16def664d56c315633d5eb30de6_1752457340_6188.png",
+    "https://www.jangin.com/data/editor/2408/bba415addb6e7f0894bd827638bf5f60_1724714843_1254.png",
+    "https://jangin.com/data/editor/2405/3eaa4745d3114aa5a7ce43c905a8f3e9_1715128405_2167.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "text-align: center; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:14:07.866Z"
+}

@@ -1,0 +1,44 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=616",
+  "productName": "르블랙 거실장",
+  "price": 451000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1742436508ssr9c1celk.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2506/c25cf8b39d25cc40881136be35d7b449_1750133576_4519.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/c25cf8b39d25cc40881136be35d7b449_1750133576_5509.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/c25cf8b39d25cc40881136be35d7b449_1750133576_6901.jpg\"><br style=\"clear:both;\"><br></div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2506/c25cf8b39d25cc40881136be35d7b449_1750133576_4519.jpg",
+    "https://www.jangin.com/data/editor/2506/c25cf8b39d25cc40881136be35d7b449_1750133576_5509.jpg",
+    "https://www.jangin.com/data/editor/2506/c25cf8b39d25cc40881136be35d7b449_1750133576_6901.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:06:43.555Z"
+}

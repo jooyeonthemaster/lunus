@@ -1,0 +1,34 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=628",
+  "productName": "휴빅 5단 서랍장",
+  "price": 447000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1749443664jgzztz1948.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\"><img src=\"/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749443348_9684.jpg\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749443348_9684.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:09:16.143Z"
+}

@@ -1,0 +1,58 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=618",
+  "productName": "뷰포트 호텔형침대",
+  "price": 1379000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_174245368442r26evr7t.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\"><img src=\"/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271811_0465.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271817_1891.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271822_3488.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271827_0963.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271831_657.jpg\"><br style=\"clear:both;\">&nbsp;</p><p style=\"text-align: center; \" align=\"center\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271811_0465.jpg",
+    "https://www.jangin.com/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271817_1891.gif",
+    "https://www.jangin.com/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271822_3488.jpg",
+    "https://www.jangin.com/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271827_0963.gif",
+    "https://www.jangin.com/data/editor/2506/717fc4cb3f0ddeb15c68d577973e96f7_1749271831_657.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:22:13.497Z"
+}

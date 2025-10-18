@@ -1,0 +1,44 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=623",
+  "productName": "베네토침대",
+  "price": 1048000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1746670044uvs1bv45ud.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\"><img src=\"/data/editor/2505/5d861d71f4dcb15a2d717bca67a83038_1748228316_4348.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/b7441ee85dc61a84c18e1b18a404967a_1746669106_2738.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758515017_8676.jpg\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2505/5d861d71f4dcb15a2d717bca67a83038_1748228316_4348.jpg",
+    "https://www.jangin.com/data/editor/2505/b7441ee85dc61a84c18e1b18a404967a_1746669106_2738.gif",
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758515017_8676.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:21:58.710Z"
+}

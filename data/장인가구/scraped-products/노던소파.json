@@ -1,0 +1,60 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=622",
+  "productName": "노던소파",
+  "price": 1290000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2508/038b08e36d5ea9da9d50de825d47ee05_1754547399_1444.jpg\"><br style=\"clear:both;\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/f968a529f0369073569fe0f7440821c3_1747271388_9297.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/f968a529f0369073569fe0f7440821c3_1747277121_0676.jpg\"><br style=\"clear:both;\"><br style=\"clear:both;\"><br style=\"clear:both;\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2508/038b08e36d5ea9da9d50de825d47ee05_1754547399_1444.jpg",
+    "https://www.jangin.com/data/editor/2505/f968a529f0369073569fe0f7440821c3_1747271388_9297.gif",
+    "https://www.jangin.com/data/editor/2505/f968a529f0369073569fe0f7440821c3_1747277121_0676.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:58:23.618Z"
+}

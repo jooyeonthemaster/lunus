@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=627",
+  "productName": "스노우그린 매트리스",
+  "price": 1588000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_174822008107pnidwriu.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2505/5d861d71f4dcb15a2d717bca67a83038_1748220065_3609.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2505/5d861d71f4dcb15a2d717bca67a83038_1748220072_434.jpg\"></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2505/5d861d71f4dcb15a2d717bca67a83038_1748220065_3609.jpg",
+    "https://www.jangin.com/data/editor/2505/5d861d71f4dcb15a2d717bca67a83038_1748220072_434.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:28:27.955Z"
+}

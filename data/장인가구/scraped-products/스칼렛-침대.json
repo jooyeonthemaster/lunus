@@ -1,0 +1,44 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=423",
+  "productName": "스칼렛 침대",
+  "price": 1386000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_16135497910y7ta32ug3.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2102/a7ffefc8069967bd4ea1993810a99626_1613549541_5217.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2102/7350487b04d757739f10d8a965b7d735_1613708653_8573.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2102/a7ffefc8069967bd4ea1993810a99626_1613549545_5304.jpg\">&nbsp;</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2102/a7ffefc8069967bd4ea1993810a99626_1613549541_5217.jpg",
+    "https://www.jangin.com/data/editor/2102/7350487b04d757739f10d8a965b7d735_1613708653_8573.gif",
+    "https://www.jangin.com/data/editor/2102/a7ffefc8069967bd4ea1993810a99626_1613549545_5304.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:26:40.744Z"
+}

@@ -1,0 +1,71 @@
+{
+  "productTitle": "",
+  "productPrice": "",
+  "mainImageSelector": "",
+  "detailImagesSample": [],
+  "detailContainerInfo": {
+    "[class*=\"detail\"] img": {
+      "count": 32,
+      "sample": [
+        {
+          "src": "https://www.inartshop.com/data/goods/1/2025/08/6117_temp_17548762100681view.jpg",
+          "alt": "자연을 닮은 가구 인아트 시에나 거실 세트 인아트",
+          "className": "",
+          "width": 598,
+          "height": 598
+        },
+        {
+          "src": "https://www.inartshop.com/data/goods/1/2025/08/6117_2025080715460585.jpg",
+          "alt": "자연을 닮은 가구 인아트 시에나 거실 세트 인아트",
+          "className": "",
+          "width": 600,
+          "height": 600
+        },
+        {
+          "src": "https://www.inartshop.com/data/goods/1/2025/08/6117_temp_17548763023798view.jpg",
+          "alt": "자연을 닮은 가구 인아트 시에나 거실 세트 인아트",
+          "className": "",
+          "width": 600,
+          "height": 600
+        }
+      ]
+    },
+    ".txc-image": {
+      "count": 3,
+      "sample": [
+        {
+          "src": "https://www.inartshop.com/data/editor/goods/1/2021/12/5621_904079d18ef8718f8eac7fb9aa6a3b951553121.jpg",
+          "alt": "",
+          "className": "txc-image",
+          "width": 1000,
+          "height": 10896
+        },
+        {
+          "src": "https://www.inartshop.com/data/editor/goods/1/2021/12/5621_5c141dee667c32dc7fddca11a9ebc8cc1553291.jpg",
+          "alt": "",
+          "className": "txc-image",
+          "width": 1000,
+          "height": 9872
+        },
+        {
+          "src": "https://inartshop.com/data/editor/goods/1/2023/08/5950_ec55b281075092550c77448449e822651734071.jpg",
+          "alt": "",
+          "className": "txc-image",
+          "width": 860,
+          "height": 13601
+        }
+      ]
+    }
+  },
+  "allImageCount": 62,
+  "textContent": [],
+  "divStructure": [
+    {
+      "selector": "[class*=\"detail\"]",
+      "className": "view_detail",
+      "id": "",
+      "childrenCount": 9,
+      "innerHTML": "\n<div style=\"text-align:center;\">\n<!-- 현재 상품의 카테고리 라인맵( 스킨단에서 html 수정 불가. CSS로만 수정하세요. ) -->\n\t<div class=\"ajaxLineMap search_nav\">\n\t\t<a class=\"home\" href=\"/main\">홈</a>\n\t\t\t\t<div class=\"navi_linemap2\" catecode=\"0036\">\n\t\t\t<span class=\"selected_cate\">세일상품</span>\n\t\t\t<ul class=\"navi_linemap_sub\" style=\"display:none;\"></ul>\n\t\t</div>\n\t\t\t\t<div class=\"navi_linemap2\" catecode=\"00360003\">\n\t\t\t<span class=\"selected_cate\">소파</span>\n\t\t\t<ul class=\"navi_linemap_sub\" style=\"display:none;\"></ul>\n\t\t</div>\n\t\t\t</div>\n"
+    }
+  ]
+}

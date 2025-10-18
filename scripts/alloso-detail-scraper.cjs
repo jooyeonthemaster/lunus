@@ -1,12 +1,9 @@
 /*
-  Alloso Detail Page Scraper
-  - Reads all alloso-*.json files from data/알로소/
-  - For each product, visits the detail page and extracts:
-    1. First detail image from cdn.alloso.co.kr/AllosoUpload/contents
-    2. First text section (div with text-align: center and font-size: 16px)
-    3. Second detail image
-    4. Second text section (from div.col_item)
-  - Outputs: Updates each category file with detail data
+  Alloso Detail Page Scraper - Final Version
+  - 알로소 제품 상세페이지 크롤링
+  - 기존에 있는 detailImage1, detailImage2, detailText1, detailText2 유지
+  - 추가로 모든 상세 이미지 배열 수집 (detailImages)
+  - SAME COLLECTION 수집 (sameCollection)
 */
 
 const fs = require('fs');
@@ -28,104 +25,91 @@ async function scrapeProductDetail(page, productUrl, productTitle) {
   console.log(`  → Scraping: ${productTitle}`);
 
   try {
-    await page.goto(productUrl, { waitUntil: 'domcontentloaded', timeout: 30000 });
-    await page.waitForTimeout(1000 + Math.random() * 1000);
+    await page.goto(productUrl, { waitUntil: 'domcontentloaded', timeout: 40000 });
+    await page.waitForTimeout(1500);
 
-    // 1. Get first detail image from cdn.alloso.co.kr/AllosoUpload/contents (excluding .detail_specify)
-    const detailImage1 = await page.$$eval(
-      'img',
-      (imgs) => {
-        for (let img of imgs) {
-          // Skip if inside .detail_specify
-          let parent = img.closest('.detail_specify');
-          if (parent) continue;
+    // Scroll to load all lazy-loaded images
+    await page.evaluate(async () => {
+      await new Promise((resolve) => {
+        let totalHeight = 0;
+        const distance = 500;
+        const timer = setInterval(() => {
+          const scrollHeight = document.body.scrollHeight;
+          window.scrollBy(0, distance);
+          totalHeight += distance;
 
-          let src = img.src || img.getAttribute('data-src');
-          if (src && src.includes('cdn.alloso.co.kr/AllosoUpload/contents')) {
-            return src;
+          if (totalHeight >= scrollHeight) {
+            clearInterval(timer);
+            resolve();
           }
+        }, 200);
+      });
+    });
+
+    await page.waitForTimeout(2000);
+
+    // Extract detail data
+    const detailData = await page.evaluate(() => {
+      const result = {
+        detailImages: [],
+        sameCollection: []
+      };
+
+      // 1. Find all detail images (from cdn.alloso.co.kr/AllosoUpload/contents/)
+      const allDetailDivs = document.querySelectorAll('[class*="detail"]');
+      const detailImageSet = new Set();
+      
+      allDetailDivs.forEach(div => {
+        // SPECIFICATION 섹션은 제외
+        if (div.classList.contains('detail_specify')) {
+          return;
         }
-        return '';
-      }
-    ).catch(() => '');
 
-    // 2. Get first text section (div with text-align: center and font-size: 16px, excluding .detail_specify)
-    const detailText1 = await page.$$eval(
-      'div[style*="text-align: center"] span[style*="font-size: 16px"]',
-      (spans) => {
-        for (let span of spans) {
-          // Skip if inside .detail_specify
-          let parent = span.closest('.detail_specify');
-          if (parent) continue;
-
-          let text = span.textContent.trim();
-          if (text) {
-            return text;
+        const imgs = div.querySelectorAll('img');
+        imgs.forEach(img => {
+          const src = img.src || img.getAttribute('data-src') || img.getAttribute('data-original');
+          if (src && src.includes('cdn.alloso.co.kr/AllosoUpload/contents/')) {
+            detailImageSet.add(src);
           }
+        });
+      });
+
+      result.detailImages = Array.from(detailImageSet);
+
+      // 2. Extract SAME COLLECTION items
+      const sameCollectionItems = document.querySelectorAll('.detail_same_list .goods_item');
+      sameCollectionItems.forEach(item => {
+        const link = item.querySelector('.link_goods');
+        const thumb = item.querySelector('.goods_thumb img');
+        const titleEl = item.querySelector('.tit');
+        const descEl = item.querySelector('.desc');
+        const priceEl = item.querySelector('.selling_price em');
+
+        if (link && titleEl) {
+          const href = link.getAttribute('href');
+          result.sameCollection.push({
+            title: titleEl.textContent.trim(),
+            desc: descEl ? descEl.textContent.trim() : '',
+            price: priceEl ? priceEl.textContent.trim() : '',
+            image: thumb ? thumb.src : '',
+            url: href ? 'https://www.alloso.co.kr' + href : ''
+          });
         }
-        return '';
-      }
-    ).catch(() => '');
+      });
 
-    // 3. Get second detail image (excluding .detail_specify)
-    const detailImage2 = await page.$$eval(
-      'img',
-      (imgs) => {
-        let count = 0;
-        for (let img of imgs) {
-          // Skip if inside .detail_specify
-          let parent = img.closest('.detail_specify');
-          if (parent) continue;
+      return result;
+    });
 
-          let src = img.src || img.getAttribute('data-src');
-          if (src && src.includes('cdn.alloso.co.kr/AllosoUpload/contents')) {
-            count++;
-            if (count === 2) {
-              return src;
-            }
-          }
-        }
-        return '';
-      }
-    ).catch(() => '');
-
-    // 4. Get second text section (excluding .detail_specify)
-    const detailText2 = await page.$$eval(
-      'div[style*="text-align: center"] span[style*="font-size: 16px"]',
-      (spans) => {
-        let count = 0;
-        for (let span of spans) {
-          // Skip if inside .detail_specify
-          let parent = span.closest('.detail_specify');
-          if (parent) continue;
-
-          let text = span.textContent.trim();
-          if (text) {
-            count++;
-            if (count === 2) {
-              return text;
-            }
-          }
-        }
-        return '';
-      }
-    ).catch(() => '');
-
-    console.log(`    ✓ Detail Image 1: ${detailImage1 ? 'Found' : 'Not found'}`);
-    console.log(`    ✓ Detail Text 1: ${detailText1 ? 'Found' : 'Not found'}`);
-    console.log(`    ✓ Detail Image 2: ${detailImage2 ? 'Found' : 'Not found'}`);
-    console.log(`    ✓ Detail Text 2: ${detailText2 ? 'Found' : 'Not found'}`);
+    console.log(`    ✓ Detail Images: ${detailData.detailImages.length}`);
+    console.log(`    ✓ Same Collection: ${detailData.sameCollection.length}`);
 
     return {
-      detailImage1,
-      detailText1,
-      detailImage2,
-      detailText2,
-      scrapedAt: new Date().toISOString()
+      ...detailData,
+      scrapedDetailAt: new Date().toISOString()
     };
 
   } catch (error) {
-    console.error(`    ✗ Failed to scrape: ${error.message}`);
+    console.error(`    ✗ Failed: ${error.message}`);
     return null;
   }
 }
@@ -142,17 +126,22 @@ async function processCategory(browser, categoryFile) {
   console.log(`\n📦 Processing: ${categoryFile} (${products.length} products)`);
 
   // Check how many already have detail data
-  const withDetails = products.filter(p => p.detailImage1 || p.detailText1).length;
+  const withDetails = products.filter(p => p.detailImages && p.detailImages.length > 0).length;
   console.log(`   Already scraped: ${withDetails}/${products.length}`);
 
-  const page = await browser.newPage();
-  await page.setViewportSize({ width: 1366, height: 768 });
+  const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+    locale: 'ko-KR',
+    viewport: { width: 1366, height: 768 }
+  });
 
   // Anti-detection
-  await page.addInitScript(() => {
+  await context.addInitScript(() => {
     Object.defineProperty(navigator, 'webdriver', { get: () => false });
     Object.defineProperty(navigator, 'languages', { get: () => ['ko-KR', 'ko', 'en-US'] });
   });
+
+  const page = await context.newPage();
 
   let scrapedCount = 0;
   let errorCount = 0;
@@ -161,7 +150,7 @@ async function processCategory(browser, categoryFile) {
     const product = products[i];
 
     // Skip if already has detail data
-    if (product.detailImage1 || product.detailText1) {
+    if (product.detailImages && product.detailImages.length > 10) {
       console.log(`  ⏭ Skipping (already scraped): ${product.title}`);
       continue;
     }
@@ -186,7 +175,7 @@ async function processCategory(browser, categoryFile) {
     }
 
     if (detailData) {
-      // Update product with detail data
+      // Update product with detail data (기존 detailImage1, detailImage2, detailText1, detailText2 유지)
       products[i] = { ...product, ...detailData };
       scrapedCount++;
       console.log(`    ✓ Success (${scrapedCount} total)`);
@@ -195,8 +184,8 @@ async function processCategory(browser, categoryFile) {
       console.log(`    ✗ Failed after ${MAX_RETRIES} retries`);
     }
 
-    // Auto-save every 10 products
-    if ((i + 1) % 10 === 0 || i === products.length - 1) {
+    // Auto-save every 5 products
+    if ((i + 1) % 5 === 0 || i === products.length - 1) {
       fs.writeFileSync(filePath, JSON.stringify(products, null, 2), 'utf8');
       console.log(`    💾 Saved progress: ${i + 1}/${products.length}`);
     }
@@ -206,6 +195,7 @@ async function processCategory(browser, categoryFile) {
   }
 
   await page.close();
+  await context.close();
 
   console.log(`✅ ${categoryFile} complete:`);
   console.log(`   Scraped: ${scrapedCount}, Errors: ${errorCount}, Total: ${products.length}`);
@@ -215,34 +205,49 @@ async function processCategory(browser, categoryFile) {
 
 (async () => {
   console.log('🚀 Starting Alloso Detail Scraper...\n');
-  console.log(`📂 Processing ${CATEGORY_FILES.length} categories\n`);
+
+  // Find all alloso JSON files
+  const files = fs.readdirSync(DATA_DIR).filter(f => f.startsWith('alloso-') && f.endsWith('.json') && f !== 'alloso-소파-scraped.json');
+
+  if (files.length === 0) {
+    console.log('❌ No alloso-*.json files found in data/알로소/');
+    process.exit(1);
+  }
+
+  console.log(`📂 Found ${files.length} categories:`);
+  files.forEach((f, i) => console.log(`   ${i + 1}. ${f}`));
 
   const browser = await chromium.launch({
-    headless: true,
+    headless: false,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
   let totalScraped = 0;
   let totalErrors = 0;
 
-  for (let i = 0; i < CATEGORY_FILES.length; i++) {
-    const categoryFile = CATEGORY_FILES[i];
-    console.log(`\n[${i + 1}/${CATEGORY_FILES.length}] 📁 ${categoryFile}`);
+  for (let i = 0; i < files.length; i++) {
+    const result = await processCategory(browser, files[i]);
+    if (result) {
+      totalScraped += result.scrapedCount;
+      totalErrors += result.errorCount;
+    }
 
-    const result = await processCategory(browser, categoryFile);
-    totalScraped += result.scrapedCount;
-    totalErrors += result.errorCount;
-
-    // Delay between categories
-    if (i < CATEGORY_FILES.length - 1) {
-      console.log(`\n⏳ Waiting ${DELAY_BETWEEN_CATEGORIES}ms before next category...`);
+    // Delay between categories (except last one)
+    if (i < files.length - 1) {
+      console.log(`\n⏳ Waiting ${DELAY_BETWEEN_CATEGORIES}ms before next category...\n`);
       await new Promise(resolve => setTimeout(resolve, DELAY_BETWEEN_CATEGORIES));
     }
   }
 
   await browser.close();
 
-  console.log('\n🎉 All categories complete!');
+  console.log('\n🎉 All categories processed!');
   console.log(`📊 Total scraped: ${totalScraped}`);
   console.log(`❌ Total errors: ${totalErrors}`);
+  console.log(`💾 Files updated in: ${DATA_DIR}`);
+
+  console.log('\n💡 Next Steps:');
+  console.log('  1. Run: node scripts/organize-alloso.cjs');
+  console.log('  2. Check: data/알로소/ for updated files');
+  console.log('  3. Create alloso-products page similar to other brands');
 })();

@@ -1,0 +1,40 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=485",
+  "productName": "하베르크 거실장",
+  "price": 660000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1652246597tudqh77piv.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652244576_2557.jpg\"></p><p><img src=\"/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652246754_4715.jpg\">&nbsp;</p><p><img src=\"/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652246715_5591.jpg\"><br style=\"clear:both;\">&nbsp;</p>\n\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652244576_2557.jpg",
+    "https://www.jangin.com/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652246754_4715.jpg",
+    "https://www.jangin.com/data/editor/2205/4ed1dd86c8a989552edf5389458aadc5_1652246715_5591.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:08:01.779Z"
+}

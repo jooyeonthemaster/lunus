@@ -1,0 +1,39 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=613",
+  "productName": "그래비티매트리스",
+  "price": 663000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1742345751bxdg9blnd5.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2503/f106028be608ccd47676ef85710daa3a_1742345695_273.jpg\"></div><br><p>&nbsp;</p><p style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2503/f106028be608ccd47676ef85710daa3a_1742345733_6554.jpg\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2503/f106028be608ccd47676ef85710daa3a_1742345695_273.jpg",
+    "https://www.jangin.com/data/editor/2503/f106028be608ccd47676ef85710daa3a_1742345733_6554.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:28:36.026Z"
+}

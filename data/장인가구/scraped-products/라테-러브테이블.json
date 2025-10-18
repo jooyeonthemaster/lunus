@@ -1,0 +1,30 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=473",
+  "productName": "라테 러브테이블",
+  "price": 534000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1649395350no2n3kv2tu.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649396356_4258.jpg\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2204/fbd7814a0ba0d06e48c960a927135d0b_1649396356_4258.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:10:15.324Z"
+}

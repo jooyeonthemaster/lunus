@@ -1,0 +1,39 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=609",
+  "productName": "몰리에 거실장",
+  "price": 741000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_17375033080t2mv10tx3.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\"><img src=\"/data/editor/2501/e9fbc54b426a1483c68c93900d20bda2_1737502744_6071.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2501/e9fbc54b426a1483c68c93900d20bda2_1737502756_6808.jpg\"></div><div style=\"text-align: center;\"><br></div><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2501/e9fbc54b426a1483c68c93900d20bda2_1737502744_6071.jpg",
+    "https://www.jangin.com/data/editor/2501/e9fbc54b426a1483c68c93900d20bda2_1737502756_6808.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:06:52.067Z"
+}

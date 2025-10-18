@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=640",
+  "productName": "뉴라디체 리클라이너",
+  "price": 2558000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1756713385exe46fe40m.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2509/d533c903eddd622796e3b269ce14b81d_1756713367_5318.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/d533c903eddd622796e3b269ce14b81d_1756713375_2725.jpg\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2509/d533c903eddd622796e3b269ce14b81d_1756713367_5318.jpg",
+    "https://www.jangin.com/data/editor/2509/d533c903eddd622796e3b269ce14b81d_1756713375_2725.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:05:03.989Z"
+}

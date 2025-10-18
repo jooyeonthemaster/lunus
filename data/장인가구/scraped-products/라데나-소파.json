@@ -1,0 +1,44 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=542",
+  "productName": "라데나 소파",
+  "price": 1822000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><p>&nbsp;</p><p><img src=\"/data/editor/2309/310fe89981b90e5b06de26bc593c6715_1694764607_0314.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2309/310fe89981b90e5b06de26bc593c6715_1694764613_7921.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2404/2dd99c42ec349e931677c5801763b5da_1713753924_0551.jpg\"></p><p>&nbsp;</p>\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2309/310fe89981b90e5b06de26bc593c6715_1694764607_0314.jpg",
+    "https://www.jangin.com/data/editor/2309/310fe89981b90e5b06de26bc593c6715_1694764613_7921.gif",
+    "https://www.jangin.com/data/editor/2404/2dd99c42ec349e931677c5801763b5da_1713753924_0551.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:02:08.868Z"
+}

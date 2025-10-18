@@ -1,0 +1,34 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=367",
+  "productName": "베르디 침대",
+  "price": 1561000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1562822997hk44g48w8n.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;<img src=\"/data/editor/1907/86a2f32dd09a6eca54a3d687c8bdc5c2_1563858805_2202.jpg\">&nbsp;</p><p>&nbsp;</p>\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/1907/86a2f32dd09a6eca54a3d687c8bdc5c2_1563858805_2202.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:26:51.806Z"
+}

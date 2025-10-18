@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=612",
+  "productName": "더마스터 소파",
+  "price": 2100000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1739766743foyeck3ly7.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2502/15468f19b849ba62aec3882a843d29f8_1739766112_212.jpg\"><br style=\"clear:both;\"><img src=\"https://jangin.com/data/editor/2412/0ad8c5fb6118225a81e8d27fe847f38f_1735177455_3029.jpg\" style=\"text-align: center;\"></p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2502/15468f19b849ba62aec3882a843d29f8_1739766112_212.jpg",
+    "https://jangin.com/data/editor/2412/0ad8c5fb6118225a81e8d27fe847f38f_1735177455_3029.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "IMG",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:05:29.238Z"
+}

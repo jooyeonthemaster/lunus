@@ -1,0 +1,53 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=597",
+  "productName": "벨로체 소파",
+  "price": 1892000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892292_7528.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892292_8444.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892292_9355.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892293_0565.jpg\"><br style=\"clear:both;\"><br></div><br style=\"clear:both;\">&nbsp;<p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892292_7528.jpg",
+    "https://www.jangin.com/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892292_8444.jpg",
+    "https://www.jangin.com/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892292_9355.jpg",
+    "https://www.jangin.com/data/editor/2505/9e49fb858d81f3de389f44ff07efa6fb_1747892293_0565.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:59:22.989Z"
+}

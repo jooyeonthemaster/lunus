@@ -3,480 +3,1158 @@
     "title": "매트리스 클리닝 비치움 홈케어서비스",
     "price": 29000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008900",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/08/31/1000008900/1000008900_detail_049.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/08/31/1000008900/1000008900_detail_049.jpg",
+    "detailImages": [
+      "https://gdcdn.enex.co.kr/UPLOAD/colla_enex_bchium.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_01.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_02.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_03.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_04.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_05-1.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_05-2.gif",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_05-3.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_06.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_07.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_08.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_09.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_10.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_11.jpg",
+      "https://gdcdn.enex.co.kr/UPLOAD/bchium_mattress_12.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:19.113Z"
   },
   {
     "title": "에넥스 엘리나 호텔형 패브릭 침대 LK",
     "price": 1040000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008636",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202505/prd176601195_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202505/prd176601195_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaLK_250430_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaLK_250430_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaLK_250430_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaK_check.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:23.633Z"
   },
   {
     "title": "에넥스 엘리나 호텔형 패브릭 침대 K",
     "price": 940000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008635",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609232_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609232_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaK_250425_2gif.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaK_250430_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaK_250425_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaK_250425_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaK_check.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:28.046Z"
   },
   {
     "title": "에넥스 엘리나 호텔형 패브릭 침대 Q",
     "price": 890000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008634",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609240_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609240_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaQ_250430_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaQ_250430_2gif.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaQ_250430_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaQ_250430_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaQ_check.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:32.554Z"
   },
   {
     "title": "에넥스 엘리나 호텔형 패브릭 침대 SS",
     "price": 790000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008633",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609244_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609244_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaSS_250430_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaSS_250430_2gif.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaSS_250430_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaSS_250430_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenaSS_check.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:37.033Z"
   },
   {
     "title": "에넥스 엘리나 호텔형 패브릭 침대 TWIN",
     "price": 1390000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008632",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609247_700.jpg"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609247_700.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/elenatwin_250430_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenatwin_250430_2gif.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenatwin_250430_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenatwin_250430_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenatwin_check.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:41.509Z"
   },
   {
     "title": "에넥스 엘리나 호텔형 패브릭 침대_서랍패널",
     "price": 217000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008631",
-    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609264_700.png"
+    "imageUrl": "http://ad2.shoplinker.co.kr/product_image9/a0002428/202506/prd176609264_700.png",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/elenapanel_0430_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenapanel_0430_2.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenapanel_0430_3.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenapanel_0430_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/elenatwin_check.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:45.969Z"
   },
   {
     "title": "민트 3단 다용도 수납 서랍장 400",
     "price": 141000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008084",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008084/1000008084_detail_067.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008084/1000008084_detail_067.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail2.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:50.480Z"
   },
   {
     "title": "민트 5단 다용도 수납 서랍장 800",
     "price": 261000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008083",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008083/1000008083_detail_036.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008083/1000008083_detail_036.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail2.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:54.925Z"
   },
   {
     "title": "민트 5단 다용도 수납 서랍장 600",
     "price": 239000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008082",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008082/1000008082_detail_032.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008082/1000008082_detail_032.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail2.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:48:59.372Z"
   },
   {
     "title": "민트 5단 다용도 수납 서랍장 400",
     "price": 196000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008081",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008081/1000008081_detail_074.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008081/1000008081_detail_074.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail2.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:03.888Z"
   },
   {
     "title": "민트 3단 다용도 수납 서랍장 800",
     "price": 207000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008080",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008080/1000008080_detail_043.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008080/1000008080_detail_043.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail2.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:08.394Z"
   },
   {
     "title": "민트 3단 다용도 수납 서랍장 600",
     "price": 185000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000008079",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008079/1000008079_detail_034.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/04/14/1000008079/1000008079_detail_034.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/mint_drawers_detail2.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:12.913Z"
   },
   {
     "title": "아르테 호텔형 패브릭 침대 SS (낮은 헤드보드)",
     "price": 305900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006925",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006925/1000006925_detail_076.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006925/1000006925_detail_076.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_3.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_7.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_8.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:17.448Z"
   },
   {
     "title": "아르테 호텔형 패브릭 침대 Q/K (낮은 헤드보드)",
     "price": 347100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006924",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006924/1000006924_detail_087.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006924/1000006924_detail_087.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_3.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_7.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_8.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:21.908Z"
   },
   {
     "title": "아르테 호텔형 패브릭 침대 SS (높은 헤드보드)",
     "price": 323100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006923",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006923/1000006923_detail_040.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006923/1000006923_detail_040.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_3.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_7.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_8.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:26.366Z"
   },
   {
     "title": "아르테 호텔형 패브릭 침대 Q/K (높은 헤드보드)",
     "price": 367700,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006922",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006922/1000006922_detail_034.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006922/1000006922_detail_034.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_3.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_7.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_8.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:30.795Z"
   },
   {
     "title": "아르테 호텔형 패브릭 침대 협탁 패널 (낮은 헤드보드)",
     "price": 151200,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006921",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006921/1000006921_detail_089.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006921/1000006921_detail_089.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_3.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_7.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_8.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:35.240Z"
   },
   {
     "title": "아르테 호텔형 패브릭 침대 협탁 패널 (높은 헤드보드)",
     "price": 163300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006920",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006920/1000006920_detail_076.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/25/01/02/1000006920/1000006920_detail_076.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_1.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_2.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_3.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_4.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_5.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_6.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_7.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/arte_bed_8.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:39.731Z"
   },
   {
     "title": "자동접이식 히든월베드 Q 스탠드형 (포켓스프링 매트리스 포함)",
     "price": 4035000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006788",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006788/1000006788_detail_093.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006788/1000006788_detail_093.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_04.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_10.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:44.397Z"
   },
   {
     "title": "자동접이식 히든월베드 Q 스탠드형 (메모리폼 매트리스 포함)",
     "price": 4158000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006787",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006787/1000006787_detail_054.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006787/1000006787_detail_054.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_04.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_10.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:48.897Z"
   },
   {
     "title": "자동접이식 히든월베드 SS 스탠드형 (포켓스프링 매트리스 포함)",
     "price": 2572000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006786",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006786/1000006786_detail_093.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006786/1000006786_detail_093.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_04.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_10.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:53.371Z"
   },
   {
     "title": "자동접이식 히든월베드 SS 스탠드형 (메모리폼 매트리스 포함)",
     "price": 2634000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006785",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006785/1000006785_detail_070.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006785/1000006785_detail_070.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_04.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_10.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:49:57.846Z"
   },
   {
     "title": "자동접이식 히든월베드 SS 와이드형 (포켓스프링 매트리스 포함)",
     "price": 3150000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006784",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006784/1000006784_detail_060.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006784/1000006784_detail_060.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_04.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_10.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:02.363Z"
   },
   {
     "title": "자동접이식 히든월베드 SS 와이드형 (메모리폼 매트리스 포함)",
     "price": 3204000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006783",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006783/1000006783_detail_073.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/51/1000006783/1000006783_detail_073.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_04.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_08.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Yeji_Hidden_Bed_10.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:06.928Z"
   },
   {
     "title": "[초특가한정] 알레 LED 호텔형 템바보드 원목침대 LK (1800)",
     "price": 350000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006769",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/49/1000006769/1000002351_detail_086.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/49/1000006769/1000002351_detail_086.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_06.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:11.464Z"
   },
   {
     "title": "[초특가한정] 알레 LED 호텔형 템바보드 원목침대 Q (1600)",
     "price": 270000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006768",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/49/1000006768/1000002351_detail_086.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/12/49/1000006768/1000002351_detail_086.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_03.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_06.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/allez_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:15.969Z"
   },
   {
     "title": "루시 빗살 2단 원목 협탁 사이드테이블",
     "price": 96300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006749",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006749/1000006749_detail_03.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006749/1000006749_detail_03.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:20.628Z"
   },
   {
     "title": "루시 빗살 1단 원목 협탁 사이드테이블",
     "price": 77400,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006748",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006748/1000006748_detail_025.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006748/1000006748_detail_025.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/lucy_side_table_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:25.228Z"
   },
   {
     "title": "데미 아쿠아텍스 패브릭 협탁",
     "price": 85000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006747",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006747/1000006747_detail_046.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006747/1000006747_detail_046.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/demi_side_table.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/demi_side_table_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:29.897Z"
   },
   {
     "title": "에넥스 홈 안심 카본 전기매트-싱글",
     "price": 159000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006742",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006742/1000006742_detail_045.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006742/1000006742_detail_045.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_Carbon_open.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_Carbon.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:34.433Z"
   },
   {
     "title": "에넥스 홈 안심 카본 전기매트-더블",
     "price": 179000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006741",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006741/1000006741_detail_099.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006741/1000006741_detail_099.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_Carbon_open.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Home_Safety_Carbon_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_Carbon.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:38.933Z"
   },
   {
     "title": "에넥스 캠핑엔 카본 전기매트-싱글 캠핑 매트",
     "price": 129000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006740",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006740/1000006740_detail_042.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/11/47/1000006740/1000006740_detail_042.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_Carbon_open.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Camping_carbon_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Camping_carbon_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Camping_carbon_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_Carbon.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:43.419Z"
   },
   {
     "title": "쿠스 원형 아쿠아텍스 스툴",
     "price": 45000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006320",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/44/1000006320/1000006320_detail_012.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/44/1000006320/1000006320_detail_012.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/stool%20circle_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/stool%20circle_detail_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/stool%20circle_detail_03.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:47.894Z"
   },
   {
     "title": "쿠스 사각 아쿠아텍스 스툴",
     "price": 51000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006319",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/44/1000006319/1000006319_detail_097.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/44/1000006319/1000006319_detail_097.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/Stool%20square_detail_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Stool%20square_detail_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/Stool%20square_detail_03.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:52.460Z"
   },
   {
     "title": "에넥스 베스트 침대세트 슈퍼싱글(SS) 모음전",
     "price": 499000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006250",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/42/1000006250/1000006250_detail_057.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/10/42/1000006250/1000006250_detail_057.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_08.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_09.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_010.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_011.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_012.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_013.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_014.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_015.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/collection_bed_016.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:50:57.069Z"
   },
   {
     "title": "에스코지 콤피 메모리폼 매트리스 Q",
     "price": 780000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000006171",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/09/39/1000006171/1000006171_detail_023.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/09/39/1000006171/1000006171_detail_023.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/comfy_mattress_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comfy_mattress_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comfy_mattress_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comfy_mattress_05_edit.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comfy_mattress_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/comfy_mattress_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/iden_lfk_deli.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:01.571Z"
   },
   {
     "title": "워터릴리 프레쉬 퓨어 필로우",
     "price": 109000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005384",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/08/35/1000005384/1000005384_detail_055.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/08/35/1000005384/1000005384_detail_055.jpg",
+    "detailImages": [],
+    "scrapedDetailAt": "2025-10-17T17:51:06.078Z"
   },
   {
     "title": "워터릴리 프로즌 냉감이불",
     "price": 109000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005380",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/08/34/1000005380/1000005380_detail_086.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/08/34/1000005380/1000005380_detail_086.jpg",
+    "detailImages": [],
+    "scrapedDetailAt": "2025-10-17T17:51:10.588Z"
   },
   {
     "title": "[첫구매혜택/1인1회] 귀잠 아이스 쿨링 베개 커버",
     "price": 14900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005252",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/07/30/1000005252/register_detail_018.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/07/30/1000005252/register_detail_018.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_gif.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_cooling.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:15.063Z"
   },
   {
     "title": "르메종 슬립 베이직 호텔형 침대 무드등 수납형 SS",
     "price": 317800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005109",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005109/1000005109_detail_01.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005109/1000005109_detail_01.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:19.712Z"
   },
   {
     "title": "르메종 슬립 베이직 호텔형 침대 무드등 수납형 Q/K",
     "price": 379800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005108",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005108/1000005108_detail_054.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005108/1000005108_detail_054.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:24.322Z"
   },
   {
     "title": "르메종 슬립 클래식 호텔형 침대 무드등 수납형 SS",
     "price": 464900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005107",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005107/1000005107_detail_070.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005107/1000005107_detail_070.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_07.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_08.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:28.783Z"
   },
   {
     "title": "르메종 슬립 클래식 호텔형 침대 무드등 수납형 Q/K",
     "price": 542400,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005106",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005106/1000005106_detail_060.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005106/1000005106_detail_060.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_07.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_08.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:33.213Z"
   },
   {
     "title": "르메종 슬립 클래식 호텔형 침대 무드등 수납형 패널 1EA",
     "price": 132100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005105",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005105/1000005105_detail_076.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005105/1000005105_detail_076.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_07.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_08.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:37.658Z"
   },
   {
     "title": "르메종 슬립 클래식 호텔형 침대 무드등 수납형 협탁 1EA",
     "price": 49300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005104",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005104/1000005104_detail_088.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005104/1000005104_detail_088.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_07.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_08.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:42.191Z"
   },
   {
     "title": "르메종 슬립 베이직 호텔형 침대 무드등 수납형 패널 1EA",
     "price": 171600,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005103",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005103/1000005103_detail_013.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005103/1000005103_detail_013.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:46.681Z"
   },
   {
     "title": "르메종 슬립 프리미엄 패브릭 호텔형 침대 무드등 패널 1EA",
     "price": 265200,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005102",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005102/1000005102_detail_053.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005102/1000005102_detail_053.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:51.191Z"
   },
   {
     "title": "르메종 슬립 베이직 호텔형 침대 무드등 수납형 SS/Q/K",
     "price": 317800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005101",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005101/1000005101_detail_054.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005101/1000005101_detail_054.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_BASIC_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:51:55.652Z"
   },
   {
     "title": "르메종 슬립 클래식 호텔형 침대 무드등 수납형 SS/Q/K",
     "price": 464900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005100",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005100/1000005100_detail_012.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005100/1000005100_detail_012.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_07.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_CLASSIC_08.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:00.158Z"
   },
   {
     "title": "르메종 슬립 프리미엄 패브릭 호텔형 침대 무드등 Q/K",
     "price": 625800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005099",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005099/1000005099_detail_089.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/26/1000005099/1000005099_detail_089.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_05.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_LEMAISON_PREMIUM_06.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:04.679Z"
   },
   {
     "title": "에스코지 슬립 프리미엄 유로탑 매트리스 (SS/Q/K)",
     "price": 317800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005017",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005017/1000005017_detail_010.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005017/1000005017_detail_010.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:09.294Z"
   },
   {
     "title": "에스코지 슬립 클래식 유로탑 매트리스 (SS/Q/K)",
     "price": 255800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005016",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005016/1000005016_detail_014.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005016/1000005016_detail_014.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:13.782Z"
   },
   {
     "title": "피스풀 슬럼버 M1 7존 독립스프링 매트리스 (SS/Q/K)",
     "price": 172100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005015",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005015/1000005015_detail_069.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005015/1000005015_detail_069.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:18.366Z"
   },
   {
     "title": "피스풀 슬럼버 M2 7존 독립스프링 라텍스 매트리스 (SS/Q/K)",
     "price": 189100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005014",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005014/1000005014_detail_028.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005014/1000005014_detail_028.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:22.828Z"
   },
   {
     "title": "피스풀 슬럼버 M3 7존 독립스프링 블루폼 유로탑 매트리스 (SS/Q/K)",
     "price": 266000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005013",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005013/1000005013_detail_068.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005013/1000005013_detail_068.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:27.288Z"
   },
   {
     "title": "귀잠 듀라론 아이스 쿨링매트 냉감 커버 시리즈 (SS/Q/K/LK/베개)",
     "price": 63900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005009",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005009/1000005009_detail_028.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/25/1000005009/1000005009_detail_028.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_gif.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/cooling_matt_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/bottom_cooling.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:31.808Z"
   },
   {
     "title": "피스풀 슬럼버 M1 7존 독립스프링 매트리스 SS",
     "price": 172100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005006",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005006/1000005006_detail_034.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005006/1000005006_detail_034.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:36.317Z"
   },
   {
     "title": "피스풀 슬럼버 M1 7존 독립스프링 매트리스 Q",
     "price": 210900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005005",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005005/1000005005_detail_036.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005005/1000005005_detail_036.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:40.804Z"
   },
   {
     "title": "피스풀 슬럼버 M1 7존 독립스프링 매트리스 K",
     "price": 221700,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005004",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005004/1000005004_detail_097.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005004/1000005004_detail_097.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:45.312Z"
   },
   {
     "title": "피스풀 슬럼버 M2 7존 독립스프링 라텍스 매트리스 SS",
     "price": 189100,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005003",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005003/1000005003_detail_050.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005003/1000005003_detail_050.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:49.805Z"
   },
   {
     "title": "피스풀 슬럼버 M2 7존 독립스프링 라텍스 매트리스 Q",
     "price": 237900,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005002",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005002/1000005002_detail_086.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005002/1000005002_detail_086.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:54.347Z"
   },
   {
     "title": "피스풀 슬럼버 M2 7존 독립스프링 라텍스 매트리스 K",
     "price": 246500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005001",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005001/1000005001_detail_068.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005001/1000005001_detail_068.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:52:58.824Z"
   },
   {
     "title": "피스풀 슬럼버 M3 7존 독립스프링 블루폼 유로탑 매트리스 SS",
     "price": 266000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000005000",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005000/1000005000_detail_025.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000005000/1000005000_detail_025.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:03.271Z"
   },
   {
     "title": "피스풀 슬럼버 M3 7존 독립스프링 블루폼 유로탑 매트리스 Q",
     "price": 333300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004999",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004999/1000004999_detail_095.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004999/1000004999_detail_095.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:07.737Z"
   },
   {
     "title": "피스풀 슬럼버 M3 7존 독립스프링 블루폼 유로탑 매트리스 K",
     "price": 348800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004998",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004998/1000004998_detail_041.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004998/1000004998_detail_041.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:12.274Z"
   },
   {
     "title": "에스코지 슬립 프리미엄 유로탑 매트리스 SS",
     "price": 317800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004997",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004997/1000004997_detail_088.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004997/1000004997_detail_088.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:16.781Z"
   },
   {
     "title": "에스코지 슬립 프리미엄 유로탑 매트리스 Q",
     "price": 399000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004996",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004996/1000004996_detail_05.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004996/1000004996_detail_05.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:21.230Z"
   },
   {
     "title": "에스코지 슬립 프리미엄 유로탑 매트리스 K",
     "price": 421200,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004995",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004995/1000004995_detail_087.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004995/1000004995_detail_087.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:25.664Z"
   },
   {
     "title": "에스코지 슬립 클래식 유로탑 매트리스 SS",
     "price": 255800,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004994",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004994/1000004994_detail_051.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004994/1000004994_detail_051.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:30.111Z"
   },
   {
     "title": "에스코지 슬립 클래식 유로탑 매트리스 Q",
     "price": 325500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004993",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004993/1000004993_detail_096.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004993/1000004993_detail_096.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:34.606Z"
   },
   {
     "title": "에스코지 슬립 클래식 유로탑 매트리스 K",
     "price": 344200,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004992",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004992/1000004992_detail_057.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/06/24/1000004992/1000004992_detail_057.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_SLUMBER_MATTRESS_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/SYLIFE_ESCOZY_MATTRESS_02.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:39.085Z"
   },
   {
     "title": "오롯 E0 호텔형 침대 퀸사이즈 & 7존 매트리스 포함 맞춤 시공 템바보드 300CM (10자)",
     "price": 1301000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004907",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004907/register_detail_044.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/04/14/1000004907/register_detail_044.jpg",
+    "detailImages": [],
+    "scrapedDetailAt": "2025-10-17T17:53:43.771Z"
   },
   {
     "title": "귀잠 매트리스 S2 (Q)+ 귀잠 파운데이션 Q",
     "price": 674400,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004826",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/03/10/1000004826/register_detail_024.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/03/10/1000004826/register_detail_024.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S2_08.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%2009.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_08.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_09.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:48.380Z"
   },
   {
     "title": "귀잠 매트리스 S1 (SS)+ 딥슬립 LED 조명 서랍형 수납침대 (SS)",
     "price": 635500,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004825",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/03/10/1000004825/1000004825_detail_047.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/03/10/1000004825/1000004825_detail_047.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_08.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%2009.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/deepsleep_bed_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/deepsleep_bed_2.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/deepsleep_bed_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/deepsleep_bed_1.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/deepsleep_bed_03.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:52.938Z"
   },
   {
     "title": "귀잠 매트리스 S1 (SS)+ 귀잠 파운데이션 SS",
     "price": 524300,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004824",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/03/10/1000004824/register_detail_033.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/03/10/1000004824/register_detail_033.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep_01.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep_02.gif",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20S1_08.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%2009.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_04.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_05.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_06.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_07.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_08.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/precious-sleep%20foundation_09.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:53:57.396Z"
   },
   {
     "title": "E0 오롯 호텔 침대 슈퍼싱글 퀸 헤드 당일 맞춤 시공 웨인스코팅 210~300cm (7자~10자)",
     "price": 694000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004808",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/02/08/1000004808/register_detail_023.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/02/08/1000004808/register_detail_023.jpg",
+    "detailImages": [],
+    "scrapedDetailAt": "2025-10-17T17:54:02.114Z"
   },
   {
     "title": "E0 오롯 호텔 침대 슈퍼싱글 퀸 헤드 당일 맞춤 시공 평판 210~300cm (7자~10자)",
     "price": 522000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004807",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/02/08/1000004807/register_detail_088.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/02/08/1000004807/register_detail_088.jpg",
+    "detailImages": [],
+    "scrapedDetailAt": "2025-10-17T17:54:06.771Z"
   },
   {
     "title": "E0 오롯 호텔 침대 슈퍼싱글 퀸 헤드 당일 맞춤 시공 템바보드 210~300cm (7자~10자)",
     "price": 767000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004806",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/02/08/1000004806/register_detail_044.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/24/02/08/1000004806/register_detail_044.jpg",
+    "detailImages": [],
+    "scrapedDetailAt": "2025-10-17T17:54:11.347Z"
   },
   {
     "title": "듀라블 1200 좌식 콘솔화장대 + 거울",
     "price": 205000,
     "productUrl": "https://www.enex.co.kr/goods/goods_view.php?goodsNo=1000004343",
-    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/09/38/1000004343/register_detail_055.jpg"
+    "imageUrl": "https://malltr0083.cdn-nhncommerce.com/data/goods/23/09/38/1000004343/register_detail_055.jpg",
+    "detailImages": [
+      "http://gdcdn.enex.co.kr/UPLOAD/durable_sit_powder_01.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/durable_sit_powder_02.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/durable_sit_powder_03.jpg",
+      "http://gdcdn.enex.co.kr/UPLOAD/durable_del.jpg"
+    ],
+    "scrapedDetailAt": "2025-10-17T17:54:15.834Z"
   }
 ]

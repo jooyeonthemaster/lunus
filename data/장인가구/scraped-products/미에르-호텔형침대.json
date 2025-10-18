@@ -1,0 +1,30 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=626",
+  "productName": "미에르 호텔형침대",
+  "price": 1403000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1748997591ilvx98hhjk.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\">&nbsp;<img src=\"/data/editor/2507/ceb2a8358701dacf1b7ac2c0bcc6b8ea_1751869701_3714.jpg\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2507/ceb2a8358701dacf1b7ac2c0bcc6b8ea_1751869701_3714.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:21:45.483Z"
+}

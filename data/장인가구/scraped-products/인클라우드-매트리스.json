@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=632",
+  "productName": "인클라우드 매트리스",
+  "price": 2902000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1751248238l0jp2b0iel.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2506/b95b88f408255e365b238b06c8f63745_1751246324_1837.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2506/b95b88f408255e365b238b06c8f63745_1751246334_8664.jpg\"></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2506/b95b88f408255e365b238b06c8f63745_1751246324_1837.jpg",
+    "https://www.jangin.com/data/editor/2506/b95b88f408255e365b238b06c8f63745_1751246334_8664.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:28:19.924Z"
+}

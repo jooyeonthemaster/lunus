@@ -1,0 +1,73 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=602",
+  "productName": "세르망 소파",
+  "price": 1620000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1732503584cnsr3pgfb5.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\">&nbsp;<img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710091_7642.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710091_9593.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710093_7114.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710094_8759.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710093_8571.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710094_379.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710095_1602.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710094_7079.jpg\"><br style=\"clear:both;\">&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><br></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710091_7642.jpg",
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710091_9593.jpg",
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710093_7114.jpg",
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710094_8759.gif",
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710093_8571.jpg",
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710094_379.jpg",
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710095_1602.gif",
+    "https://www.jangin.com/data/editor/2505/2e14fe590c2c2b3d78f8a9d6e8e2980b_1747710094_7079.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:05:46.375Z"
+}

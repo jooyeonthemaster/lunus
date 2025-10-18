@@ -1,0 +1,17 @@
+{
+  "productCode": "1028868",
+  "productName": "티오 책상부착용 콘센트",
+  "price": 29000,
+  "productUrl": "https://store.hanssem.com/goods/1028868",
+  "mainImage": "https://image.hanssem.com/hsimg/gds/1050/1028/1028868_A1.jpg?v=20240724143132",
+  "category": "홈오피스",
+  "detailHTML": "<div class=\"img-box\">\n\t<picture data-origin=\"admin-editor-img\">\n\t\t<source media=\"(max-width:767px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656990792_0.jpg?w=750 2x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656990792_0.jpg?w=1500 3x\">\n\t\t<source media=\"(min-width:768px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656990792_0.jpg?w=870 1x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656990792_0.jpg?w=1740 2x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656990792_0.jpg?w=2610 3x\">\n\t\t<img src=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656990792_0.jpg\" width=\"\" height=\"\">\n\t</picture>\n</div>\n<div class=\"img-box\">\n\t<picture data-origin=\"admin-editor-img\">\n\t\t<source media=\"(max-width:767px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/26/1703556771060_0.jpg?w=750 2x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/26/1703556771060_0.jpg?w=1500 3x\">\n\t\t<source media=\"(min-width:768px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/26/1703556771060_0.jpg?w=870 1x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/26/1703556771060_0.jpg?w=1740 2x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/26/1703556771060_0.jpg?w=2610 3x\">\n\t\t<img src=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/26/1703556771060_0.jpg\" width=\"\" height=\"\">\n\t</picture>\n</div>\n<div class=\"img-box\">\n\t<picture data-origin=\"admin-editor-img\">\n\t\t<source media=\"(max-width:767px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656998847_0.jpg?w=750 2x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656998847_0.jpg?w=1500 3x\">\n\t\t<source media=\"(min-width:768px)\" srcset=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656998847_0.jpg?w=870 1x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656998847_0.jpg?w=1740 2x, https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656998847_0.jpg?w=2610 3x\">\n\t\t<img src=\"https://image.hanssem.com/hsimg/gds/Editor/2023/12/04/1701656998847_0.jpg\" width=\"\" height=\"\">\n\t</picture>\n</div>\n",
+  "cssLinks": [
+    "https://res.remodeling.hanssem.com/font/pretendard/pretendard.css",
+    "https://store.hanssem.com/_next/static/css/cd8d11070aab510c.css",
+    "https://use.fontawesome.com/7f85a56ba4.css",
+    "https://fonts.googleapis.com/css2?family=Roboto&display=swap"
+  ],
+  "viewport": "1920x1080 (Desktop)",
+  "scrapedAt": "2025-10-17T08:20:01.800Z"
+}

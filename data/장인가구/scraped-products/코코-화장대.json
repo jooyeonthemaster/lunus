@@ -1,0 +1,34 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=340",
+  "productName": "코코 화장대",
+  "price": 527000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1548382909mfccgih6ok.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<img src=\"/data/editor/1901/5a60a44de80ae9dcd208a8d99fb14f4e_1548382778_5318.png\"><br style=\"clear:both;\"><br style=\"clear:both;\">\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/1901/5a60a44de80ae9dcd208a8d99fb14f4e_1548382778_5318.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:10:58.400Z"
+}

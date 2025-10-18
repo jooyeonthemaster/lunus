@@ -1,0 +1,26 @@
+{
+  "productCode": "302794",
+  "productName": "매그 라운지 소파베드 스마트패브릭 오트밀",
+  "price": 569000,
+  "productUrl": "https://store.hanssem.com/goods/302794",
+  "mainImage": "https://image.hanssem.com/hsimg/gds/1050/302/302794_A1.jpg?v=20250812143736",
+  "category": "한샘",
+  "detailHTML": "<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/1050/302/302794_A1.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/1050/302/302794_A1.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/1050/302/302794_A1.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/1050/302/302794_A2.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/550/302/302794_B1.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/550/302/302794_B2.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/550/302/302794_B3.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/gds/550/302/302794_B4.jpg?v=20250812143736\" alt=\"매그 라운지 소파베드 스마트패브릭 오트밀\" style=\"max-width: 100%; height: auto;\" />\n</div>\n<div class=\"img-box\" style=\"display: block; width: 870px; margin-bottom: 0px;\">\n  <img src=\"https://image.hanssem.com/hsimg/upload/common/notice/2025/10/02/1759399682823_0.png\" alt=\"10월 쌤위크 1차\" style=\"max-width: 100%; height: auto;\" />\n</div>\n",
+  "cssLinks": [],
+  "styles": {
+    "imgBox": {
+      "display": "block",
+      "width": "870px",
+      "marginBottom": "0px"
+    },
+    "contTxt": {
+      "textAlign": "start",
+      "maxWidth": "none",
+      "margin": "0px",
+      "fontSize": "12px"
+    }
+  },
+  "viewport": "1920x1080 (Desktop)",
+  "scrapedAt": "2025-10-17T12:36:39.391Z",
+  "scrapeMethod": "image-only"
+}

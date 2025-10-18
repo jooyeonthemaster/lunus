@@ -1,0 +1,44 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=599",
+  "productName": "로제라 소파",
+  "price": 2324000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center;\">&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500213_174.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500213_2734.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500213_397.jpg\"></div><br><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500213_174.jpg",
+    "https://www.jangin.com/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500213_2734.jpg",
+    "https://www.jangin.com/data/editor/2507/2937369c624ede705d140dee9b9d96ee_1751500213_397.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:59:07.334Z"
+}

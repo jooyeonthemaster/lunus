@@ -1,0 +1,30 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=5&idx=408",
+  "productName": "멜로디 스툴",
+  "price": 90000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1592552199zc47ih13gr.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/2006/b7a685f64aec2bcdcaa561b3b0c5cb64_1592551854_7673.png\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2006/b7a685f64aec2bcdcaa561b3b0c5cb64_1592551854_7673.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:10:49.999Z"
+}

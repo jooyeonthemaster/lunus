@@ -1,0 +1,54 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=638",
+  "productName": "뉴벨라 리클라이너",
+  "price": 2377000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1756713023so1y7ftsoe.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758498960_7966.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758497863_7962.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758498991_8403.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758497874_6835.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758499012_8257.jpg\"><br style=\"clear:both;\"><br></div>&nbsp;<p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758498960_7966.jpg",
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758497863_7962.gif",
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758498991_8403.jpg",
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758497874_6835.gif",
+    "https://www.jangin.com/data/editor/2509/8cb5970c4e7441c380f5a91ef5325fb5_1758499012_8257.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:05:21.274Z"
+}

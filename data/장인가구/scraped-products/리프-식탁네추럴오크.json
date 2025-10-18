@@ -1,0 +1,38 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=3&idx=601",
+  "productName": "리프 식탁(네추럴오크)",
+  "price": 1020000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1732501595hjw9bo87vv.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\"><img src=\"/data/editor/2507/ff448da77e77cf927cbf62e2efdcac34_1753250370_1949.jpg\"><br style=\"clear:both;\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2507/ff448da77e77cf927cbf62e2efdcac34_1753250370_1949.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:13:05.306Z"
+}

@@ -17,7 +17,13 @@
       "Bash(git add:*)",
       "Bash(git commit:*)",
       "Bash(git push:*)",
-      "Bash(vercel:*)"
+      "Bash(vercel:*)",
+      "Bash(xargs cat:*)",
+      "Bash(for file in emons-*.json)",
+      "Bash(do if [[ \"$file\" != *\"scraped\"* ]])",
+      "Bash([[ \"$file\" != \"products.json\" ]])",
+      "Bash(fi)",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": []

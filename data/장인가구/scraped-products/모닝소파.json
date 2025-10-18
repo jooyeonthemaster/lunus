@@ -1,0 +1,55 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=605",
+  "productName": "모닝소파",
+  "price": 1719000,
+  "mainImage": "https://www.jangin.com/img/sub/list_sale.png",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\"><img src=\"/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432394_0315.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432399_0297.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432408_4941.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432413_519.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432416_92.gif\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432421_4365.jpg\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432394_0315.jpg",
+    "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432399_0297.jpg",
+    "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432408_4941.jpg",
+    "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432413_519.jpg",
+    "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432416_92.gif",
+    "https://www.jangin.com/data/editor/2506/f9674250cd1d2807a709421dc28c4f2f_1749432421_4365.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T12:58:39.694Z"
+}

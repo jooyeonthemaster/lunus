@@ -1,0 +1,47 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=591",
+  "productName": "블루문 소파",
+  "price": 907000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_17313120261yk3ff9azo.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2411/637e97afb92134ec8d13c83750284e07_1731311948_3753.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2504/fbac8ea4c5e468776163dd16dd51f320_1743659243_7117.png\"><br style=\"clear:both;\"><br></div><div style=\"text-align: center;\" align=\"center\"><br style=\"clear:both;\"><br></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2411/637e97afb92134ec8d13c83750284e07_1731311948_3753.jpg",
+    "https://www.jangin.com/data/editor/2504/fbac8ea4c5e468776163dd16dd51f320_1743659243_7117.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:03:32.044Z"
+}

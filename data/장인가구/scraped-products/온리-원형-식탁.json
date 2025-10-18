@@ -1,0 +1,34 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=3&idx=625",
+  "productName": "온리 원형 식탁",
+  "price": 1528000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1748417317lxv5ntfuaz.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2505/c1881077a60e0e3d4ccdf44204e68897_1748070270_3653.jpg\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2505/c1881077a60e0e3d4ccdf44204e68897_1748070270_3653.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:11:48.295Z"
+}

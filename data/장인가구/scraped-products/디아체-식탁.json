@@ -1,0 +1,44 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=3&idx=607",
+  "productName": "디아체 식탁",
+  "price": 1650000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1735181134mi022fufiv.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p style=\"text-align: center; \" align=\"center\"><img src=\"/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148436_8207.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148443_2557.jpg\"><br style=\"clear:both;\"><img src=\"/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148447_2517.jpg\"><br style=\"clear:both;\">&nbsp;</p><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148436_8207.jpg",
+    "https://www.jangin.com/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148443_2557.jpg",
+    "https://www.jangin.com/data/editor/2506/3376ee48b557fe5e771399df4d88ceb4_1750148447_2517.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "P",
+      "style": "text-align: center; "
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:12:17.628Z"
+}

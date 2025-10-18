@@ -1,196 +1,191 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useState, useEffect } from "react";
+import Image from "next/image";
 import { useRouter } from "next/navigation";
 
-interface Product {
-  title: string;
-  price: number;
-  url: string;
-  category: string;
-  source: string;
-  imageUrl?: string;
-}
+// 플랫포인트 제품 데이터 import
+import flatpointDOB from "../../../data/플랫포인트/flatpoint-DOB.json";
+import flatpointGajuk from "../../../data/플랫포인트/flatpoint-가죽소파.json";
+import flatpointSide from "../../../data/플랫포인트/flatpoint-사이드테이블.json";
+import flatpointSeonban from "../../../data/플랫포인트/flatpoint-선반.json";
+import flatpointJomyeong from "../../../data/플랫포인트/flatpoint-조명&홈데코.json";
+import flatpointChair from "../../../data/플랫포인트/flatpoint-체어.json";
+import flatpointBed from "../../../data/플랫포인트/flatpoint-침대&매트리스.json";
+import flatpointKids from "../../../data/플랫포인트/flatpoint-키즈.json";
+import flatpointTable from "../../../data/플랫포인트/flatpoint-테이블.json";
+import flatpointFabric from "../../../data/플랫포인트/flatpoint-패브릭소파.json";
 
 export default function FlatpointProductsPage() {
   const router = useRouter();
-  const [products, setProducts] = useState<Product[]>([]);
-  const [filteredProducts, setFilteredProducts] = useState<Product[]>([]);
-  const [categories, setCategories] = useState<string[]>([]);
-  const [selectedCategory, setSelectedCategory] = useState<string>("전체");
-  const [loading, setLoading] = useState(true);
-  const [searchTerm, setSearchTerm] = useState("");
+  const [allProducts, setAllProducts] = useState<any[]>([]);
+  const [selectedCategory, setSelectedCategory] = useState("전체");
+
+  const categories = [
+    "전체",
+    "DOB",
+    "가죽소파",
+    "패브릭소파",
+    "체어",
+    "테이블",
+    "사이드테이블",
+    "침대&매트리스",
+    "선반",
+    "조명&홈데코",
+    "키즈",
+  ];
 
   useEffect(() => {
-    async function loadProducts() {
-      try {
-        const data = await import("../../../flatpoint-all-urls.json");
-        const allProducts = data.default as Product[];
-
-        // dob110-mobile, dob110-pc 제외
-        const validProducts = allProducts.filter(
-          (p) => !p.source.includes("dob110-mobile") && !p.source.includes("dob110-pc")
-        );
-
-        setProducts(validProducts);
-        setFilteredProducts(validProducts);
-
-        // 카테고리 추출
-        const uniqueCategories = Array.from(
-          new Set(validProducts.map((p) => p.category))
-        ).sort();
-        setCategories(uniqueCategories);
-
-        setLoading(false);
-      } catch (error) {
-        console.error("제품 로드 실패:", error);
-        setLoading(false);
-      }
-    }
-    loadProducts();
+    // 모든 플랫포인트 제품 합치기
+    const combined = [
+      ...flatpointDOB.map((p: any) => ({ ...p, category: "DOB" })),
+      ...flatpointGajuk.map((p: any) => ({ ...p, category: "가죽소파" })),
+      ...flatpointSide.map((p: any) => ({ ...p, category: "사이드테이블" })),
+      ...flatpointSeonban.map((p: any) => ({ ...p, category: "선반" })),
+      ...flatpointJomyeong.map((p: any) => ({ ...p, category: "조명&홈데코" })),
+      ...flatpointChair.map((p: any) => ({ ...p, category: "체어" })),
+      ...flatpointBed.map((p: any) => ({ ...p, category: "침대&매트리스" })),
+      ...flatpointKids.map((p: any) => ({ ...p, category: "키즈" })),
+      ...flatpointTable.map((p: any) => ({ ...p, category: "테이블" })),
+      ...flatpointFabric.map((p: any) => ({ ...p, category: "패브릭소파" })),
+    ];
+    setAllProducts(combined);
   }, []);
 
-  // 카테고리 필터링
-  useEffect(() => {
-    let filtered = products;
+  const filteredProducts =
+    selectedCategory === "전체"
+      ? allProducts
+      : allProducts.filter((p) => p.category === selectedCategory);
 
-    if (selectedCategory !== "전체") {
-      filtered = filtered.filter((p) => p.category === selectedCategory);
-    }
-
-    if (searchTerm) {
-      filtered = filtered.filter((p) =>
-        p.title.toLowerCase().includes(searchTerm.toLowerCase())
-      );
-    }
-
-    setFilteredProducts(filtered);
-  }, [selectedCategory, searchTerm, products]);
-
-  const handleProductClick = (product: Product) => {
-    // 파일명 생성 (스크래퍼와 동일한 로직)
-    const safeFilename = product.title
-      .replace(/[^a-zA-Z0-9가-힣\s-]/g, "")
-      .replace(/\s+/g, "-")
-      .substring(0, 100);
-
-    router.push(`/flatpoint-detail/${encodeURIComponent(safeFilename)}`);
+  const handleProductClick = (product: any) => {
+    // 제품 title을 URL 인코딩해서 상세페이지로 이동
+    const encodedTitle = encodeURIComponent(product.title);
+    router.push(`/flatpoint-detail/${encodedTitle}`);
   };
 
-  if (loading) {
-    return (
-      <div className="min-h-screen bg-white flex items-center justify-center">
-        <div className="text-center">
-          <div className="text-2xl font-bold mb-2">로딩 중...</div>
-          <div className="text-gray-500">플랫포인트 제품 목록을 불러오는 중입니다</div>
-        </div>
-      </div>
-    );
-  }
-
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-white">
       {/* Header */}
-      <header className="bg-white border-b border-gray-200 sticky top-0 z-50">
-        <div className="max-w-7xl mx-auto px-6 py-6">
-          <h1 className="text-3xl font-bold mb-4">플랫포인트 제품 목록</h1>
-
-          {/* 검색 */}
-          <input
-            type="text"
-            placeholder="제품명 검색..."
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-black"
-          />
-        </div>
-      </header>
-
-      <div className="max-w-7xl mx-auto px-6 py-8">
-        {/* 카테고리 필터 */}
-        <div className="mb-8 flex flex-wrap gap-2">
+      <header className="sticky top-0 bg-white border-b border-gray-200 z-50 shadow-sm">
+        <div className="max-w-[1400px] mx-auto px-4 lg:px-8 py-4">
           <button
-            onClick={() => setSelectedCategory("전체")}
-            className={`px-4 py-2 rounded-full font-medium transition-colors ${
-              selectedCategory === "전체"
-                ? "bg-black text-white"
-                : "bg-white text-gray-700 hover:bg-gray-100"
-            }`}
+            onClick={() => router.push("/")}
+            className="flex items-center text-gray-600 hover:text-gray-900 transition-colors mb-4"
           >
-            전체 ({products.length})
+            <svg
+              width="20"
+              height="20"
+              viewBox="0 0 20 20"
+              fill="none"
+              className="mr-2"
+            >
+              <path
+                d="M12.5 15L7.5 10L12.5 5"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+              />
+            </svg>
+            <span className="text-sm lg:text-base">홈으로</span>
           </button>
-          {categories.map((category) => {
-            const count = products.filter((p) => p.category === category).length;
-            return (
+
+          <div className="flex items-center justify-between mb-6">
+            <div>
+              <h1 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-2">
+                플랫포인트
+              </h1>
+              <p className="text-gray-600 text-sm lg:text-base">
+                전체 {filteredProducts.length}개 제품
+              </p>
+            </div>
+          </div>
+
+          {/* 카테고리 필터 */}
+          <div className="flex gap-2 overflow-x-auto scrollbar-hide pb-2">
+            {categories.map((category) => (
               <button
                 key={category}
                 onClick={() => setSelectedCategory(category)}
-                className={`px-4 py-2 rounded-full font-medium transition-colors ${
-                  selectedCategory === category
-                    ? "bg-black text-white"
-                    : "bg-white text-gray-700 hover:bg-gray-100"
-                }`}
+                className={`
+                  flex-shrink-0 px-4 py-2 rounded-full text-sm font-medium transition-all whitespace-nowrap
+                  ${
+                    selectedCategory === category
+                      ? "bg-gray-900 text-white shadow-md"
+                      : "bg-gray-100 text-gray-600 hover:bg-gray-200"
+                  }
+                `}
               >
-                {category} ({count})
+                {category}
               </button>
-            );
-          })}
+            ))}
+          </div>
         </div>
+      </header>
 
-        {/* 제품 그리드 */}
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          {filteredProducts.map((product, index) => (
-            <div
-              key={index}
-              onClick={() => handleProductClick(product)}
-              className="bg-white rounded-lg shadow-sm hover:shadow-md transition-shadow cursor-pointer overflow-hidden group"
-            >
-              <div className="aspect-square bg-gray-100 flex items-center justify-center overflow-hidden">
-                {product.imageUrl ? (
-                  <img
-                    src={product.imageUrl}
-                    alt={product.title}
-                    className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-                  />
-                ) : (
-                  <div className="text-center p-6">
-                    <div className="text-6xl mb-4">🪑</div>
-                    <div className="text-sm font-medium text-gray-700">
+      {/* Main Content */}
+      <main className="px-4 lg:px-8 pb-20">
+        <div className="max-w-[1400px] mx-auto">
+          {filteredProducts.length === 0 ? (
+            <div className="flex items-center justify-center min-h-[400px]">
+              <div className="text-center text-gray-400">
+                <p className="text-lg">제품을 불러오는 중...</p>
+              </div>
+            </div>
+          ) : (
+            <div className="grid grid-cols-2 lg:grid-cols-4 xl:grid-cols-5 gap-4 lg:gap-6 mt-8">
+              {filteredProducts.map((product: any, index: number) => (
+                <div
+                  key={`${product.productUrl}-${index}`}
+                  onClick={() => handleProductClick(product)}
+                  className="bg-white rounded-lg overflow-hidden shadow-sm hover:shadow-xl transition-all cursor-pointer border border-gray-100 hover:border-gray-300"
+                >
+                  {/* 제품 이미지 */}
+                  <div className="relative w-full aspect-square bg-gray-50">
+                    <img
+                      src={product.imageUrl}
+                      alt={product.title}
+                      className="w-full h-full object-cover"
+                      onError={(e) => {
+                        const target = e.target as HTMLImageElement;
+                        target.src = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='400'%3E%3Crect fill='%23f3f4f6' width='400' height='400'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%239ca3af' font-size='16' font-family='sans-serif'%3E이미지 없음%3C/text%3E%3C/svg%3E";
+                      }}
+                    />
+                  </div>
+
+                  {/* 제품 정보 */}
+                  <div className="p-3 lg:p-4">
+                    <div className="inline-block px-2 py-1 bg-gray-100 rounded text-xs text-gray-600 mb-2">
                       {product.category}
                     </div>
+                    <h3 className="text-sm lg:text-base font-medium text-gray-900 mb-2 line-clamp-2 min-h-[40px]">
+                      {product.title}
+                    </h3>
+                    <p className="text-base lg:text-lg font-bold text-gray-900">
+                      {product.price > 0
+                        ? `${product.price.toLocaleString()}원`
+                        : "가격 문의"}
+                    </p>
                   </div>
-                )}
-              </div>
-              <div className="p-4">
-                <h3 className="font-bold text-lg mb-2 group-hover:text-blue-600 transition-colors">
-                  {product.title}
-                </h3>
-                <p className="text-gray-600 text-sm mb-2">{product.category}</p>
-                {product.price > 0 && (
-                  <p className="text-lg font-bold">
-                    {product.price.toLocaleString()}원
-                  </p>
-                )}
-              </div>
+                </div>
+              ))}
             </div>
-          ))}
+          )}
         </div>
+      </main>
 
-        {/* 결과 없음 */}
-        {filteredProducts.length === 0 && (
-          <div className="text-center py-20">
-            <div className="text-2xl font-bold text-gray-400 mb-2">
-              검색 결과가 없습니다
-            </div>
-            <div className="text-gray-500">다른 검색어를 시도해보세요</div>
-          </div>
-        )}
-
-        {/* Footer */}
-        <div className="mt-12 text-center text-gray-500 text-sm">
-          <p>총 {filteredProducts.length}개 제품</p>
+      {/* Footer */}
+      <footer className="mt-16 py-8 bg-gray-50 border-t border-gray-200">
+        <div className="max-w-[1400px] mx-auto px-4 lg:px-8 text-center">
+          <p className="text-sm text-gray-500 mb-2">
+            와작 홈즈, scentdestination
+          </p>
+          <p className="text-xs text-gray-400">대표: 유선화</p>
         </div>
-      </div>
+      </footer>
     </div>
   );
 }
+
+
+

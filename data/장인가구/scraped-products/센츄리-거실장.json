@@ -1,0 +1,35 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=608",
+  "productName": "센츄리 거실장",
+  "price": 720000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_173518691046aamyv7p0.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2412/0ad8c5fb6118225a81e8d27fe847f38f_1735186881_5412.jpg\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2412/0ad8c5fb6118225a81e8d27fe847f38f_1735186886_9743.jpg\"></div><br><p>&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2412/0ad8c5fb6118225a81e8d27fe847f38f_1735186881_5412.jpg",
+    "https://www.jangin.com/data/editor/2412/0ad8c5fb6118225a81e8d27fe847f38f_1735186886_9743.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:07:00.415Z"
+}

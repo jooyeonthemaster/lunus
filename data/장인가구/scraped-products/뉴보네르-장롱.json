@@ -1,0 +1,68 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=578",
+  "productName": "뉴보네르 장롱",
+  "price": 1916000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1751874130vd6uhtynbu.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><div style=\"text-align: center;\"><img src=\"/data/editor/2507/ceb2a8358701dacf1b7ac2c0bcc6b8ea_1751874090_3195.png\"></div><div style=\"text-align: center;\" align=\"center\"><img src=\"/data/editor/2507/ceb2a8358701dacf1b7ac2c0bcc6b8ea_1751874096_5205.png\"></div><div style=\"text-align: center;\" align=\"center\"><br></div><p>&nbsp;</p><p style=\"text-align: center;\" align=\"center\"><img src=\"https://www.jangin.com/data/editor/1808/5e04041e00ec18b289f4d16720a87ee1_1533103082_6707.jpg\">&nbsp;</p><p style=\"text-align: center;\" align=\"center\">&nbsp;</p><p style=\"text-align: center;\" align=\"center\">&nbsp;</p><p>&nbsp;</p><div style=\"text-align: center;\" align=\"center\"><br></div><div style=\"text-align: center;\" align=\"center\">&nbsp;</div><p>&nbsp;</p>\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"text-align: center; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2507/ceb2a8358701dacf1b7ac2c0bcc6b8ea_1751874090_3195.png",
+    "https://www.jangin.com/data/editor/2507/ceb2a8358701dacf1b7ac2c0bcc6b8ea_1751874096_5205.png",
+    "https://www.jangin.com/data/editor/1808/5e04041e00ec18b289f4d16720a87ee1_1533103082_6707.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "P",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "text-align: center;"
+    },
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "text-align: center; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:19:29.850Z"
+}

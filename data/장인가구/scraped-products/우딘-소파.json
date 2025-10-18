@@ -1,0 +1,47 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=2&idx=593",
+  "productName": "우딘 소파",
+  "price": 684000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1731366234liz3c4mgpy.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p>&nbsp;</p><p><br style=\"clear:both;\">&nbsp;</p><p><br style=\"clear:both;\"><img src=\"/data/editor/2411/e240dacafde9f975b81602a301acefa9_1731366201_4234.jpg\"></p><p><img src=\"/data/editor/2504/fbac8ea4c5e468776163dd16dd51f320_1743659227_5274.png\"><br style=\"clear:both;\">&nbsp;</p><p><br style=\"clear:both;\"><br style=\"clear:both;\">&nbsp;</p>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/2411/e240dacafde9f975b81602a301acefa9_1731366201_4234.jpg",
+    "https://www.jangin.com/data/editor/2504/fbac8ea4c5e468776163dd16dd51f320_1743659227_5274.png"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:03:22.250Z"
+}

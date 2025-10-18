@@ -1,0 +1,43 @@
+{
+  "source": "jangin",
+  "brand": "장인가구",
+  "category": "",
+  "productUrl": "https://www.jangin.com/view.php?cate=1&idx=102",
+  "productName": "에반 드레스룸",
+  "price": 1592000,
+  "mainImage": "https://www.jangin.com/data/product/b_file_1533106935j642qywwpa.jpg",
+  "viewport": {
+    "width": 1920,
+    "height": 1080,
+    "device": "Desktop PC"
+  },
+  "detailHTML": "\n\t\t\t<p><img src=\"/data/editor/1912/7d7baadbe509fd08e3fd1c3451bdd0b2_1576136190_7071.jpg\"><br style=\"clear:both;\"><br style=\"clear: both;\"><img src=\"/data/editor/1808/5e04041e00ec18b289f4d16720a87ee1_1533106833_168.jpg\">&nbsp;</p><p>&nbsp;</p>\n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n    <iframe style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" src=\"https://www.youtube.com/embed/_Dl8WwfO-gs\" frameborder=\"0\" allowfullscreen=\"\"></iframe>\n</div>\t\t",
+  "detailImages": [
+    "https://www.jangin.com/data/editor/1912/7d7baadbe509fd08e3fd1c3451bdd0b2_1576136190_7071.jpg",
+    "https://www.jangin.com/data/editor/1808/5e04041e00ec18b289f4d16720a87ee1_1533106833_168.jpg"
+  ],
+  "cssLinks": [
+    "https://www.jangin.com/css/common.css",
+    "https://www.jangin.com/css/style.css",
+    "https://www.jangin.com/css/slick.css"
+  ],
+  "inlineStyles": [
+    {
+      "tag": "BR",
+      "style": "clear:both;"
+    },
+    {
+      "tag": "BR",
+      "style": "clear: both;"
+    },
+    {
+      "tag": "DIV",
+      "style": "position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"
+    },
+    {
+      "tag": "IFRAME",
+      "style": "position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+    }
+  ],
+  "scrapedAt": "2025-10-17T13:20:57.500Z"
+}
