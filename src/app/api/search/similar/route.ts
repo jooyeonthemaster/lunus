@@ -11,6 +11,8 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
 import Replicate from 'replicate';
+import fs from 'fs';
+import path from 'path';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
@@ -36,6 +38,51 @@ function getReplicateClient() {
     replicate = new Replicate({ auth: token });
   }
   return replicate;
+}
+
+// ============================================
+// 최신 크롤링 데이터 로드
+// ============================================
+let premiumProductsDataCache: any[] | null = null;
+
+function loadPremiumProductsData() {
+  if (!premiumProductsDataCache) {
+    const filePath = path.join(process.cwd(), 'data', 'premium-brands-unified.json');
+    const fileContent = fs.readFileSync(filePath, 'utf-8');
+    premiumProductsDataCache = JSON.parse(fileContent);
+  }
+  return premiumProductsDataCache;
+}
+
+// ============================================
+// Supabase 제품과 최신 크롤링 데이터 매칭
+// ============================================
+function matchProductWithLatestData(supabaseProduct: any) {
+  const premiumProductsData = loadPremiumProductsData();
+
+  if (!premiumProductsData) {
+    return supabaseProduct;
+  }
+
+  const matched = premiumProductsData.find((p: any) => {
+    const titleMatch = p.title === supabaseProduct.title;
+    const brandMatch = p.brand === supabaseProduct.brand;
+    const priceMatch = Math.abs(p.price - (supabaseProduct.price || 0)) < 1000;
+    return titleMatch && brandMatch && priceMatch;
+  });
+
+  if (matched) {
+    console.log(`✅ 매칭: ${supabaseProduct.title}`);
+    return {
+      ...supabaseProduct,
+      url: matched.productUrl,
+      image_url: matched.imageUrl,
+      _unified: matched
+    };
+  }
+
+  console.log(`❌ 매칭 실패: ${supabaseProduct.title}`);
+  return supabaseProduct;
 }
 
 // ============================================
@@ -101,11 +148,80 @@ async function vectorizeImage(imageInput: string | Buffer, isUrl: boolean = fals
 // ============================================
 export async function POST(request: NextRequest) {
   const startTime = Date.now();
-  
+
   try {
-    console.log('📸 Image upload received');
-    
-    // FormData에서 이미지 추출
+    const contentType = request.headers.get('content-type');
+
+    // JSON으로 imageUrl을 받는 경우 (좋아요 버튼)
+    if (contentType?.includes('application/json')) {
+      console.log('📸 Image URL search received');
+
+      const body = await request.json();
+      const imageUrl = body.imageUrl;
+
+      if (!imageUrl) {
+        return NextResponse.json({ success: false, error: 'No imageUrl provided' }, { status: 400 });
+      }
+
+      console.log('🔗 Image URL:', imageUrl);
+      const vectorizeStart = Date.now();
+      const embedding = await vectorizeImage(imageUrl, true);
+
+      if (!embedding) {
+        return NextResponse.json({ success: false, error: 'Vectorization failed' }, { status: 500 });
+      }
+
+      const vectorizeTime = Date.now() - vectorizeStart;
+      console.log(`✅ Vectorization complete (${vectorizeTime}ms)`);
+
+      const searchStart = Date.now();
+      const { data: products, error } = await supabase.rpc('match_products_by_image', {
+        query_embedding: embedding,
+        match_threshold: 0.1,
+        match_count: 30
+      });
+
+      if (error) {
+        console.error('Supabase RPC error:', error);
+        return NextResponse.json({ success: false, error: 'Search failed', details: error.message }, { status: 500 });
+      }
+
+      const searchTime = Date.now() - searchStart;
+      const totalTime = Date.now() - startTime;
+
+      console.log(`✅ Search complete (${searchTime}ms)`);
+      console.log(`📊 Found ${products?.length || 0} similar products`);
+      console.log(`⏱️  Total time: ${totalTime}ms`);
+
+      // 최신 크롤링 데이터와 URL 매칭
+      console.log('\n🔄 URL 매칭 시작...');
+      const matchedProducts = (products || []).map(matchProductWithLatestData);
+      console.log(`🔄 매칭 완료: ${matchedProducts.length}개`);
+
+      // 브랜드 분포 확인
+      const brandCounts: Record<string, number> = {};
+      matchedProducts.forEach((p: any) => {
+        brandCounts[p.brand] = (brandCounts[p.brand] || 0) + 1;
+      });
+      console.log('\n🏢 브랜드 분포:');
+      Object.entries(brandCounts)
+        .sort((a, b) => b[1] - a[1])
+        .forEach(([brand, count]) => {
+          console.log(`  ${brand}: ${count}개`);
+        });
+      console.log('');
+
+      return NextResponse.json({
+        success: true,
+        products: matchedProducts,
+        count: matchedProducts?.length || 0,
+        timing: { vectorize: vectorizeTime, search: searchTime, total: totalTime }
+      });
+    }
+
+    // FormData로 이미지 파일을 받는 경우 (사진 업로드)
+    console.log('📸 Image file upload received');
+
     const formData = await request.formData();
     const image = formData.get('image') as File;
     
@@ -231,7 +347,7 @@ export async function POST(request: NextRequest) {
     console.log(`✅ Search complete (${searchTime}ms)`);
     console.log(`📊 Found ${products?.length || 0} similar products`);
     console.log(`⏱️  Total time: ${totalTime}ms`);
-    
+
     // 디버깅: 상위 3개 결과 출력
     if (products && products.length > 0) {
       console.log('\n📋 상위 3개 결과:');
@@ -240,11 +356,29 @@ export async function POST(request: NextRequest) {
       });
       console.log('');
     }
-    
+
+    // 최신 크롤링 데이터와 URL 매칭
+    console.log('\n🔄 URL 매칭 시작...');
+    const matchedProducts = (products || []).map(matchProductWithLatestData);
+    console.log(`🔄 매칭 완료: ${matchedProducts.length}개`);
+
+    // 브랜드 분포 확인
+    const brandCounts: Record<string, number> = {};
+    matchedProducts.forEach((p: any) => {
+      brandCounts[p.brand] = (brandCounts[p.brand] || 0) + 1;
+    });
+    console.log('\n🏢 브랜드 분포:');
+    Object.entries(brandCounts)
+      .sort((a, b) => b[1] - a[1])
+      .forEach(([brand, count]) => {
+        console.log(`  ${brand}: ${count}개`);
+      });
+    console.log('');
+
     return NextResponse.json({
       success: true,
-      products: products || [],
-      count: products?.length || 0,
+      products: matchedProducts,
+      count: matchedProducts?.length || 0,
       timing: {
         vectorize: vectorizeTime,
         search: searchTime,

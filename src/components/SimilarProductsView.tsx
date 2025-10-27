@@ -29,11 +29,16 @@ export default function SimilarProductsView({
   }, [likedProduct.category, similarProducts]);
 
   const [selectedCategory, setSelectedCategory] = useState<string>("전체");
+  const [showAll, setShowAll] = useState(false);
 
   const filteredProducts = useMemo(() => {
-    if (selectedCategory === "전체") return similarProducts;
-    return similarProducts.filter(p => p.category === selectedCategory);
-  }, [similarProducts, selectedCategory]);
+    const filtered = selectedCategory === "전체"
+      ? similarProducts
+      : similarProducts.filter(p => p.category === selectedCategory);
+
+    // 처음엔 12개만 표시, "더보기" 클릭하면 전체 표시
+    return showAll ? filtered : filtered.slice(0, 12);
+  }, [similarProducts, selectedCategory, showAll]);
   return (
     <div className="min-h-screen bg-white">
       {/* Header */}
@@ -47,38 +52,51 @@ export default function SimilarProductsView({
       {/* Main Content */}
       <main className="px-4 lg:px-8 pb-20 lg:pb-8 overflow-y-auto">
         <div className="max-w-7xl mx-auto">
-          {/* PC: 좌우 분할, 모바일: 세로 레이아웃 */}
-          <div className="flex flex-col lg:flex-row lg:gap-12">
+          {/* 모바일/PC 모두 세로 레이아웃 */}
+          <div className="flex flex-col">
             {/* Liked Product Section */}
-            <div className="lg:w-1/3 lg:sticky lg:top-8 lg:self-start mb-8 lg:mb-0">
-              <div className="relative w-full h-64 lg:h-80 rounded-lg overflow-hidden bg-gray-50 mb-4 lg:mb-6">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={likedProduct.image}
-                  alt={likedProduct.name}
-                  className="w-full h-full object-cover"
-                />
-              </div>
-              <div className="text-center lg:text-left mb-2 lg:mb-3">
-                <p className="text-sm lg:text-base text-gray-400 mb-1">{likedProduct.brand}</p>
-                <h2 className="text-lg lg:text-2xl font-medium">{likedProduct.name}</h2>
-              </div>
-              <p className="text-center lg:text-left text-gray-600 text-sm lg:text-base mb-4 lg:mb-6">{likedProduct.description}</p>
-              <p className="text-center lg:text-left text-lg lg:text-xl font-bold text-gray-800 mb-6 lg:mb-8">{likedProduct.price.toLocaleString()}원</p>
-              
-              {/* Back Button - PC에서는 여기에 위치 */}
-              <div className="hidden lg:block">
-                <button
-                  onClick={onBackToMain}
-                  className="w-full py-4 bg-gray-800 text-white rounded-full font-medium hover:bg-gray-900 transition-colors"
-                >
-                  다른 제품 둘러보기
-                </button>
+            <div className="w-full mb-8 lg:mb-12">
+              <div className="flex flex-col lg:flex-row lg:items-start lg:gap-8">
+                {/* 제품 이미지 */}
+                <div className="relative w-full lg:w-80 h-64 lg:h-80 rounded-lg overflow-hidden bg-gray-50 mb-4 lg:mb-0 flex-shrink-0">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
+                  <img
+                    src={likedProduct.image}
+                    alt={likedProduct.name}
+                    className="w-full h-full object-cover"
+                  />
+                </div>
+
+                {/* 제품 정보 */}
+                <div className="flex-1">
+                  <div className="text-center lg:text-left mb-2 lg:mb-3">
+                    <p className="text-sm lg:text-base text-gray-400 mb-1">{likedProduct.brand}</p>
+                    <h2 className="text-lg lg:text-2xl font-medium line-clamp-2">{likedProduct.name}</h2>
+                  </div>
+                  <p className="text-center lg:text-left text-gray-600 text-sm lg:text-base mb-4 lg:mb-6 line-clamp-2">{likedProduct.description}</p>
+                  <p className="text-center lg:text-left text-lg lg:text-xl font-bold text-gray-800 mb-6 lg:mb-8">{likedProduct.price.toLocaleString()}원</p>
+
+                  {/* Buttons */}
+                  <div className="flex flex-col lg:flex-row gap-3">
+                    <button
+                      onClick={() => onProductClick?.(likedProduct)}
+                      className="w-full lg:flex-1 py-4 bg-gray-800 text-white rounded-full font-medium hover:bg-gray-900 transition-colors"
+                    >
+                      제품 상세보기
+                    </button>
+                    <button
+                      onClick={onBackToMain}
+                      className="w-full lg:flex-1 py-4 bg-gray-100 text-gray-800 rounded-full font-medium hover:bg-gray-200 transition-colors"
+                    >
+                      다른 제품 둘러보기
+                    </button>
+                  </div>
+                </div>
               </div>
             </div>
 
             {/* Similar Products Section */}
-            <div className="lg:flex-1">
+            <div className="w-full">
               {/* Category Filter */}
               <div className="mb-6 lg:mb-8">
                 <h3 className="text-lg lg:text-xl font-semibold mb-4 lg:mb-6">비슷한 제품들</h3>
@@ -100,10 +118,10 @@ export default function SimilarProductsView({
               </div>
 
               {/* Similar Products Grid - 반응형: 모바일 2열, 태블릿 3열, PC 3-4열 */}
-              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-4 lg:gap-6 mb-8">
+              <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 gap-4 lg:gap-6 mb-6">
                 {filteredProducts.map((product) => (
-                  <div 
-                    key={product.id} 
+                  <div
+                    key={product.id}
                     className="bg-white hover:shadow-lg transition-shadow rounded-lg overflow-hidden cursor-pointer"
                     onClick={() => onProductClick?.(product)}
                   >
@@ -133,15 +151,17 @@ export default function SimilarProductsView({
                 ))}
               </div>
 
-              {/* Back Button - 모바일에서만 표시 */}
-              <div className="lg:hidden">
-                <button
-                  onClick={onBackToMain}
-                  className="w-full py-4 bg-gray-800 text-white rounded-full font-medium hover:bg-gray-900 transition-colors"
-                >
-                  다른 제품 둘러보기
-                </button>
-              </div>
+              {/* 더보기 버튼 */}
+              {!showAll && (selectedCategory === "전체" ? similarProducts.length : similarProducts.filter(p => p.category === selectedCategory).length) > 12 && (
+                <div className="text-center mb-8">
+                  <button
+                    onClick={() => setShowAll(true)}
+                    className="px-8 py-3 bg-gray-800 text-white rounded-full font-medium hover:bg-gray-900 transition-colors"
+                  >
+                    더보기 ({(selectedCategory === "전체" ? similarProducts.length : similarProducts.filter(p => p.category === selectedCategory).length) - 12}개 더)
+                  </button>
+                </div>
+              )}
             </div>
           </div>
         </div>

@@ -6,6 +6,7 @@ import Image from "next/image";
 import { products, getRandomProduct, findSimilarProducts, categories } from "@/data/products";
 import type { Product } from "@/data/products";
 import { PREMIUM_BRANDS } from "@/types/unified-product";
+import { getBrandDetailUrl } from "@/utils/brand-detail-url";
 import SimilarProductsView from "@/components/SimilarProductsView";
 import PhotoSearchView from "@/components/PhotoSearchView";
 import MapView from "@/components/MapView";
@@ -25,20 +26,82 @@ export default function Home() {
   const [uploadedPhoto, setUploadedPhoto] = useState<File | null>(null);
   const [selectedProduct, setSelectedProduct] = useState<Product | null>(null);
   const [selectedTestBrand, setSelectedTestBrand] = useState(PREMIUM_BRANDS[0].source);
+  const [isSearching, setIsSearching] = useState(false); // AI 검색 로딩 상태
 
   useEffect(() => {
     setCurrentProduct(getRandomProduct());
   }, []);
 
-  const handleEvaluation = (evaluation: "like" | "maybe" | "dislike") => {
+  const handleEvaluation = async (evaluation: "like" | "maybe" | "dislike") => {
     if (!currentProduct) return;
 
     if (evaluation === "like") {
-      // 좋아요 클릭 시 유사 제품 페이지로 이동
-      const similar = findSimilarProducts(currentProduct.id, 8);
+      // 좋아요 클릭 시 AI 유사도 검색 실행
       setLikedProduct(currentProduct);
-      setSimilarProducts(similar);
-      setCurrentView("similar");
+      setIsSearching(true); // 로딩 시작
+
+      try {
+        console.log('❤️ 좋아요 클릭! AI 유사도 검색 시작:', currentProduct.name);
+        console.log('🖼️ 이미지 URL:', currentProduct.image);
+
+        // 이미지 URL을 직접 API에 전달
+        const apiResponse = await fetch('/api/search/similar', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            imageUrl: currentProduct.image
+          })
+        });
+
+        const data = await apiResponse.json();
+
+        console.log('🔍 AI 검색 결과:', data);
+        console.log('📊 유사 제품 수:', data.products?.length);
+
+        if (data.success && data.products && data.products.length > 0) {
+          // Supabase 제품을 Product 형식으로 변환
+          const convertedProducts = data.products.map((p: any) => ({
+            id: p.id || 'unknown',
+            name: p.title || '제품명 없음',
+            brand: p.brand || '브랜드 없음',
+            image: p.image_url || '',
+            category: p.category || '기타',
+            price: p.price || 0,
+            description: p.title || '',
+            tags: [],
+            externalUrl: p.url || undefined,
+            similarity: p.similarity,  // 유사도 점수
+            _unified: p._unified  // 상세 페이지 라우팅을 위한 unified 데이터
+          })).slice(0, 20);
+
+          console.log('✅ 변환 완료:', convertedProducts.length, '개 제품');
+          console.log('🎯 유사도 점수:', convertedProducts.map((p: Product) =>
+            `${p.name.substring(0, 20)}... - ${p.similarity ? (p.similarity * 100).toFixed(1) : 'N/A'}%`
+          ));
+          console.log('🔍 _unified 체크:', convertedProducts.map((p: Product) =>
+            `${p.name.substring(0, 15)}... - _unified: ${p._unified ? 'O' : 'X'}`
+          ));
+
+          setSimilarProducts(convertedProducts);
+          setCurrentView("similar");
+        } else {
+          // API 실패 시 폴백: 같은 카테고리 제품
+          console.warn('⚠️ AI 검색 실패, 카테고리 기반 추천으로 전환');
+          const similar = findSimilarProducts(currentProduct.id, 8);
+          setSimilarProducts(similar);
+          setCurrentView("similar");
+        }
+      } catch (error) {
+        console.error('❌ AI 유사도 검색 에러:', error);
+        // 에러 시 폴백: 같은 카테고리 제품
+        const similar = findSimilarProducts(currentProduct.id, 8);
+        setSimilarProducts(similar);
+        setCurrentView("similar");
+      } finally {
+        setIsSearching(false); // 로딩 종료
+      }
     } else {
       // 고민돼요, 별로에요 클릭 시 다음 제품 보여주기
       const nextProduct = getRandomProduct(selectedCategory === "전체" ? undefined : selectedCategory);
@@ -109,7 +172,8 @@ export default function Home() {
           description: p.title || '',
           tags: [],
           externalUrl: p.url || undefined,
-          similarity: p.similarity  // 유사도 추가!
+          similarity: p.similarity,  // 유사도 추가!
+          _unified: p._unified  // 🔥 상세 페이지 라우팅을 위한 unified 데이터
         })).slice(0, 20);  // 8개 → 20개로 증가
         
         console.log('🎯 Converted products:', convertedProducts.map((p: Product) => 
@@ -135,8 +199,35 @@ export default function Home() {
   };
 
   const handleProductClick = (product: Product) => {
-    setSelectedProduct(product);
-    setCurrentView("product-detail");
+    console.log('🖱️ 제품 클릭:', product.name);
+    console.log('   _unified 존재:', product._unified ? 'O' : 'X');
+    console.log('   브랜드:', product.brand);
+
+    // 🔥 _unified 데이터가 있으면 브랜드별 상세페이지로 라우팅
+    if (product._unified) {
+      console.log('   ✅ 브랜드별 상세페이지로 라우팅');
+      const detailUrl = getBrandDetailUrl({
+        title: product._unified.title,
+        productUrl: product._unified.productUrl,
+        origin: {
+          group: product._unified.brand
+        }
+      });
+
+      if (detailUrl) {
+        console.log('   🔗 라우팅 URL:', detailUrl);
+        router.push(detailUrl);
+      } else {
+        console.log('   ⚠️ URL 생성 실패, 외부 링크로 이동');
+        if (product._unified.productUrl) {
+          window.open(product._unified.productUrl, '_blank');
+        }
+      }
+    } else {
+      console.log('   ⚠️ ProductDetailView로 이동 (구형)');
+      setSelectedProduct(product);
+      setCurrentView("product-detail");
+    }
   };
 
   // 상품 상세 뷰 렌더링 (프리미엄 브랜드는 UnifiedProductDetail 사용)
@@ -415,25 +506,36 @@ export default function Home() {
                 </div>
 
                 {/* Question */}
-                <p className="text-center lg:text-left text-lg lg:text-xl font-bold mb-8 lg:mb-10">이 제품은 어떤가요?</p>
+                <p className="text-center lg:text-left text-lg lg:text-xl font-bold mb-8 lg:mb-10">
+                  {isSearching ? "AI가 유사한 제품을 찾고 있어요..." : "이 제품은 어떤가요?"}
+                </p>
 
                 {/* Evaluation Buttons */}
                 <div className="flex flex-col lg:flex-row gap-3 lg:gap-4">
                   <button
                     onClick={() => handleEvaluation("like")}
-                    className="flex-1 py-4 lg:py-5 px-4 lg:px-6 bg-gray-50 hover:bg-gray-100 rounded-full text-sm lg:text-base font-medium transition-colors text-gray-700"
+                    disabled={isSearching}
+                    className="flex-1 py-4 lg:py-5 px-4 lg:px-6 bg-gray-50 hover:bg-gray-100 rounded-full text-sm lg:text-base font-medium transition-colors text-gray-700 disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center gap-2"
                   >
+                    {isSearching && (
+                      <svg className="animate-spin h-5 w-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
+                        <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                      </svg>
+                    )}
                     좋아요
                   </button>
                   <button
                     onClick={() => handleEvaluation("maybe")}
-                    className="flex-1 py-4 lg:py-5 px-4 lg:px-6 bg-gray-300 hover:bg-gray-400 rounded-full text-sm lg:text-base font-medium transition-colors text-gray-800"
+                    disabled={isSearching}
+                    className="flex-1 py-4 lg:py-5 px-4 lg:px-6 bg-gray-300 hover:bg-gray-400 rounded-full text-sm lg:text-base font-medium transition-colors text-gray-800 disabled:opacity-50 disabled:cursor-not-allowed"
                   >
                     고민돼요
                   </button>
                   <button
                     onClick={() => handleEvaluation("dislike")}
-                    className="flex-1 py-4 lg:py-5 px-4 lg:px-6 bg-gray-600 hover:bg-gray-700 text-white rounded-full text-sm lg:text-base font-medium transition-colors"
+                    disabled={isSearching}
+                    className="flex-1 py-4 lg:py-5 px-4 lg:px-6 bg-gray-600 hover:bg-gray-700 text-white rounded-full text-sm lg:text-base font-medium transition-colors disabled:opacity-50 disabled:cursor-not-allowed"
                   >
                     별로에요
                   </button>

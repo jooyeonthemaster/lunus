@@ -27,12 +27,61 @@ function parseNumber(n: unknown): number | null {
   return null;
 }
 
-function normalize(p: Product) {
+function normalize(p: Product, group: string) {
   const title = (p.title ?? p.name ?? null) as string | null;
   const price = parseNumber(p.price ?? p.priceText ?? null);
   const productUrl = (p.productUrl ?? null) as string | null;
-  const imageUrl = (p.imageUrl ?? null) as string | null;
+  let imageUrl = (p.imageUrl ?? null) as string | null;
+
+  // 한샘 브랜드: thumbnailImages[0]을 우선 사용 (imageUrl이 배지 이미지인 경우가 있음)
+  if (group === '한샘' && (p as any).thumbnailImages && (p as any).thumbnailImages.length > 0) {
+    imageUrl = (p as any).thumbnailImages[0];
+  }
+
   return { title, price, productUrl, imageUrl };
+}
+
+// 브랜드별 상세 데이터 검증 함수
+function hasDetailData(product: any, brand: string): boolean {
+  switch(brand) {
+    case "알로소":
+      return !!(product.detailHTML || (product.detailImage1 && product.detailImage2));
+
+    case "플랫포인트":
+      return !!(product.detailHTML || (product.detailImages && product.detailImages.length > 0));
+
+    case "일룸":
+      return !!(product.detailHTML || product.galleryImages);
+
+    case "에몬스":
+      return !!(product.detailImage1 || product.detailImage2 || product.detailImage3);
+
+    case "한샘":
+      return !!((product.detailImages && product.detailImages.length > 0) ||
+                (product.thumbnailImages && product.thumbnailImages.length > 0));
+
+    case "우아미":
+      return !!(product.detailImages && product.detailImages.length > 0);
+
+    case "인아트":
+      return !!(product.detailImage);
+
+    case "장인가구":
+    case "에넥스":
+      return !!(product.detailHTML || product.detailImages);
+
+    default:
+      return false;
+  }
+}
+
+// 크롤링 모음에 있는 9개 브랜드인지 확인
+function isPremiumBrand(brandName: string): boolean {
+  const premiumBrands = [
+    "알로소", "플랫포인트", "일룸", "한샘",
+    "장인가구", "인아트", "에몬스", "우아미", "에넥스"
+  ];
+  return premiumBrands.includes(brandName);
 }
 
 function walkJsonFiles(startDir: string): string[] {
@@ -88,7 +137,13 @@ export async function GET() {
           categoryFromFile = fileNameNoExt;
         }
         for (const item of json) {
-          const prod = normalize(item || {});
+          // 1️⃣ 크롤링 모음 브랜드인지 확인
+          if (!isPremiumBrand(group)) continue;
+
+          // 2️⃣ 상세 데이터가 있는지 검증
+          if (!hasDetailData(item, group)) continue;
+
+          const prod = normalize(item || {}, group);
           const key = prod.productUrl || `${prod.title}|${prod.imageUrl}`;
           if (!key || seen.has(key)) continue;
           seen.add(key);

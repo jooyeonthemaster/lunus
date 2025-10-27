@@ -80,6 +80,19 @@ export default function ProductDetailView({
 
   return (
     <div className="min-h-screen bg-white">
+      {/* 🔥 디버깅: 구형 컴포넌트 확인 */}
+      <div style={{
+        background: 'linear-gradient(90deg, #ef4444 0%, #dc2626 100%)',
+        color: 'white',
+        padding: '12px 20px',
+        fontSize: '16px',
+        fontWeight: 'bold',
+        textAlign: 'center',
+        boxShadow: '0 4px 6px rgba(0,0,0,0.1)'
+      }}>
+        ❌ 구형 ProductDetailView 컴포넌트
+      </div>
+
       {/* Header */}
       <header className="px-4 lg:px-8 pt-6 lg:pt-24 pb-4 lg:pb-6 bg-white sticky top-0 z-10 border-b border-gray-100">
         <div className="flex items-center justify-between">

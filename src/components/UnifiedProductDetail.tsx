@@ -122,6 +122,19 @@ export default function UnifiedProductDetail({
 
   return (
     <div className="min-h-screen bg-white">
+      {/* 🔥 디버깅: 이 컴포넌트가 렌더링되는지 확인 */}
+      <div style={{
+        background: 'linear-gradient(90deg, #10b981 0%, #059669 100%)',
+        color: 'white',
+        padding: '12px 20px',
+        fontSize: '16px',
+        fontWeight: 'bold',
+        textAlign: 'center',
+        boxShadow: '0 4px 6px rgba(0,0,0,0.1)'
+      }}>
+        ✅ 최신 UnifiedProductDetail 컴포넌트 (프리미엄 브랜드 전용)
+      </div>
+
       {/* Header */}
       <header className="px-4 lg:px-8 pt-6 lg:pt-24 pb-4 lg:pb-6 bg-white border-b border-gray-100">
         <div className="max-w-6xl mx-auto">

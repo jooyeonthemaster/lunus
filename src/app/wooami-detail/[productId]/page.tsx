@@ -19,20 +19,23 @@ export default function WooamiDetailPage() {
   useEffect(() => {
     async function loadProductData() {
       try {
-        const decodedTitle = decodeURIComponent(productId);
+        // productId는 product_no (예: "1349")
+        const productNo = productId;
 
-        // products.json에서 제품 찾기
-        const foundProduct = wooamiProductsList.find(
-          (p: any) => p.title === decodedTitle
-        );
+        // products.json에서 product_no로 제품 찾기
+        const foundProduct = wooamiProductsList.find((p: any) => {
+          const match = p.productUrl?.match(/product_no=(\d+)/);
+          return match && match[1] === productNo;
+        });
 
         if (!foundProduct) {
+          console.error('❌ 제품을 찾을 수 없습니다. productNo:', productNo);
           setError("제품을 찾을 수 없습니다.");
           setLoading(false);
           return;
         }
 
-        console.log('✅ 제품 데이터 로드:', foundProduct);
+        console.log('✅ 제품 데이터 로드 (product_no:', productNo, '):', foundProduct);
 
         // 카테고리 정보 추가
         const categoryMap: Record<string, string> = {
@@ -219,6 +222,8 @@ export default function WooamiDetailPage() {
     </div>
   );
 }
+
+
 
 
 

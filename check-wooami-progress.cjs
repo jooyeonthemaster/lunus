@@ -43,3 +43,5 @@ console.log(`⏸️ 남음: ${totalProducts - totalWithDetails}개\n`);
 
 
 
+
+

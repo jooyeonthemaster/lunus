@@ -10,11 +10,17 @@ import premiumData from "../../data/premium-brands-unified.json";
 
 // UnifiedProduct → Product 변환
 export function convertToProduct(unified: UnifiedProduct): Product {
+  // 한샘 브랜드: thumbnailImages[0]을 우선 사용 (imageUrl이 배지 이미지인 경우가 있음)
+  let displayImage = unified.imageUrl;
+  if (unified.brand === '한샘' && (unified as any).thumbnailImages && (unified as any).thumbnailImages.length > 0) {
+    displayImage = (unified as any).thumbnailImages[0];
+  }
+
   return {
     id: `${unified.source}-${unified.title}-${unified.price}`,
     name: unified.title,
     brand: unified.brand,
-    image: unified.imageUrl,
+    image: displayImage,
     category: unified.category,
     price: unified.price,
     description: unified.title,

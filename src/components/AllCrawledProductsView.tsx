@@ -1,7 +1,9 @@
 "use client";
 
 import { useEffect, useState } from "react";
+import { useRouter } from "next/navigation";
 import BottomNavigation from "@/components/BottomNavigation";
+import { getBrandDetailUrl } from "@/utils/brand-detail-url";
 
 type CrawledProduct = {
   title: string | null;
@@ -24,12 +26,26 @@ export default function AllCrawledProductsView({
   onMapClick,
   onCartClick,
 }: AllCrawledProductsViewProps) {
+  const router = useRouter();
   const [loading, setLoading] = useState(false);
   const [items, setItems] = useState<CrawledProduct[]>([]);
   const [group, setGroup] = useState<string>("전체");
   const [category, setCategory] = useState<string>("전체");
   const [page, setPage] = useState<number>(1);
   const pageSize = 10;
+
+  // 상품 클릭 핸들러
+  const handleProductClick = (product: CrawledProduct) => {
+    const detailUrl = getBrandDetailUrl(product);
+    if (detailUrl) {
+      router.push(detailUrl);
+    } else {
+      // 폴백: 외부 링크
+      if (product.productUrl) {
+        window.open(product.productUrl, '_blank');
+      }
+    }
+  };
 
   useEffect(() => {
     let mounted = true;
@@ -136,12 +152,10 @@ export default function AllCrawledProductsView({
           {/* Grid */}
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 lg:gap-6 mb-8">
             {current.map((p, idx) => (
-              <a
+              <div
                 key={idx}
-                href={p.productUrl || undefined}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="bg-white hover:shadow-lg transition-shadow rounded-lg overflow-hidden cursor-pointer block"
+                onClick={() => handleProductClick(p)}
+                className="bg-white hover:shadow-lg transition-shadow rounded-lg overflow-hidden cursor-pointer"
               >
                 <div className="relative w-full h-40 lg:h-48 overflow-hidden bg-gray-50 mb-3">
                   {p.imageUrl ? (
@@ -158,8 +172,11 @@ export default function AllCrawledProductsView({
                   <p className="text-sm lg:text-base font-semibold">
                     {p.price != null ? `${p.price.toLocaleString()}원` : ""}
                   </p>
+                  <p className="text-xs text-gray-500 mt-1">
+                    {p.origin?.group || ""}
+                  </p>
                 </div>
-              </a>
+              </div>
             ))}
           </div>
 
